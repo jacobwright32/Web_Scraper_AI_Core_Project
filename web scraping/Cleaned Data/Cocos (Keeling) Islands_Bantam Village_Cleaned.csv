@@ -1,4 +1,4 @@
-Date,Maximum Temprature (°C),Minimum Temprature (°C),Wind Speed (km/h),Wind Direction,Amount of Rain (mm),Humidity (%),Cloud Coverage (%),Pressure (mb)
+Date,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
 2009-01-01,28,28,19,W,0.2,74,25,1008
 2009-01-02,28,28,17,W,0.5,74,27,1009
 2009-01-03,28,28,11,W,0.3,74,16,1010
@@ -4557,3 +4557,5 @@ Date,Maximum Temprature (°C),Minimum Temprature (°C),Wind Speed (km/h),Wind Di
 2021-06-25,28,23,8,ENE,5.7,72,79,1010
 2021-06-26,28,22,15,ESE,0.8,75,74,1011
 2021-06-27,29,22,16,SE,0.9,73,57,1011
+2021-06-28,28,24,8,SE,3.5,70,63,1011
+2021-06-29,27,24,13,WNW,27.2,75,78,1011
