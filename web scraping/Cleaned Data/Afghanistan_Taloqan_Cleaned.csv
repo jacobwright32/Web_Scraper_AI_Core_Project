@@ -1,4 +1,4 @@
-Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
+date,country,city,maximum_temprature,minimum_temprature,wind_speed,wind_direction,amount_of_rain,humidity,cloud_coverage,pressure
 2009-01-01,Afghanistan,Taloqan,15,2,5,E,0.0,38,19,1020
 2009-01-02,Afghanistan,Taloqan,16,10,8,SW,3.8,60,44,1013
 2009-01-03,Afghanistan,Taloqan,2,1,11,WSW,24.0,93,80,1020
@@ -4559,3 +4559,4 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-27,Afghanistan,Taloqan,40,28,9,WSW,0.0,12,6,1004
 2021-06-28,Afghanistan,Taloqan,40,29,13,WSW,0.0,11,9,1004
 2021-06-29,Afghanistan,Taloqan,40,30,10,WSW,0.0,10,18,1003
+2021-06-30,Afghanistan,Taloqan,40,32,13,WSW,0.0,10,19,1002

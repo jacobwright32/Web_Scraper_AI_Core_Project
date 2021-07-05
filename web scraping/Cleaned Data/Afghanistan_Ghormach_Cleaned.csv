@@ -1,4 +1,4 @@
-Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
+date,country,city,maximum_temprature,minimum_temprature,wind_speed,wind_direction,amount_of_rain,humidity,cloud_coverage,pressure
 2009-01-01,Afghanistan,Ghormach,15,5,10,SE,0.0,43,37,1017
 2009-01-02,Afghanistan,Ghormach,9,4,11,S,6.8,63,48,1013
 2009-01-03,Afghanistan,Ghormach,1,-3,13,ESE,20.9,84,75,1024
@@ -17,7 +17,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-01-16,Afghanistan,Ghormach,3,-5,6,SSE,0.7,83,42,1030
 2009-01-17,Afghanistan,Ghormach,4,-7,7,ESE,0.0,78,15,1027
 2009-01-18,Afghanistan,Ghormach,9,0,14,SSE,0.0,63,17,1025
-2009-01-19,Afghanistan,Ghormach,11,1,13,SE,0.0,56,4,1027
+2009-01-19,Afghanistan,Ghormach,9,0,14,SSE,0.0,63,17,1025
 2009-01-20,Afghanistan,Ghormach,11,2,10,SE,0.0,48,45,1022
 2009-01-21,Afghanistan,Ghormach,12,0,11,E,0.0,53,11,1023
 2009-01-22,Afghanistan,Ghormach,9,0,10,SE,0.0,52,6,1024
@@ -59,7 +59,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-02-27,Afghanistan,Ghormach,20,8,12,E,0.0,36,7,1020
 2009-02-28,Afghanistan,Ghormach,22,11,15,SSE,3.2,44,25,1013
 2009-03-01,Afghanistan,Ghormach,25,11,16,SSW,0.2,45,17,1009
-2009-03-02,Afghanistan,Ghormach,18,13,13,SSE,4.4,58,30,1006
+2009-03-02,Afghanistan,Ghormach,25,11,16,SSW,0.2,45,17,1009
 2009-03-03,Afghanistan,Ghormach,10,6,11,WSW,45.0,86,65,1012
 2009-03-04,Afghanistan,Ghormach,14,5,10,SSE,0.1,53,34,1015
 2009-03-05,Afghanistan,Ghormach,12,4,10,WSW,0.0,60,14,1017
@@ -222,7 +222,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-08-09,Afghanistan,Ghormach,38,23,13,E,0.0,11,0,1004
 2009-08-10,Afghanistan,Ghormach,37,25,11,SSW,0.0,12,0,1005
 2009-08-11,Afghanistan,Ghormach,34,23,16,NNE,0.0,19,0,1009
-2009-08-12,Afghanistan,Ghormach,34,23,16,NNE,0.0,19,0,1009
+2009-08-12,Afghanistan,Ghormach,36,24,17,NE,0.0,16,0,1008
 2009-08-13,Afghanistan,Ghormach,41,23,15,NNE,0.0,14,0,1007
 2009-08-14,Afghanistan,Ghormach,39,24,11,SSE,0.0,12,0,1009
 2009-08-15,Afghanistan,Ghormach,37,23,14,ESE,0.0,13,0,1009
@@ -382,7 +382,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-01-16,Afghanistan,Ghormach,13,4,9,SSW,0.0,27,43,1023
 2010-01-17,Afghanistan,Ghormach,12,2,9,SSE,0.0,42,16,1029
 2010-01-18,Afghanistan,Ghormach,8,-1,12,NE,0.0,65,10,1033
-2010-01-19,Afghanistan,Ghormach,11,-1,7,E,0.0,48,25,1024
+2010-01-19,Afghanistan,Ghormach,8,-1,12,NE,0.0,65,10,1033
 2010-01-20,Afghanistan,Ghormach,20,8,11,S,0.0,36,13,1019
 2010-01-21,Afghanistan,Ghormach,20,7,6,SW,0.1,38,29,1019
 2010-01-22,Afghanistan,Ghormach,17,9,7,SW,0.1,55,28,1019
@@ -424,7 +424,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-02-27,Afghanistan,Ghormach,19,10,11,SE,3.7,67,33,1012
 2010-02-28,Afghanistan,Ghormach,12,11,9,SSW,12.8,81,43,1012
 2010-03-01,Afghanistan,Ghormach,16,5,7,SSE,1.3,65,13,1019
-2010-03-02,Afghanistan,Ghormach,19,6,11,ESE,0.0,40,31,1014
+2010-03-02,Afghanistan,Ghormach,16,5,7,SSE,1.3,65,13,1019
 2010-03-03,Afghanistan,Ghormach,9,5,8,SW,9.3,82,49,1009
 2010-03-04,Afghanistan,Ghormach,15,3,12,S,0.1,57,19,1011
 2010-03-05,Afghanistan,Ghormach,8,4,9,WSW,24.9,81,68,1014
@@ -587,7 +587,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-08-09,Afghanistan,Ghormach,33,19,9,E,0.0,15,19,1008
 2010-08-10,Afghanistan,Ghormach,32,22,10,SE,0.0,15,4,1009
 2010-08-11,Afghanistan,Ghormach,32,18,10,SSE,0.0,17,0,1009
-2010-08-12,Afghanistan,Ghormach,32,18,10,SSE,0.0,17,0,1009
+2010-08-12,Afghanistan,Ghormach,29,20,9,SW,0.0,15,0,1011
 2010-08-13,Afghanistan,Ghormach,29,16,8,W,0.0,13,0,1011
 2010-08-14,Afghanistan,Ghormach,30,15,9,SSE,0.0,13,0,1010
 2010-08-15,Afghanistan,Ghormach,31,19,10,ENE,0.0,15,0,1010
@@ -747,7 +747,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-01-16,Afghanistan,Ghormach,7,-4,8,SE,2.2,79,37,1017
 2011-01-17,Afghanistan,Ghormach,2,-6,5,S,0.2,89,38,1023
 2011-01-18,Afghanistan,Ghormach,7,-1,8,E,0.0,76,4,1025
-2011-01-19,Afghanistan,Ghormach,8,1,7,SE,0.4,55,30,1019
+2011-01-19,Afghanistan,Ghormach,7,-1,8,E,0.0,76,4,1025
 2011-01-20,Afghanistan,Ghormach,4,-1,6,SSE,5.1,75,73,1022
 2011-01-21,Afghanistan,Ghormach,10,-4,6,SE,0.0,71,9,1026
 2011-01-22,Afghanistan,Ghormach,3,-5,8,NE,0.0,73,5,1029
@@ -789,7 +789,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-02-27,Afghanistan,Ghormach,14,-6,10,SE,0.2,60,42,1024
 2011-02-28,Afghanistan,Ghormach,0,-4,7,S,2.4,85,69,1026
 2011-03-01,Afghanistan,Ghormach,-2,-8,7,SSW,8.9,91,59,1023
-2011-03-02,Afghanistan,Ghormach,5,-2,6,WSW,6.1,88,60,1024
+2011-03-02,Afghanistan,Ghormach,-2,-8,7,SSW,8.9,91,59,1023
 2011-03-03,Afghanistan,Ghormach,13,-2,9,SSE,1.2,67,52,1016
 2011-03-04,Afghanistan,Ghormach,17,6,9,SSE,0.2,54,54,1014
 2011-03-05,Afghanistan,Ghormach,16,8,12,SSW,1.1,51,55,1015
@@ -952,7 +952,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-08-09,Afghanistan,Ghormach,30,20,16,NNE,0.0,16,0,1010
 2011-08-10,Afghanistan,Ghormach,30,19,14,NNE,0.0,17,0,1008
 2011-08-11,Afghanistan,Ghormach,29,19,10,S,0.0,16,0,1006
-2011-08-12,Afghanistan,Ghormach,29,19,10,S,0.0,16,0,1006
+2011-08-12,Afghanistan,Ghormach,29,18,9,WSW,0.0,13,0,1004
 2011-08-13,Afghanistan,Ghormach,30,19,8,SSW,0.0,14,0,1003
 2011-08-14,Afghanistan,Ghormach,31,20,7,S,0.0,12,0,1005
 2011-08-15,Afghanistan,Ghormach,33,23,10,E,0.0,12,0,1006
@@ -1112,7 +1112,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-01-16,Afghanistan,Ghormach,9,-5,7,E,0.0,48,0,1022
 2012-01-17,Afghanistan,Ghormach,8,-1,5,ENE,0.0,47,0,1021
 2012-01-18,Afghanistan,Ghormach,3,-6,4,SSE,0.0,52,0,1023
-2012-01-19,Afghanistan,Ghormach,4,-3,4,SE,0.0,47,2,1022
+2012-01-19,Afghanistan,Ghormach,3,-6,4,SSE,0.0,52,0,1023
 2012-01-20,Afghanistan,Ghormach,7,-3,7,ENE,0.0,33,7,1020
 2012-01-21,Afghanistan,Ghormach,6,-2,9,SSW,0.0,42,47,1017
 2012-01-22,Afghanistan,Ghormach,-2,-5,8,WSW,0.6,64,44,1022
@@ -1154,7 +1154,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-02-27,Afghanistan,Ghormach,11,0,7,SSE,14.9,78,40,1020
 2012-02-28,Afghanistan,Ghormach,14,1,9,ESE,0.0,53,14,1017
 2012-03-01,Afghanistan,Ghormach,15,3,14,SE,0.2,45,18,1008
-2012-03-02,Afghanistan,Ghormach,15,5,16,SSE,3.4,52,16,1005
+2012-03-02,Afghanistan,Ghormach,15,3,14,SE,0.2,45,18,1008
 2012-03-03,Afghanistan,Ghormach,22,9,20,S,0.0,44,20,999
 2012-03-04,Afghanistan,Ghormach,11,2,9,SW,1.5,67,44,1011
 2012-03-05,Afghanistan,Ghormach,14,3,19,S,0.0,33,33,1012
@@ -1317,7 +1317,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-08-09,Afghanistan,Ghormach,37,23,11,SW,0.0,11,0,1005
 2012-08-10,Afghanistan,Ghormach,32,22,9,SE,0.0,13,0,1005
 2012-08-11,Afghanistan,Ghormach,33,22,11,SSE,0.0,15,0,1006
-2012-08-12,Afghanistan,Ghormach,33,22,11,SSE,0.0,15,0,1006
+2012-08-12,Afghanistan,Ghormach,35,22,11,E,0.0,17,0,1007
 2012-08-13,Afghanistan,Ghormach,33,23,11,ESE,0.0,16,0,1006
 2012-08-14,Afghanistan,Ghormach,32,23,12,NE,0.0,13,0,1007
 2012-08-15,Afghanistan,Ghormach,37,23,10,ESE,0.0,12,0,1008
@@ -1477,7 +1477,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-01-16,Afghanistan,Ghormach,-4,-8,12,NNE,2.3,83,52,1037
 2013-01-17,Afghanistan,Ghormach,2,-8,5,ENE,0.0,75,6,1031
 2013-01-18,Afghanistan,Ghormach,4,-7,9,SSE,0.0,45,25,1021
-2013-01-19,Afghanistan,Ghormach,6,-4,10,SSE,0.0,44,16,1023
+2013-01-19,Afghanistan,Ghormach,4,-7,9,SSE,0.0,45,25,1021
 2013-01-20,Afghanistan,Ghormach,13,1,13,SE,0.0,46,10,1021
 2013-01-21,Afghanistan,Ghormach,14,6,11,SSE,0.2,51,24,1017
 2013-01-22,Afghanistan,Ghormach,10,5,8,SE,1.9,78,36,1024
@@ -1519,7 +1519,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-02-27,Afghanistan,Ghormach,10,-1,5,S,0.1,61,15,1025
 2013-02-28,Afghanistan,Ghormach,19,4,11,SSE,0.0,41,19,1020
 2013-03-01,Afghanistan,Ghormach,21,6,12,SSE,0.0,37,35,1018
-2013-03-02,Afghanistan,Ghormach,20,8,15,SSE,0.8,36,23,1017
+2013-03-02,Afghanistan,Ghormach,21,6,12,SSE,0.0,37,35,1018
 2013-03-03,Afghanistan,Ghormach,11,6,7,ESE,3.4,65,34,1021
 2013-03-04,Afghanistan,Ghormach,21,9,9,SE,0.0,44,19,1020
 2013-03-05,Afghanistan,Ghormach,27,10,18,SSE,0.0,24,5,1014
@@ -1682,7 +1682,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-08-09,Afghanistan,Ghormach,32,22,15,NE,0.0,20,1,1006
 2013-08-10,Afghanistan,Ghormach,29,20,17,NNE,0.0,27,21,1007
 2013-08-11,Afghanistan,Ghormach,29,19,18,NE,0.0,24,6,1008
-2013-08-12,Afghanistan,Ghormach,29,19,18,NE,0.0,24,6,1008
+2013-08-12,Afghanistan,Ghormach,30,21,17,NNE,0.0,22,8,1010
 2013-08-13,Afghanistan,Ghormach,29,19,17,NNE,0.0,26,7,1012
 2013-08-14,Afghanistan,Ghormach,29,18,16,NNE,0.0,23,0,1010
 2013-08-15,Afghanistan,Ghormach,32,18,14,ESE,0.0,16,0,1010
@@ -1842,7 +1842,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-01-16,Afghanistan,Ghormach,5,-4,12,NE,0.0,74,36,1031
 2014-01-17,Afghanistan,Ghormach,8,-2,5,ESE,0.0,65,14,1026
 2014-01-18,Afghanistan,Ghormach,10,-2,7,S,0.0,48,45,1022
-2014-01-19,Afghanistan,Ghormach,8,1,7,ESE,0.0,47,57,1022
+2014-01-19,Afghanistan,Ghormach,10,-2,7,S,0.0,48,45,1022
 2014-01-20,Afghanistan,Ghormach,8,5,3,SSW,1.3,70,78,1021
 2014-01-21,Afghanistan,Ghormach,12,3,3,S,0.2,73,37,1021
 2014-01-22,Afghanistan,Ghormach,13,5,5,SSW,0.4,64,30,1022
@@ -1884,7 +1884,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-02-27,Afghanistan,Ghormach,9,-4,7,NE,0.0,55,2,1026
 2014-02-28,Afghanistan,Ghormach,10,0,6,ESE,0.0,53,4,1020
 2014-03-01,Afghanistan,Ghormach,17,4,7,SW,0.0,41,18,1017
-2014-03-02,Afghanistan,Ghormach,10,6,9,WSW,12.5,77,74,1020
+2014-03-02,Afghanistan,Ghormach,17,4,7,SW,0.0,41,18,1017
 2014-03-03,Afghanistan,Ghormach,8,-1,6,WSW,0.5,76,44,1019
 2014-03-04,Afghanistan,Ghormach,13,2,7,S,0.0,49,36,1017
 2014-03-05,Afghanistan,Ghormach,23,9,13,S,0.4,38,26,1014
@@ -2047,7 +2047,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-08-09,Afghanistan,Ghormach,37,23,12,NE,0.0,13,0,1008
 2014-08-10,Afghanistan,Ghormach,35,24,11,SE,0.0,12,0,1009
 2014-08-11,Afghanistan,Ghormach,32,22,11,ESE,0.0,12,0,1008
-2014-08-12,Afghanistan,Ghormach,32,22,11,ESE,0.0,12,0,1008
+2014-08-12,Afghanistan,Ghormach,32,22,10,SE,0.0,11,0,1007
 2014-08-13,Afghanistan,Ghormach,34,23,11,E,0.0,11,0,1008
 2014-08-14,Afghanistan,Ghormach,31,24,15,SSE,0.0,17,1,1010
 2014-08-15,Afghanistan,Ghormach,29,21,16,S,0.0,19,1,1013
@@ -2207,7 +2207,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-01-16,Afghanistan,Ghormach,12,-1,4,SE,0.0,33,33,1019
 2015-01-17,Afghanistan,Ghormach,10,1,8,E,0.0,31,20,1020
 2015-01-18,Afghanistan,Ghormach,4,0,8,SW,0.2,68,31,1022
-2015-01-19,Afghanistan,Ghormach,0,-2,11,NNE,16.5,85,85,1022
+2015-01-19,Afghanistan,Ghormach,4,0,8,SW,0.2,68,31,1022
 2015-01-20,Afghanistan,Ghormach,-1,-4,16,NNE,11.0,87,98,1025
 2015-01-21,Afghanistan,Ghormach,4,-4,7,NE,1.0,66,89,1025
 2015-01-22,Afghanistan,Ghormach,8,0,5,SSE,0.1,59,10,1025
@@ -2249,7 +2249,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-02-27,Afghanistan,Ghormach,3,1,13,NNE,2.8,85,90,1029
 2015-02-28,Afghanistan,Ghormach,3,-4,10,NE,0.3,81,53,1027
 2015-03-01,Afghanistan,Ghormach,5,-3,2,S,0.0,77,12,1018
-2015-03-02,Afghanistan,Ghormach,10,-2,5,S,0.0,67,9,1015
+2015-03-02,Afghanistan,Ghormach,5,-3,2,S,0.0,77,12,1018
 2015-03-03,Afghanistan,Ghormach,15,5,8,SSE,2.6,56,50,1017
 2015-03-04,Afghanistan,Ghormach,14,5,8,E,0.2,68,30,1016
 2015-03-05,Afghanistan,Ghormach,15,6,6,SSE,1.6,61,36,1016
@@ -2412,7 +2412,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-08-09,Afghanistan,Ghormach,28,19,21,NNE,0.0,14,0,1014
 2015-08-10,Afghanistan,Ghormach,27,19,25,NE,0.0,14,0,1015
 2015-08-11,Afghanistan,Ghormach,29,19,19,NE,0.0,11,0,1014
-2015-08-12,Afghanistan,Ghormach,29,19,19,NE,0.0,11,0,1014
+2015-08-12,Afghanistan,Ghormach,31,20,15,NNE,0.0,11,0,1011
 2015-08-13,Afghanistan,Ghormach,31,21,15,NNE,0.0,11,0,1011
 2015-08-14,Afghanistan,Ghormach,31,25,24,NE,0.0,15,0,1011
 2015-08-15,Afghanistan,Ghormach,31,19,13,SE,0.0,17,0,1011
@@ -2572,7 +2572,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-01-16,Afghanistan,Ghormach,5,1,12,SSW,0.0,64,21,1025
 2016-01-17,Afghanistan,Ghormach,6,2,13,NE,0.0,74,29,1028
 2016-01-18,Afghanistan,Ghormach,7,-4,7,ENE,0.0,57,7,1025
-2016-01-19,Afghanistan,Ghormach,19,2,9,SE,0.0,16,3,1017
+2016-01-19,Afghanistan,Ghormach,7,-4,7,ENE,0.0,57,7,1025
 2016-01-20,Afghanistan,Ghormach,15,7,9,SW,0.0,18,0,1017
 2016-01-21,Afghanistan,Ghormach,14,5,6,SW,0.0,38,1,1026
 2016-01-22,Afghanistan,Ghormach,14,4,4,E,0.0,46,7,1024
@@ -2614,7 +2614,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-02-27,Afghanistan,Ghormach,18,5,9,NE,0.0,45,3,1025
 2016-02-28,Afghanistan,Ghormach,23,5,5,SE,0.0,45,7,1022
 2016-03-01,Afghanistan,Ghormach,14,9,14,SW,1.2,70,75,1025
-2016-03-02,Afghanistan,Ghormach,13,5,10,NNE,0.0,61,25,1025
+2016-03-02,Afghanistan,Ghormach,14,9,14,SW,1.2,70,75,1025
 2016-03-03,Afghanistan,Ghormach,17,6,5,E,0.2,67,23,1021
 2016-03-04,Afghanistan,Ghormach,20,9,6,S,0.0,56,13,1015
 2016-03-05,Afghanistan,Ghormach,19,8,7,S,0.0,43,6,1014
@@ -2777,7 +2777,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-08-09,Afghanistan,Ghormach,32,22,12,SSE,0.0,17,0,1006
 2016-08-10,Afghanistan,Ghormach,34,23,14,NNE,0.0,17,0,1007
 2016-08-11,Afghanistan,Ghormach,33,24,13,SW,0.0,15,0,1008
-2016-08-12,Afghanistan,Ghormach,33,24,13,SW,0.0,15,0,1008
+2016-08-12,Afghanistan,Ghormach,37,19,10,SE,0.0,11,0,1009
 2016-08-13,Afghanistan,Ghormach,30,23,13,SW,0.0,12,0,1010
 2016-08-14,Afghanistan,Ghormach,30,21,13,SSE,0.0,14,1,1008
 2016-08-15,Afghanistan,Ghormach,29,21,13,S,0.0,16,0,1009
@@ -2937,7 +2937,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-01-16,Afghanistan,Ghormach,7,-2,4,SSW,0.0,57,43,1024
 2017-01-17,Afghanistan,Ghormach,4,-3,4,SW,0.0,59,39,1027
 2017-01-18,Afghanistan,Ghormach,4,-5,4,SSE,0.0,53,4,1028
-2017-01-19,Afghanistan,Ghormach,8,-3,7,ESE,0.0,40,33,1026
+2017-01-19,Afghanistan,Ghormach,4,-5,4,SSE,0.0,53,4,1028
 2017-01-20,Afghanistan,Ghormach,11,0,8,SW,0.1,39,25,1025
 2017-01-21,Afghanistan,Ghormach,5,1,4,SE,16.4,74,74,1024
 2017-01-22,Afghanistan,Ghormach,10,1,5,ESE,9.3,80,65,1021
@@ -2979,7 +2979,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-02-27,Afghanistan,Ghormach,6,3,10,W,0.1,60,21,1023
 2017-02-28,Afghanistan,Ghormach,9,-3,5,SSE,0.0,78,7,1026
 2017-03-01,Afghanistan,Ghormach,14,4,7,SSW,0.0,70,12,1026
-2017-03-02,Afghanistan,Ghormach,9,-1,9,ENE,0.0,62,3,1025
+2017-03-02,Afghanistan,Ghormach,14,4,7,SSW,0.0,70,12,1026
 2017-03-03,Afghanistan,Ghormach,13,0,10,NE,0.0,54,3,1022
 2017-03-04,Afghanistan,Ghormach,9,-4,6,E,0.0,53,3,1018
 2017-03-05,Afghanistan,Ghormach,11,-1,8,ESE,0.0,51,17,1018
@@ -3142,7 +3142,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-08-09,Afghanistan,Ghormach,36,25,15,SE,0.0,14,2,1007
 2017-08-10,Afghanistan,Ghormach,33,23,14,E,0.0,11,0,1007
 2017-08-11,Afghanistan,Ghormach,32,24,20,NE,0.0,14,1,1010
-2017-08-12,Afghanistan,Ghormach,32,24,20,NE,0.0,14,1,1010
+2017-08-12,Afghanistan,Ghormach,27,21,24,NNE,0.0,17,1,1012
 2017-08-13,Afghanistan,Ghormach,29,16,13,ESE,0.0,12,0,1011
 2017-08-14,Afghanistan,Ghormach,27,16,12,NNE,0.0,12,0,1011
 2017-08-15,Afghanistan,Ghormach,33,19,12,NE,0.0,9,0,1010
@@ -3302,7 +3302,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-01-16,Afghanistan,Ghormach,3,-1,7,NNW,0.0,64,57,1026
 2018-01-17,Afghanistan,Ghormach,6,-5,7,ENE,0.0,55,7,1024
 2018-01-18,Afghanistan,Ghormach,9,-2,6,E,0.0,29,37,1018
-2018-01-19,Afghanistan,Ghormach,15,2,9,SSE,0.0,19,1,1018
+2018-01-19,Afghanistan,Ghormach,9,-2,6,E,0.0,29,37,1018
 2018-01-20,Afghanistan,Ghormach,14,3,6,SE,0.0,17,0,1016
 2018-01-21,Afghanistan,Ghormach,9,-1,9,WSW,0.0,38,11,1018
 2018-01-22,Afghanistan,Ghormach,11,1,5,S,0.0,57,6,1021
@@ -3344,7 +3344,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-02-27,Afghanistan,Ghormach,16,6,10,SSE,0.0,43,23,1016
 2018-02-28,Afghanistan,Ghormach,23,11,9,SSW,1.5,44,43,1014
 2018-03-01,Afghanistan,Ghormach,11,8,9,SSW,6.4,84,79,1014
-2018-03-02,Afghanistan,Ghormach,14,4,6,S,0.4,74,40,1016
+2018-03-02,Afghanistan,Ghormach,11,8,9,SSW,6.4,84,79,1014
 2018-03-03,Afghanistan,Ghormach,14,3,5,SSE,0.1,63,32,1017
 2018-03-04,Afghanistan,Ghormach,21,9,5,SE,3.2,54,38,1014
 2018-03-05,Afghanistan,Ghormach,25,13,18,S,0.0,37,4,1013
@@ -3507,7 +3507,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-08-09,Afghanistan,Ghormach,33,24,17,NE,0.0,19,0,1007
 2018-08-10,Afghanistan,Ghormach,34,23,15,NE,0.0,15,0,1008
 2018-08-11,Afghanistan,Ghormach,35,25,21,NNE,0.0,17,0,1009
-2018-08-12,Afghanistan,Ghormach,35,25,21,NNE,0.0,17,0,1009
+2018-08-12,Afghanistan,Ghormach,28,21,23,NNE,0.0,26,3,1012
 2018-08-13,Afghanistan,Ghormach,29,18,15,NNE,0.0,16,0,1009
 2018-08-14,Afghanistan,Ghormach,31,20,16,NNE,0.0,16,0,1009
 2018-08-15,Afghanistan,Ghormach,32,22,18,NE,0.0,13,0,1009
@@ -3667,7 +3667,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-01-16,Afghanistan,Ghormach,19,8,7,SSW,0.0,43,4,1019
 2019-01-17,Afghanistan,Ghormach,23,12,21,SSE,0.1,29,17,1011
 2019-01-18,Afghanistan,Ghormach,17,10,26,SSW,1.4,28,9,1009
-2019-01-19,Afghanistan,Ghormach,10,5,10,SSE,0.8,55,29,1016
+2019-01-19,Afghanistan,Ghormach,17,10,26,SSW,1.4,28,9,1009
 2019-01-20,Afghanistan,Ghormach,6,2,7,E,5.9,73,37,1023
 2019-01-21,Afghanistan,Ghormach,7,0,13,NE,0.0,62,8,1028
 2019-01-22,Afghanistan,Ghormach,7,-1,4,NE,0.0,62,3,1022
@@ -3709,7 +3709,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-02-27,Afghanistan,Ghormach,17,5,19,SSE,0.0,35,22,1012
 2019-02-28,Afghanistan,Ghormach,18,10,22,SSE,5.7,45,67,1005
 2019-03-01,Afghanistan,Ghormach,18,9,13,SSE,18.2,59,67,1001
-2019-03-02,Afghanistan,Ghormach,12,7,10,S,14.6,82,62,1006
+2019-03-02,Afghanistan,Ghormach,18,9,13,SSE,18.2,59,67,1001
 2019-03-03,Afghanistan,Ghormach,18,7,11,SSE,0.0,49,8,1014
 2019-03-04,Afghanistan,Ghormach,16,9,9,ESE,0.6,46,24,1018
 2019-03-05,Afghanistan,Ghormach,16,6,10,SSW,0.4,50,27,1017
@@ -3872,7 +3872,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-08-09,Afghanistan,Ghormach,30,20,22,NNE,0.0,19,1,1011
 2019-08-10,Afghanistan,Ghormach,33,18,12,S,0.0,18,0,1007
 2019-08-11,Afghanistan,Ghormach,35,19,13,SE,0.0,14,0,1005
-2019-08-12,Afghanistan,Ghormach,35,19,13,SE,0.0,14,0,1005
+2019-08-12,Afghanistan,Ghormach,37,20,18,NNE,0.0,13,0,1010
 2019-08-13,Afghanistan,Ghormach,28,19,23,NNE,0.0,25,2,1013
 2019-08-14,Afghanistan,Ghormach,28,17,17,ENE,0.0,25,3,1015
 2019-08-15,Afghanistan,Ghormach,28,17,16,NNE,0.0,21,0,1014
@@ -4032,7 +4032,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-01-16,Afghanistan,Ghormach,3,-1,3,SSW,0.0,73,58,1033
 2020-01-17,Afghanistan,Ghormach,3,-2,5,ESE,0.0,76,50,1034
 2020-01-18,Afghanistan,Ghormach,6,-5,6,SSE,0.0,56,32,1025
-2020-01-19,Afghanistan,Ghormach,2,-5,6,E,18.9,89,100,1022
+2020-01-19,Afghanistan,Ghormach,6,-5,6,SSE,0.0,56,32,1025
 2020-01-20,Afghanistan,Ghormach,3,0,5,SSE,8.3,99,100,1023
 2020-01-21,Afghanistan,Ghormach,-1,-9,3,S,2.7,98,100,1025
 2020-01-22,Afghanistan,Ghormach,2,-3,5,ESE,0.2,88,44,1028
@@ -4074,7 +4074,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-02-27,Afghanistan,Ghormach,9,3,17,E,15.8,90,100,1019
 2020-02-28,Afghanistan,Ghormach,10,2,6,SW,1.6,82,68,1018
 2020-03-01,Afghanistan,Ghormach,19,7,5,SE,0.0,41,1,1014
-2020-03-02,Afghanistan,Ghormach,23,12,6,ESE,0.0,35,13,1014
+2020-03-02,Afghanistan,Ghormach,19,7,5,SE,0.0,41,1,1014
 2020-03-03,Afghanistan,Ghormach,11,9,12,W,20.4,73,92,1014
 2020-03-04,Afghanistan,Ghormach,4,-5,13,NW,14.3,93,100,1020
 2020-03-05,Afghanistan,Ghormach,9,0,7,SSW,0.1,63,24,1023
@@ -4237,7 +4237,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-08-09,Afghanistan,Ghormach,32,22,16,NE,0.0,24,1,1007
 2020-08-10,Afghanistan,Ghormach,35,21,15,ENE,0.0,19,0,1006
 2020-08-11,Afghanistan,Ghormach,34,23,20,NE,0.0,17,0,1008
-2020-08-12,Afghanistan,Ghormach,34,23,20,NE,0.0,17,0,1008
+2020-08-12,Afghanistan,Ghormach,37,23,23,ENE,0.0,14,0,1007
 2020-08-13,Afghanistan,Ghormach,38,21,23,NE,0.0,15,0,1007
 2020-08-14,Afghanistan,Ghormach,38,24,26,NE,0.0,19,0,1005
 2020-08-15,Afghanistan,Ghormach,35,22,23,NE,0.0,15,0,1003
@@ -4397,7 +4397,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-01-16,Afghanistan,Ghormach,15,7,8,S,0.0,33,6,1018
 2021-01-17,Afghanistan,Ghormach,12,1,5,SE,0.0,36,21,1013
 2021-01-18,Afghanistan,Ghormach,14,6,15,S,0.0,33,23,1011
-2021-01-19,Afghanistan,Ghormach,17,6,10,S,0.0,43,5,1016
+2021-01-19,Afghanistan,Ghormach,14,6,15,S,0.0,33,23,1011
 2021-01-20,Afghanistan,Ghormach,14,5,10,SSE,0.0,37,25,1018
 2021-01-21,Afghanistan,Ghormach,13,2,16,SW,6.8,45,79,1012
 2021-01-22,Afghanistan,Ghormach,-1,-4,13,SE,11.9,90,92,1037
@@ -4439,7 +4439,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-02-27,Afghanistan,Ghormach,4,-6,7,E,0.0,41,2,1025
 2021-02-28,Afghanistan,Ghormach,15,0,4,SSE,0.0,46,0,1018
 2021-03-01,Afghanistan,Ghormach,19,6,7,SSE,0.0,33,11,1017
-2021-03-02,Afghanistan,Ghormach,15,10,7,SSW,0.0,47,61,1020
+2021-03-02,Afghanistan,Ghormach,19,6,7,SSE,0.0,33,11,1017
 2021-03-03,Afghanistan,Ghormach,13,4,3,SSW,0.0,62,14,1020
 2021-03-04,Afghanistan,Ghormach,18,9,12,SSW,0.0,48,10,1019
 2021-03-05,Afghanistan,Ghormach,18,8,13,ENE,0.0,58,32,1022
@@ -4559,3 +4559,4 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-27,Afghanistan,Ghormach,35,23,10,WNW,0.0,13,0,1007
 2021-06-28,Afghanistan,Ghormach,35,25,13,NE,0.0,13,0,1007
 2021-06-29,Afghanistan,Ghormach,38,25,13,SE,0.0,13,0,1005
+2021-06-30,Afghanistan,Ghormach,36,27,12,SE,0.0,13,0,1006

@@ -1,4 +1,4 @@
-Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
+date,country,city,maximum_temprature,minimum_temprature,wind_speed,wind_direction,amount_of_rain,humidity,cloud_coverage,pressure
 2009-01-01,Afghanistan,Qandahar,16,5,5,E,0.0,30,16,1018
 2009-01-02,Afghanistan,Qandahar,18,7,10,ESE,0.0,32,15,1014
 2009-01-03,Afghanistan,Qandahar,13,9,14,SW,1.7,72,32,1013
@@ -4559,3 +4559,4 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-27,Afghanistan,Qandahar,37,26,12,S,0.0,9,0,1003
 2021-06-28,Afghanistan,Qandahar,38,26,8,SSW,0.0,7,0,1004
 2021-06-29,Afghanistan,Qandahar,39,26,8,SW,0.0,7,0,1002
+2021-06-30,Afghanistan,Qandahar,40,27,9,SW,0.0,7,0,1000

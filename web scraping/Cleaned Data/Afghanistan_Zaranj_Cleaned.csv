@@ -1,4 +1,4 @@
-Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
+date,country,city,maximum_temprature,minimum_temprature,wind_speed,wind_direction,amount_of_rain,humidity,cloud_coverage,pressure
 2009-01-01,Afghanistan,Zaranj,19,9,7,ESE,0.0,33,26,1017
 2009-01-02,Afghanistan,Zaranj,20,10,11,E,0.1,31,26,1012
 2009-01-03,Afghanistan,Zaranj,16,9,19,SSW,0.0,48,19,1014
@@ -4559,3 +4559,4 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-27,Afghanistan,Zaranj,40,29,31,NW,0.0,9,0,1002
 2021-06-28,Afghanistan,Zaranj,41,29,23,NW,0.0,10,0,1003
 2021-06-29,Afghanistan,Zaranj,42,30,29,NW,0.0,9,0,1002
+2021-06-30,Afghanistan,Zaranj,42,32,37,NW,0.0,10,0,1000

@@ -1,4 +1,4 @@
-Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
+date,country,city,maximum_temprature,minimum_temprature,wind_speed,wind_direction,amount_of_rain,humidity,cloud_coverage,pressure
 2009-01-01,Afghanistan,Farah,16,9,11,ESE,0.0,30,15,1018
 2009-01-02,Afghanistan,Farah,14,8,15,E,2.2,35,45,1013
 2009-01-03,Afghanistan,Farah,13,6,17,W,8.0,62,16,1016
@@ -165,7 +165,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-06-13,Afghanistan,Farah,37,25,26,NNW,0.0,14,7,1007
 2009-06-14,Afghanistan,Farah,37,25,26,NNW,0.0,12,0,1007
 2009-06-15,Afghanistan,Farah,38,25,24,NNW,0.0,10,0,1005
-2009-06-16,Afghanistan,Farah,38,25,24,NNW,0.0,10,0,1005
+2009-06-16,Afghanistan,Farah,36,23,24,NNW,0.0,8,2,1005
 2009-06-17,Afghanistan,Farah,36,25,27,NW,0.0,14,4,1005
 2009-06-18,Afghanistan,Farah,36,24,25,NNW,0.0,10,0,1005
 2009-06-19,Afghanistan,Farah,38,22,23,NNW,0.0,5,0,1004
@@ -530,7 +530,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-06-13,Afghanistan,Farah,40,27,30,S,0.0,12,0,1006
 2010-06-14,Afghanistan,Farah,39,27,31,SW,0.0,12,0,1005
 2010-06-15,Afghanistan,Farah,38,25,27,NW,0.0,14,0,1004
-2010-06-16,Afghanistan,Farah,38,25,27,NW,0.0,14,0,1004
+2010-06-16,Afghanistan,Farah,38,26,23,NNW,0.0,14,0,1002
 2010-06-17,Afghanistan,Farah,40,27,20,WNW,0.0,11,0,1001
 2010-06-18,Afghanistan,Farah,42,26,14,WSW,0.0,9,3,1002
 2010-06-19,Afghanistan,Farah,44,28,11,SSE,0.0,7,4,1003
@@ -895,7 +895,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-06-13,Afghanistan,Farah,41,33,8,S,0.0,10,4,999
 2011-06-14,Afghanistan,Farah,43,33,8,S,0.0,10,5,999
 2011-06-15,Afghanistan,Farah,43,34,11,SSW,0.0,8,0,999
-2011-06-16,Afghanistan,Farah,43,34,11,SSW,0.0,8,0,999
+2011-06-16,Afghanistan,Farah,42,32,21,NNW,0.0,10,0,1001
 2011-06-17,Afghanistan,Farah,39,29,29,NNW,0.0,14,0,1000
 2011-06-18,Afghanistan,Farah,40,26,20,NNW,0.0,13,0,1000
 2011-06-19,Afghanistan,Farah,41,27,14,NNW,0.0,12,0,998
@@ -1260,7 +1260,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-06-13,Afghanistan,Farah,38,26,14,NW,0.0,13,0,1004
 2012-06-14,Afghanistan,Farah,39,26,11,NW,0.0,15,0,1004
 2012-06-15,Afghanistan,Farah,38,27,17,NW,0.0,13,1,1002
-2012-06-16,Afghanistan,Farah,38,27,17,NW,0.0,13,1,1002
+2012-06-16,Afghanistan,Farah,38,27,16,NNW,0.3,12,33,1000
 2012-06-17,Afghanistan,Farah,38,27,18,W,0.0,12,19,999
 2012-06-18,Afghanistan,Farah,38,28,14,WNW,0.0,12,0,998
 2012-06-19,Afghanistan,Farah,39,28,14,NW,0.0,12,0,999
@@ -1625,7 +1625,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-06-13,Afghanistan,Farah,43,30,15,NW,0.0,9,4,997
 2013-06-14,Afghanistan,Farah,40,28,27,NNW,0.0,9,1,998
 2013-06-15,Afghanistan,Farah,38,24,21,NNW,0.0,8,0,999
-2013-06-16,Afghanistan,Farah,38,24,21,NNW,0.0,8,0,999
+2013-06-16,Afghanistan,Farah,38,24,22,NNW,0.0,9,0,999
 2013-06-17,Afghanistan,Farah,37,25,23,WSW,0.0,10,0,998
 2013-06-18,Afghanistan,Farah,38,24,10,WNW,0.0,8,0,998
 2013-06-19,Afghanistan,Farah,39,28,5,S,0.0,7,0,999
@@ -1990,7 +1990,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-06-13,Afghanistan,Farah,43,31,11,SSE,0.0,7,1,996
 2014-06-14,Afghanistan,Farah,42,33,10,W,0.0,14,1,998
 2014-06-15,Afghanistan,Farah,38,28,20,NW,0.0,21,0,1002
-2014-06-16,Afghanistan,Farah,38,28,20,NW,0.0,21,0,1002
+2014-06-16,Afghanistan,Farah,36,26,25,NW,0.0,18,0,1003
 2014-06-17,Afghanistan,Farah,38,25,25,NNW,0.0,13,0,1002
 2014-06-18,Afghanistan,Farah,38,25,24,NNW,0.0,11,0,1000
 2014-06-19,Afghanistan,Farah,40,26,17,NNW,0.0,10,0,998
@@ -2355,7 +2355,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-06-13,Afghanistan,Farah,41,30,11,SSW,0.0,5,0,1000
 2015-06-14,Afghanistan,Farah,40,30,26,SSW,0.0,10,0,1002
 2015-06-15,Afghanistan,Farah,34,27,23,NNW,0.0,11,0,1003
-2015-06-16,Afghanistan,Farah,34,27,23,NNW,0.0,11,0,1003
+2015-06-16,Afghanistan,Farah,39,25,13,NNW,0.0,6,0,1001
 2015-06-17,Afghanistan,Farah,41,28,6,SSW,0.0,4,1,999
 2015-06-18,Afghanistan,Farah,42,30,5,SSE,0.0,4,5,998
 2015-06-19,Afghanistan,Farah,44,32,8,NW,0.0,6,2,997
@@ -2720,7 +2720,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-06-13,Afghanistan,Farah,42,32,7,NW,0.0,9,0,999
 2016-06-14,Afghanistan,Farah,37,28,25,NNW,0.0,21,1,1001
 2016-06-15,Afghanistan,Farah,30,25,30,NNW,0.0,26,0,1004
-2016-06-16,Afghanistan,Farah,30,25,30,NNW,0.0,26,0,1004
+2016-06-16,Afghanistan,Farah,40,27,22,NNW,0.0,12,3,1001
 2016-06-17,Afghanistan,Farah,37,24,13,NNW,0.0,16,0,1004
 2016-06-18,Afghanistan,Farah,39,28,15,NNW,0.0,14,0,1005
 2016-06-19,Afghanistan,Farah,41,28,15,NNW,0.0,12,0,1004
@@ -3085,7 +3085,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-06-13,Afghanistan,Farah,42,31,11,SSW,0.0,7,1,1001
 2017-06-14,Afghanistan,Farah,42,33,15,NNW,0.0,9,0,1003
 2017-06-15,Afghanistan,Farah,42,30,18,NNW,0.0,13,0,1003
-2017-06-16,Afghanistan,Farah,42,30,18,NNW,0.0,13,0,1003
+2017-06-16,Afghanistan,Farah,44,33,21,WNW,0.0,6,0,1001
 2017-06-17,Afghanistan,Farah,45,34,16,NW,0.0,6,1,1000
 2017-06-18,Afghanistan,Farah,43,33,16,NNW,0.0,9,4,1000
 2017-06-19,Afghanistan,Farah,43,32,20,NNW,0.0,12,4,999
@@ -3450,7 +3450,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-06-13,Afghanistan,Farah,43,33,17,WNW,0.0,10,16,997
 2018-06-14,Afghanistan,Farah,39,30,23,NNW,0.0,15,18,1000
 2018-06-15,Afghanistan,Farah,37,27,28,NNW,0.0,17,0,1002
-2018-06-16,Afghanistan,Farah,37,27,28,NNW,0.0,17,0,1002
+2018-06-16,Afghanistan,Farah,39,26,19,NNW,0.0,10,0,1001
 2018-06-17,Afghanistan,Farah,40,27,23,NNW,0.0,9,2,999
 2018-06-18,Afghanistan,Farah,39,28,25,WNW,0.0,8,0,999
 2018-06-19,Afghanistan,Farah,42,29,18,WNW,0.0,7,0,1000
@@ -3815,7 +3815,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-06-13,Afghanistan,Farah,38,20,14,NNW,0.0,11,0,1003
 2019-06-14,Afghanistan,Farah,40,24,23,NNW,0.0,10,4,1003
 2019-06-15,Afghanistan,Farah,38,25,33,NNW,0.0,11,0,1005
-2019-06-16,Afghanistan,Farah,38,25,33,NNW,0.0,11,0,1005
+2019-06-16,Afghanistan,Farah,39,25,28,SW,0.0,11,0,1004
 2019-06-17,Afghanistan,Farah,39,26,38,NW,0.0,11,0,1003
 2019-06-18,Afghanistan,Farah,40,26,36,NNW,0.0,10,0,1002
 2019-06-19,Afghanistan,Farah,41,25,21,WSW,0.0,11,0,1000
@@ -4180,7 +4180,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-06-13,Afghanistan,Farah,41,24,23,NNW,0.0,8,0,1001
 2020-06-14,Afghanistan,Farah,43,25,9,SW,0.0,7,0,1002
 2020-06-15,Afghanistan,Farah,44,29,8,SSE,0.0,7,0,1002
-2020-06-16,Afghanistan,Farah,44,29,8,SSE,0.0,7,0,1002
+2020-06-16,Afghanistan,Farah,44,29,7,SW,0.0,6,1,1000
 2020-06-17,Afghanistan,Farah,43,29,19,SW,0.0,7,1,999
 2020-06-18,Afghanistan,Farah,42,27,32,WNW,0.0,10,0,999
 2020-06-19,Afghanistan,Farah,42,24,30,NNW,0.0,10,0,1001
@@ -4545,7 +4545,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-13,Afghanistan,Farah,44,31,30,W,0.0,8,0,999
 2021-06-14,Afghanistan,Farah,44,29,24,W,0.0,7,0,998
 2021-06-15,Afghanistan,Farah,39,30,33,NNW,0.0,8,1,999
-2021-06-16,Afghanistan,Farah,39,30,33,NNW,0.0,8,1,999
+2021-06-16,Afghanistan,Farah,39,24,32,WNW,0.0,6,0,998
 2021-06-17,Afghanistan,Farah,39,25,26,NW,0.0,8,0,999
 2021-06-18,Afghanistan,Farah,39,26,15,S,0.0,7,0,999
 2021-06-19,Afghanistan,Farah,41,27,21,NNE,0.0,6,0,999
@@ -4559,3 +4559,4 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-27,Afghanistan,Farah,39,26,16,NNW,0.0,10,0,1002
 2021-06-28,Afghanistan,Farah,40,28,16,NNW,0.0,10,0,1003
 2021-06-29,Afghanistan,Farah,41,28,26,NNW,0.0,9,0,1001
+2021-06-30,Afghanistan,Farah,41,30,37,NNW,0.0,9,0,1001

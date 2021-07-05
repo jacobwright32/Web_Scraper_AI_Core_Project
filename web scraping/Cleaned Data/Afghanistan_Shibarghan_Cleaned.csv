@@ -1,4 +1,4 @@
-Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
+date,country,city,maximum_temprature,minimum_temprature,wind_speed,wind_direction,amount_of_rain,humidity,cloud_coverage,pressure
 2009-01-01,Afghanistan,Shibarghan,12,4,11,E,0.0,47,27,1018
 2009-01-02,Afghanistan,Shibarghan,11,6,12,S,1.8,68,51,1012
 2009-01-03,Afghanistan,Shibarghan,0,-2,14,WNW,22.5,90,80,1023
@@ -38,7 +38,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-02-06,Afghanistan,Shibarghan,10,-1,17,E,0.0,59,6,1025
 2009-02-07,Afghanistan,Shibarghan,14,2,12,ESE,0.0,43,13,1021
 2009-02-08,Afghanistan,Shibarghan,17,5,10,ESE,0.0,38,26,1019
-2009-02-09,Afghanistan,Shibarghan,17,5,10,ESE,0.0,38,26,1019
+2009-02-09,Afghanistan,Shibarghan,11,7,8,S,0.4,57,61,1019
 2009-02-10,Afghanistan,Shibarghan,16,5,7,ENE,0.2,60,16,1018
 2009-02-11,Afghanistan,Shibarghan,17,9,16,E,6.0,53,49,1011
 2009-02-12,Afghanistan,Shibarghan,12,9,13,S,14.1,74,45,1007
@@ -403,7 +403,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-02-06,Afghanistan,Shibarghan,9,4,15,WNW,1.1,76,49,1015
 2010-02-07,Afghanistan,Shibarghan,2,-2,15,WNW,15.1,91,91,1020
 2010-02-08,Afghanistan,Shibarghan,-2,-4,15,W,4.9,78,81,1030
-2010-02-09,Afghanistan,Shibarghan,-2,-4,15,W,4.9,78,81,1030
+2010-02-09,Afghanistan,Shibarghan,1,-6,13,ENE,0.0,65,13,1030
 2010-02-10,Afghanistan,Shibarghan,4,-5,15,E,0.0,57,51,1025
 2010-02-11,Afghanistan,Shibarghan,4,-2,7,S,0.4,67,70,1026
 2010-02-12,Afghanistan,Shibarghan,3,-5,8,NW,0.7,75,48,1030
@@ -768,7 +768,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-02-06,Afghanistan,Shibarghan,6,1,6,W,3.3,78,61,1019
 2011-02-07,Afghanistan,Shibarghan,10,1,14,ESE,0.0,66,25,1017
 2011-02-08,Afghanistan,Shibarghan,10,3,14,SSW,0.6,62,61,1019
-2011-02-09,Afghanistan,Shibarghan,10,3,14,SSW,0.6,62,61,1019
+2011-02-09,Afghanistan,Shibarghan,3,0,11,SW,2.5,77,44,1024
 2011-02-10,Afghanistan,Shibarghan,8,-2,13,E,0.0,75,22,1015
 2011-02-11,Afghanistan,Shibarghan,9,3,5,SE,9.0,72,69,1010
 2011-02-12,Afghanistan,Shibarghan,8,3,7,SSW,10.9,90,68,1008
@@ -1133,7 +1133,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-02-06,Afghanistan,Shibarghan,-5,-11,6,E,0.0,75,22,1039
 2012-02-07,Afghanistan,Shibarghan,1,-9,14,E,0.0,67,1,1034
 2012-02-08,Afghanistan,Shibarghan,4,-4,19,E,0.0,54,20,1023
-2012-02-09,Afghanistan,Shibarghan,4,-4,19,E,0.0,54,20,1023
+2012-02-09,Afghanistan,Shibarghan,5,0,10,SW,2.0,60,50,1022
 2012-02-10,Afghanistan,Shibarghan,8,-1,17,ENE,0.0,74,18,1022
 2012-02-11,Afghanistan,Shibarghan,6,3,14,S,12.0,82,75,1016
 2012-02-12,Afghanistan,Shibarghan,1,-1,27,W,3.8,80,93,1028
@@ -1498,7 +1498,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-02-06,Afghanistan,Shibarghan,11,2,20,E,0.0,57,20,1027
 2013-02-07,Afghanistan,Shibarghan,16,4,18,E,0.0,37,1,1024
 2013-02-08,Afghanistan,Shibarghan,18,8,14,SSW,0.0,31,19,1020
-2013-02-09,Afghanistan,Shibarghan,18,8,14,SSW,0.0,31,19,1020
+2013-02-09,Afghanistan,Shibarghan,14,8,6,SW,0.0,59,36,1023
 2013-02-10,Afghanistan,Shibarghan,12,6,7,WSW,0.0,58,16,1024
 2013-02-11,Afghanistan,Shibarghan,12,5,6,SE,0.0,51,22,1023
 2013-02-12,Afghanistan,Shibarghan,14,5,13,ENE,0.0,45,16,1019
@@ -1863,7 +1863,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-02-06,Afghanistan,Shibarghan,-4,-9,10,SW,0.7,88,57,1023
 2014-02-07,Afghanistan,Shibarghan,0,-8,13,ESE,0.0,83,4,1030
 2014-02-08,Afghanistan,Shibarghan,1,-8,8,ENE,0.0,82,2,1030
-2014-02-09,Afghanistan,Shibarghan,1,-8,8,ENE,0.0,82,2,1030
+2014-02-09,Afghanistan,Shibarghan,1,-6,8,SE,0.0,83,0,1027
 2014-02-10,Afghanistan,Shibarghan,0,-9,5,SSW,0.0,83,0,1026
 2014-02-11,Afghanistan,Shibarghan,1,-7,10,E,0.0,83,28,1024
 2014-02-12,Afghanistan,Shibarghan,3,-5,4,ESE,0.0,80,13,1025
@@ -2228,7 +2228,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-02-06,Afghanistan,Shibarghan,6,5,15,WNW,2.6,73,90,1022
 2015-02-07,Afghanistan,Shibarghan,8,4,10,E,0.1,75,42,1023
 2015-02-08,Afghanistan,Shibarghan,15,5,29,E,0.0,53,20,1018
-2015-02-09,Afghanistan,Shibarghan,15,5,29,E,0.0,53,20,1018
+2015-02-09,Afghanistan,Shibarghan,18,9,24,E,0.0,30,47,1017
 2015-02-10,Afghanistan,Shibarghan,20,11,19,ESE,0.0,31,31,1017
 2015-02-11,Afghanistan,Shibarghan,17,11,20,E,4.1,44,45,1017
 2015-02-12,Afghanistan,Shibarghan,15,10,19,ESE,6.6,69,46,1018
@@ -2593,7 +2593,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-02-06,Afghanistan,Shibarghan,14,3,17,E,0.0,49,0,1020
 2016-02-07,Afghanistan,Shibarghan,17,6,12,E,0.0,31,18,1016
 2016-02-08,Afghanistan,Shibarghan,16,9,12,SW,0.0,31,45,1017
-2016-02-09,Afghanistan,Shibarghan,16,9,12,SW,0.0,31,45,1017
+2016-02-09,Afghanistan,Shibarghan,4,2,18,WNW,3.9,76,75,1023
 2016-02-10,Afghanistan,Shibarghan,1,-2,19,WSW,3.6,66,83,1034
 2016-02-11,Afghanistan,Shibarghan,2,-4,13,NE,0.0,56,12,1030
 2016-02-12,Afghanistan,Shibarghan,4,-2,9,ESE,0.0,52,35,1026
@@ -2958,7 +2958,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-02-06,Afghanistan,Shibarghan,6,-2,14,E,0.0,65,25,1025
 2017-02-07,Afghanistan,Shibarghan,8,-1,7,SE,0.0,60,12,1024
 2017-02-08,Afghanistan,Shibarghan,9,1,4,SSW,0.0,50,26,1027
-2017-02-09,Afghanistan,Shibarghan,9,1,4,SSW,0.0,50,26,1027
+2017-02-09,Afghanistan,Shibarghan,13,4,15,E,0.0,51,24,1026
 2017-02-10,Afghanistan,Shibarghan,11,3,14,SSE,0.0,52,74,1021
 2017-02-11,Afghanistan,Shibarghan,3,0,10,SSW,0.5,76,79,1027
 2017-02-12,Afghanistan,Shibarghan,6,-1,7,SW,0.9,71,46,1027
@@ -3323,7 +3323,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-02-06,Afghanistan,Shibarghan,14,4,11,ESE,0.0,35,30,1026
 2018-02-07,Afghanistan,Shibarghan,10,4,16,WNW,0.0,30,20,1028
 2018-02-08,Afghanistan,Shibarghan,4,-2,10,NW,0.0,31,8,1029
-2018-02-09,Afghanistan,Shibarghan,4,-2,10,NW,0.0,31,8,1029
+2018-02-09,Afghanistan,Shibarghan,4,-2,7,WNW,0.0,37,61,1024
 2018-02-10,Afghanistan,Shibarghan,10,1,8,ENE,0.0,41,19,1022
 2018-02-11,Afghanistan,Shibarghan,11,3,7,WSW,0.0,46,24,1021
 2018-02-12,Afghanistan,Shibarghan,15,5,10,S,0.0,41,15,1017
@@ -3688,7 +3688,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-02-06,Afghanistan,Shibarghan,2,-1,10,WNW,1.2,84,66,1036
 2019-02-07,Afghanistan,Shibarghan,4,-2,10,ENE,0.0,71,11,1031
 2019-02-08,Afghanistan,Shibarghan,9,1,25,ENE,0.0,52,3,1026
-2019-02-09,Afghanistan,Shibarghan,9,1,25,ENE,0.0,52,3,1026
+2019-02-09,Afghanistan,Shibarghan,13,4,25,E,0.0,39,25,1021
 2019-02-10,Afghanistan,Shibarghan,15,8,14,E,0.0,36,57,1019
 2019-02-11,Afghanistan,Shibarghan,12,7,8,WSW,0.0,57,31,1020
 2019-02-12,Afghanistan,Shibarghan,12,6,12,SE,5.7,74,68,1013
@@ -4053,7 +4053,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-02-06,Afghanistan,Shibarghan,12,7,18,SSE,2.6,67,50,1025
 2020-02-07,Afghanistan,Shibarghan,14,6,30,E,0.0,52,0,1020
 2020-02-08,Afghanistan,Shibarghan,17,8,19,E,0.0,33,0,1015
-2020-02-09,Afghanistan,Shibarghan,17,8,19,E,0.0,33,0,1015
+2020-02-09,Afghanistan,Shibarghan,19,10,22,SSE,1.5,43,43,1014
 2020-02-10,Afghanistan,Shibarghan,13,9,19,SSW,3.6,70,83,1016
 2020-02-11,Afghanistan,Shibarghan,13,8,15,NE,5.6,79,80,1014
 2020-02-12,Afghanistan,Shibarghan,12,5,22,WSW,9.2,78,76,1015
@@ -4418,7 +4418,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-02-06,Afghanistan,Shibarghan,17,9,19,E,0.0,30,14,1017
 2021-02-07,Afghanistan,Shibarghan,17,9,10,S,0.0,49,20,1017
 2021-02-08,Afghanistan,Shibarghan,18,12,12,WSW,0.0,45,44,1019
-2021-02-09,Afghanistan,Shibarghan,18,12,12,WSW,0.0,45,44,1019
+2021-02-09,Afghanistan,Shibarghan,17,10,10,S,0.0,57,17,1024
 2021-02-10,Afghanistan,Shibarghan,19,10,15,E,0.0,56,17,1020
 2021-02-11,Afghanistan,Shibarghan,20,12,13,E,0.0,42,15,1019
 2021-02-12,Afghanistan,Shibarghan,20,12,17,ESE,0.0,39,10,1015
@@ -4559,3 +4559,4 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-27,Afghanistan,Shibarghan,39,27,16,W,0.0,11,6,1004
 2021-06-28,Afghanistan,Shibarghan,40,28,15,WNW,0.0,11,13,1005
 2021-06-29,Afghanistan,Shibarghan,41,28,12,W,0.0,11,0,1004
+2021-06-30,Afghanistan,Shibarghan,41,29,22,W,0.0,11,0,1002

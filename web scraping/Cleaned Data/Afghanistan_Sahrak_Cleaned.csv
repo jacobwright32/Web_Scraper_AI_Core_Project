@@ -1,4 +1,4 @@
-Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
+date,country,city,maximum_temprature,minimum_temprature,wind_speed,wind_direction,amount_of_rain,humidity,cloud_coverage,pressure
 2009-01-01,Afghanistan,Sahrak,0,-9,13,S,0.0,76,19,1020
 2009-01-02,Afghanistan,Sahrak,0,-5,21,SSE,7.0,85,43,1015
 2009-01-03,Afghanistan,Sahrak,0,-11,18,SW,9.7,95,56,1016
@@ -4559,3 +4559,4 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-27,Afghanistan,Sahrak,24,11,10,SSW,0.0,22,6,1011
 2021-06-28,Afghanistan,Sahrak,24,12,8,SSW,0.0,23,5,1012
 2021-06-29,Afghanistan,Sahrak,24,11,12,S,0.0,24,5,1011
+2021-06-30,Afghanistan,Sahrak,22,12,17,WSW,0.0,23,0,1012

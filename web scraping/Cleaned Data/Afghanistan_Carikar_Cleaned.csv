@@ -1,4 +1,4 @@
-Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
+date,country,city,maximum_temprature,minimum_temprature,wind_speed,wind_direction,amount_of_rain,humidity,cloud_coverage,pressure
 2009-01-01,Afghanistan,Carikar,4,-6,8,W,0.0,51,27,1020
 2009-01-02,Afghanistan,Carikar,2,-3,15,SE,0.8,61,47,1016
 2009-01-03,Afghanistan,Carikar,-5,-6,16,SE,11.8,93,76,1019
@@ -54,7 +54,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-02-22,Afghanistan,Carikar,-1,-7,10,SE,7.3,89,43,1013
 2009-02-23,Afghanistan,Carikar,1,-4,10,S,6.7,93,54,1011
 2009-02-24,Afghanistan,Carikar,0,-7,13,NW,2.7,90,53,1018
-2009-02-25,Afghanistan,Carikar,0,-7,13,NW,2.7,90,53,1018
+2009-02-25,Afghanistan,Carikar,1,-9,13,WSW,0.1,76,17,1021
 2009-02-26,Afghanistan,Carikar,1,-10,14,NNW,0.0,75,6,1021
 2009-02-27,Afghanistan,Carikar,1,-9,14,WNW,0.1,70,7,1024
 2009-02-28,Afghanistan,Carikar,4,-9,8,W,0.0,67,12,1020
@@ -149,7 +149,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-05-28,Afghanistan,Carikar,19,8,26,NNW,0.0,35,0,1016
 2009-05-29,Afghanistan,Carikar,20,8,24,NNW,0.0,36,0,1015
 2009-05-30,Afghanistan,Carikar,22,8,19,NNW,0.0,37,5,1012
-2009-05-31,Afghanistan,Carikar,22,8,19,NNW,0.0,37,5,1012
+2009-05-31,Afghanistan,Carikar,21,10,16,SW,0.0,33,2,1011
 2009-06-01,Afghanistan,Carikar,20,10,9,S,0.3,42,22,1010
 2009-06-02,Afghanistan,Carikar,19,7,17,NNW,0.7,56,19,1014
 2009-06-03,Afghanistan,Carikar,17,7,16,WNW,0.1,48,21,1014
@@ -419,7 +419,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-02-22,Afghanistan,Carikar,4,-2,18,SE,0.2,81,29,1015
 2010-02-23,Afghanistan,Carikar,5,-2,12,SSE,0.0,82,26,1015
 2010-02-24,Afghanistan,Carikar,5,-3,8,WSW,6.5,81,44,1015
-2010-02-25,Afghanistan,Carikar,5,-3,8,WSW,6.5,81,44,1015
+2010-02-25,Afghanistan,Carikar,2,-1,12,SE,4.8,91,62,1014
 2010-02-26,Afghanistan,Carikar,4,-1,10,S,11.1,91,56,1016
 2010-02-27,Afghanistan,Carikar,5,0,9,SSE,4.2,85,46,1016
 2010-02-28,Afghanistan,Carikar,4,0,10,S,4.9,84,39,1014
@@ -514,7 +514,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-05-28,Afghanistan,Carikar,15,4,27,NNW,0.0,41,2,1014
 2010-05-29,Afghanistan,Carikar,19,4,15,NNW,0.0,36,1,1015
 2010-05-30,Afghanistan,Carikar,22,6,14,WNW,0.0,22,0,1013
-2010-05-31,Afghanistan,Carikar,22,6,14,WNW,0.0,22,0,1013
+2010-05-31,Afghanistan,Carikar,23,8,15,WNW,0.0,26,8,1012
 2010-06-01,Afghanistan,Carikar,24,9,10,SSW,0.0,28,12,1012
 2010-06-02,Afghanistan,Carikar,20,10,9,NW,2.3,44,29,1013
 2010-06-03,Afghanistan,Carikar,16,8,14,NNW,2.1,61,26,1014
@@ -784,7 +784,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-02-22,Afghanistan,Carikar,0,-6,10,SSE,1.2,80,45,1018
 2011-02-23,Afghanistan,Carikar,0,-6,7,WSW,4.9,83,47,1021
 2011-02-24,Afghanistan,Carikar,0,-11,12,NNW,0.2,70,14,1025
-2011-02-25,Afghanistan,Carikar,0,-11,12,NNW,0.2,70,14,1025
+2011-02-25,Afghanistan,Carikar,-2,-12,16,NNW,0.2,66,24,1024
 2011-02-26,Afghanistan,Carikar,-3,-15,14,NNW,0.1,65,8,1028
 2011-02-27,Afghanistan,Carikar,4,-14,9,W,0.0,57,26,1024
 2011-02-28,Afghanistan,Carikar,0,-8,8,SE,1.7,82,58,1022
@@ -879,7 +879,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-05-28,Afghanistan,Carikar,21,12,21,NNW,0.0,30,9,1014
 2011-05-29,Afghanistan,Carikar,21,11,14,NNW,0.0,29,3,1014
 2011-05-30,Afghanistan,Carikar,21,10,15,NW,0.0,29,0,1016
-2011-05-31,Afghanistan,Carikar,21,10,15,NW,0.0,29,0,1016
+2011-05-31,Afghanistan,Carikar,19,9,33,NNW,0.0,37,2,1014
 2011-06-01,Afghanistan,Carikar,16,6,28,NNW,0.0,27,0,1012
 2011-06-02,Afghanistan,Carikar,19,7,15,NNW,0.0,21,0,1013
 2011-06-03,Afghanistan,Carikar,23,10,5,W,0.0,18,1,1012
@@ -1149,7 +1149,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-02-22,Afghanistan,Carikar,-8,-18,19,NNW,0.5,77,13,1028
 2012-02-23,Afghanistan,Carikar,-6,-18,11,NNW,0.0,70,5,1026
 2012-02-24,Afghanistan,Carikar,-5,-17,8,SSE,0.0,66,6,1023
-2012-02-25,Afghanistan,Carikar,-5,-17,8,SSE,0.0,66,6,1023
+2012-02-25,Afghanistan,Carikar,-3,-17,8,SE,0.0,59,15,1021
 2012-02-26,Afghanistan,Carikar,-2,-13,13,SE,0.1,67,29,1017
 2012-02-27,Afghanistan,Carikar,0,-10,13,WSW,1.0,85,28,1019
 2012-02-28,Afghanistan,Carikar,1,-10,14,WNW,0.0,64,7,1018
@@ -1244,7 +1244,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-05-28,Afghanistan,Carikar,20,9,19,NNW,0.0,34,0,1014
 2012-05-29,Afghanistan,Carikar,21,10,15,WNW,0.0,34,6,1014
 2012-05-30,Afghanistan,Carikar,20,12,19,WNW,0.1,42,6,1013
-2012-05-31,Afghanistan,Carikar,20,12,19,WNW,0.1,42,6,1013
+2012-05-31,Afghanistan,Carikar,18,9,24,NNW,0.1,47,4,1012
 2012-06-01,Afghanistan,Carikar,19,8,20,NNW,0.0,40,1,1013
 2012-06-02,Afghanistan,Carikar,21,9,21,NNW,0.0,31,0,1012
 2012-06-03,Afghanistan,Carikar,21,10,25,NNW,0.0,33,0,1010
@@ -1514,7 +1514,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-02-22,Afghanistan,Carikar,-1,-4,5,WSW,2.7,77,38,1020
 2013-02-23,Afghanistan,Carikar,3,-5,8,NW,0.2,66,8,1022
 2013-02-24,Afghanistan,Carikar,2,-3,7,SE,0.0,57,16,1022
-2013-02-25,Afghanistan,Carikar,2,-3,7,SE,0.0,57,16,1022
+2013-02-25,Afghanistan,Carikar,1,-3,10,SSE,0.8,75,37,1021
 2013-02-26,Afghanistan,Carikar,-1,-4,8,SSE,8.4,88,90,1020
 2013-02-27,Afghanistan,Carikar,-2,-8,14,NNW,5.1,77,52,1020
 2013-02-28,Afghanistan,Carikar,2,-9,5,SSW,0.0,57,4,1025
@@ -1609,7 +1609,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-05-28,Afghanistan,Carikar,17,6,18,NNW,0.0,27,0,1015
 2013-05-29,Afghanistan,Carikar,19,7,14,NNW,0.0,22,0,1014
 2013-05-30,Afghanistan,Carikar,23,10,15,NNW,0.0,17,0,1011
-2013-05-31,Afghanistan,Carikar,23,10,15,NNW,0.0,17,0,1011
+2013-05-31,Afghanistan,Carikar,25,12,17,NNW,0.0,16,0,1010
 2013-06-01,Afghanistan,Carikar,25,14,8,WSW,0.0,18,6,1008
 2013-06-02,Afghanistan,Carikar,21,14,6,SE,2.1,33,14,1009
 2013-06-03,Afghanistan,Carikar,22,14,4,WSW,0.5,38,16,1009
@@ -1879,7 +1879,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-02-22,Afghanistan,Carikar,1,-6,6,S,0.0,71,10,1021
 2014-02-23,Afghanistan,Carikar,1,-7,4,SW,0.1,71,14,1025
 2014-02-24,Afghanistan,Carikar,2,-5,8,WNW,0.2,73,24,1026
-2014-02-25,Afghanistan,Carikar,2,-5,8,WNW,0.2,73,24,1026
+2014-02-25,Afghanistan,Carikar,2,-5,5,SSW,0.9,73,16,1024
 2014-02-26,Afghanistan,Carikar,-1,-7,13,NNW,1.4,73,39,1024
 2014-02-27,Afghanistan,Carikar,-1,-8,16,NNW,0.0,66,8,1024
 2014-02-28,Afghanistan,Carikar,2,-8,6,WSW,0.0,55,2,1021
@@ -1974,7 +1974,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-05-28,Afghanistan,Carikar,23,12,8,NNW,0.8,26,11,1012
 2014-05-29,Afghanistan,Carikar,22,14,8,NW,2.9,33,9,1011
 2014-05-30,Afghanistan,Carikar,18,12,13,WNW,2.6,45,18,1012
-2014-05-31,Afghanistan,Carikar,18,12,13,WNW,2.6,45,18,1012
+2014-05-31,Afghanistan,Carikar,18,9,13,NNW,2.1,49,13,1012
 2014-06-01,Afghanistan,Carikar,19,9,10,NNW,0.0,42,6,1014
 2014-06-02,Afghanistan,Carikar,19,11,10,NNW,0.8,44,6,1016
 2014-06-03,Afghanistan,Carikar,20,11,14,NNW,0.4,40,7,1013
@@ -2244,7 +2244,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-02-22,Afghanistan,Carikar,11,4,2,SSE,0.0,61,16,1018
 2015-02-23,Afghanistan,Carikar,7,-1,8,SE,20.2,75,46,1016
 2015-02-24,Afghanistan,Carikar,4,-7,7,WSW,79.6,90,92,1015
-2015-02-25,Afghanistan,Carikar,4,-7,7,WSW,79.6,90,92,1015
+2015-02-25,Afghanistan,Carikar,1,-8,9,NW,22.6,74,76,1017
 2015-02-26,Afghanistan,Carikar,2,-7,4,WNW,0.1,65,10,1020
 2015-02-27,Afghanistan,Carikar,2,-12,4,W,0.2,64,8,1022
 2015-02-28,Afghanistan,Carikar,3,-10,3,W,0.0,56,10,1024
@@ -2339,7 +2339,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-05-28,Afghanistan,Carikar,22,9,4,WNW,0.1,19,19,1011
 2015-05-29,Afghanistan,Carikar,21,9,5,NW,0.9,33,6,1013
 2015-05-30,Afghanistan,Carikar,22,10,12,NNW,0.3,32,2,1015
-2015-05-31,Afghanistan,Carikar,22,10,12,NNW,0.3,32,2,1015
+2015-05-31,Afghanistan,Carikar,22,9,19,NNW,0.0,30,0,1015
 2015-06-01,Afghanistan,Carikar,17,8,21,NNW,0.0,33,0,1014
 2015-06-02,Afghanistan,Carikar,19,10,16,NNW,0.0,30,6,1016
 2015-06-03,Afghanistan,Carikar,22,9,13,NNW,0.1,33,5,1015
@@ -2609,7 +2609,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-02-22,Afghanistan,Carikar,11,0,12,WNW,0.0,33,0,1027
 2016-02-23,Afghanistan,Carikar,14,-1,11,NNW,0.0,20,1,1025
 2016-02-24,Afghanistan,Carikar,17,2,8,W,0.0,22,0,1019
-2016-02-25,Afghanistan,Carikar,17,2,8,W,0.0,22,0,1019
+2016-02-25,Afghanistan,Carikar,14,1,4,SSE,0.0,27,2,1019
 2016-02-26,Afghanistan,Carikar,15,3,2,WNW,0.0,28,5,1024
 2016-02-27,Afghanistan,Carikar,16,5,7,NNW,0.0,29,0,1025
 2016-02-28,Afghanistan,Carikar,16,7,3,W,0.0,29,4,1024
@@ -2704,7 +2704,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-05-28,Afghanistan,Carikar,14,12,13,NNW,0.0,46,2,1013
 2016-05-29,Afghanistan,Carikar,20,10,16,NNW,0.0,25,0,1011
 2016-05-30,Afghanistan,Carikar,24,11,9,SSW,0.0,19,0,1011
-2016-05-31,Afghanistan,Carikar,24,11,9,SSW,0.0,19,0,1011
+2016-05-31,Afghanistan,Carikar,26,11,6,S,0.0,24,12,1010
 2016-06-01,Afghanistan,Carikar,21,10,14,W,1.5,32,17,1012
 2016-06-02,Afghanistan,Carikar,25,13,3,W,1.1,36,6,1011
 2016-06-03,Afghanistan,Carikar,26,13,3,WSW,1.6,33,4,1012
@@ -2974,7 +2974,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-02-22,Afghanistan,Carikar,7,-3,3,ESE,0.0,28,0,1021
 2017-02-23,Afghanistan,Carikar,6,-7,3,ENE,0.0,35,2,1023
 2017-02-24,Afghanistan,Carikar,6,-7,5,ENE,0.3,39,37,1022
-2017-02-25,Afghanistan,Carikar,6,-7,5,ENE,0.3,39,37,1022
+2017-02-25,Afghanistan,Carikar,8,-5,10,NW,0.3,49,8,1025
 2017-02-26,Afghanistan,Carikar,10,-3,4,NNW,0.0,40,0,1021
 2017-02-27,Afghanistan,Carikar,9,-3,3,SSW,0.0,35,17,1021
 2017-02-28,Afghanistan,Carikar,3,-4,4,W,1.2,67,41,1023
@@ -3069,7 +3069,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-05-28,Afghanistan,Carikar,26,11,17,NNW,0.0,19,0,1012
 2017-05-29,Afghanistan,Carikar,27,11,18,NNW,0.0,18,0,1012
 2017-05-30,Afghanistan,Carikar,22,8,23,NNW,0.0,37,2,1014
-2017-05-31,Afghanistan,Carikar,22,8,23,NNW,0.0,37,2,1014
+2017-05-31,Afghanistan,Carikar,20,7,16,NNW,0.0,31,0,1013
 2017-06-01,Afghanistan,Carikar,25,8,6,SE,0.0,16,0,1012
 2017-06-02,Afghanistan,Carikar,28,10,6,ENE,0.0,13,1,1011
 2017-06-03,Afghanistan,Carikar,30,12,7,WSW,0.0,16,5,1010
@@ -3339,7 +3339,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-02-22,Afghanistan,Carikar,9,-3,4,E,0.0,39,28,1018
 2018-02-23,Afghanistan,Carikar,8,-3,3,S,0.4,48,28,1017
 2018-02-24,Afghanistan,Carikar,5,-3,2,SW,1.4,67,22,1017
-2018-02-25,Afghanistan,Carikar,5,-3,2,SW,1.4,67,22,1017
+2018-02-25,Afghanistan,Carikar,9,-2,4,ESE,0.1,53,13,1021
 2018-02-26,Afghanistan,Carikar,8,-2,4,SSW,1.1,70,33,1017
 2018-02-27,Afghanistan,Carikar,10,0,4,SSW,1.7,55,11,1020
 2018-02-28,Afghanistan,Carikar,10,0,2,E,0.2,52,16,1019
@@ -3434,7 +3434,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-05-28,Afghanistan,Carikar,21,8,19,NNW,0.0,43,3,1016
 2018-05-29,Afghanistan,Carikar,22,7,11,NNW,0.0,37,1,1012
 2018-05-30,Afghanistan,Carikar,23,9,13,WNW,0.0,34,0,1014
-2018-05-31,Afghanistan,Carikar,23,9,13,WNW,0.0,34,0,1014
+2018-05-31,Afghanistan,Carikar,25,11,12,WNW,0.0,30,1,1013
 2018-06-01,Afghanistan,Carikar,27,11,9,NW,0.0,22,0,1013
 2018-06-02,Afghanistan,Carikar,29,13,10,WSW,0.0,18,1,1013
 2018-06-03,Afghanistan,Carikar,28,14,15,WNW,0.0,27,1,1013
@@ -3704,7 +3704,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-02-22,Afghanistan,Carikar,4,-8,5,WSW,0.0,34,2,1026
 2019-02-23,Afghanistan,Carikar,3,-10,5,SW,0.0,36,17,1024
 2019-02-24,Afghanistan,Carikar,2,-11,10,NNW,0.2,57,10,1023
-2019-02-25,Afghanistan,Carikar,2,-11,10,NNW,0.2,57,10,1023
+2019-02-25,Afghanistan,Carikar,1,-11,7,NW,0.1,55,6,1022
 2019-02-26,Afghanistan,Carikar,0,-9,4,NW,0.1,47,6,1021
 2019-02-27,Afghanistan,Carikar,1,-9,4,SE,0.0,46,5,1019
 2019-02-28,Afghanistan,Carikar,0,-8,4,SSE,0.5,56,43,1018
@@ -3799,7 +3799,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-05-28,Afghanistan,Carikar,23,8,16,W,0.0,25,1,1015
 2019-05-29,Afghanistan,Carikar,24,9,13,SW,0.0,28,3,1014
 2019-05-30,Afghanistan,Carikar,24,11,15,N,0.8,36,5,1013
-2019-05-31,Afghanistan,Carikar,24,11,15,N,0.8,36,5,1013
+2019-05-31,Afghanistan,Carikar,24,11,10,W,4.4,41,10,1013
 2019-06-01,Afghanistan,Carikar,24,11,11,WNW,1.8,41,4,1013
 2019-06-02,Afghanistan,Carikar,24,11,16,NW,1.9,43,5,1013
 2019-06-03,Afghanistan,Carikar,21,9,18,N,3.0,46,5,1013
@@ -4069,7 +4069,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-02-22,Afghanistan,Carikar,9,3,5,W,0.0,42,12,1025
 2020-02-23,Afghanistan,Carikar,8,-1,4,W,0.0,40,3,1023
 2020-02-24,Afghanistan,Carikar,7,1,5,WNW,0.0,40,8,1021
-2020-02-25,Afghanistan,Carikar,7,1,5,WNW,0.0,40,8,1021
+2020-02-25,Afghanistan,Carikar,9,-2,6,W,0.0,40,13,1019
 2020-02-26,Afghanistan,Carikar,10,2,4,SSW,0.2,42,39,1018
 2020-02-27,Afghanistan,Carikar,11,3,4,S,0.5,52,41,1017
 2020-02-28,Afghanistan,Carikar,5,-5,4,WSW,19.1,87,81,1016
@@ -4164,7 +4164,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-05-28,Afghanistan,Carikar,23,11,19,NNW,0.1,41,12,1011
 2020-05-29,Afghanistan,Carikar,24,13,14,NW,0.1,41,29,1011
 2020-05-30,Afghanistan,Carikar,24,11,12,NNW,0.0,33,11,1011
-2020-05-31,Afghanistan,Carikar,24,11,12,NNW,0.0,33,11,1011
+2020-05-31,Afghanistan,Carikar,25,12,15,NNW,0.0,26,0,1013
 2020-06-01,Afghanistan,Carikar,24,11,15,NNW,0.0,23,0,1013
 2020-06-02,Afghanistan,Carikar,23,13,17,NNW,0.0,25,0,1012
 2020-06-03,Afghanistan,Carikar,24,10,13,WSW,0.0,28,2,1011
@@ -4434,7 +4434,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-02-22,Afghanistan,Carikar,10,2,3,SW,3.4,71,65,1020
 2021-02-23,Afghanistan,Carikar,10,4,4,SSW,2.1,60,37,1017
 2021-02-24,Afghanistan,Carikar,12,3,5,SE,0.0,43,21,1018
-2021-02-25,Afghanistan,Carikar,12,3,5,SE,0.0,43,21,1018
+2021-02-25,Afghanistan,Carikar,11,4,7,WSW,1.1,52,51,1021
 2021-02-26,Afghanistan,Carikar,6,0,14,NW,7.4,68,68,1016
 2021-02-27,Afghanistan,Carikar,5,-3,22,NNW,0.0,44,1,1018
 2021-02-28,Afghanistan,Carikar,7,-4,7,WSW,0.0,31,0,1018
@@ -4529,7 +4529,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-05-28,Afghanistan,Carikar,26,17,11,NW,0.1,27,24,1011
 2021-05-29,Afghanistan,Carikar,27,18,11,WNW,0.0,30,13,1012
 2021-05-30,Afghanistan,Carikar,26,17,17,NNW,0.0,28,1,1011
-2021-05-31,Afghanistan,Carikar,26,17,17,NNW,0.0,28,1,1011
+2021-05-31,Afghanistan,Carikar,26,15,20,NNW,0.0,26,0,1009
 2021-06-01,Afghanistan,Carikar,26,14,18,NNW,0.0,23,0,1009
 2021-06-02,Afghanistan,Carikar,28,17,20,NNW,0.0,22,0,1010
 2021-06-03,Afghanistan,Carikar,28,17,16,NNW,0.0,21,0,1012
@@ -4559,3 +4559,4 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-27,Afghanistan,Carikar,27,15,8,WSW,0.1,28,19,1010
 2021-06-28,Afghanistan,Carikar,28,14,11,WNW,0.0,25,11,1010
 2021-06-29,Afghanistan,Carikar,28,14,14,W,0.0,26,16,1008
+2021-06-30,Afghanistan,Carikar,28,14,19,NNW,0.0,21,6,1007

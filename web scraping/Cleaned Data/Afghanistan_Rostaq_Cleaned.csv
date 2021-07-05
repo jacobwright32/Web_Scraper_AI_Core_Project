@@ -1,4 +1,4 @@
-Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
+date,country,city,maximum_temprature,minimum_temprature,wind_speed,wind_direction,amount_of_rain,humidity,cloud_coverage,pressure
 2009-01-01,Afghanistan,Rostaq,13,2,10,E,0.0,40,21,1021
 2009-01-02,Afghanistan,Rostaq,15,8,9,ESE,4.9,64,50,1013
 2009-01-03,Afghanistan,Rostaq,7,-1,11,SW,29.6,94,97,1018
@@ -337,7 +337,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-12-02,Afghanistan,Rostaq,14,6,4,SSE,0.0,76,14,1025
 2009-12-03,Afghanistan,Rostaq,12,5,6,SW,7.4,76,38,1021
 2009-12-04,Afghanistan,Rostaq,1,0,5,WSW,20.5,97,98,1025
-2009-12-05,Afghanistan,Rostaq,1,0,5,WSW,20.5,97,98,1025
+2009-12-05,Afghanistan,Rostaq,6,-1,5,SSW,0.6,85,60,1028
 2009-12-06,Afghanistan,Rostaq,8,-1,7,SE,0.0,78,3,1026
 2009-12-07,Afghanistan,Rostaq,10,1,8,ESE,0.0,61,39,1024
 2009-12-08,Afghanistan,Rostaq,13,4,8,ESE,0.1,55,43,1017
@@ -702,7 +702,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-12-02,Afghanistan,Rostaq,15,2,4,SSE,0.0,45,4,1023
 2010-12-03,Afghanistan,Rostaq,17,2,5,SSE,0.1,34,50,1025
 2010-12-04,Afghanistan,Rostaq,7,2,6,SSW,3.3,69,43,1031
-2010-12-05,Afghanistan,Rostaq,7,2,6,SSW,3.3,69,43,1031
+2010-12-05,Afghanistan,Rostaq,7,1,7,SW,0.4,73,56,1026
 2010-12-06,Afghanistan,Rostaq,3,0,7,W,0.9,79,65,1024
 2010-12-07,Afghanistan,Rostaq,4,-3,4,S,0.0,86,10,1025
 2010-12-08,Afghanistan,Rostaq,8,-2,5,SE,0.0,72,5,1027
@@ -1067,7 +1067,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-12-02,Afghanistan,Rostaq,10,2,8,SSW,0.5,55,24,1023
 2011-12-03,Afghanistan,Rostaq,8,2,6,WSW,2.9,74,16,1023
 2011-12-04,Afghanistan,Rostaq,8,0,8,SW,0.0,72,16,1025
-2011-12-05,Afghanistan,Rostaq,8,0,8,SW,0.0,72,16,1025
+2011-12-05,Afghanistan,Rostaq,1,-2,10,WSW,9.2,86,65,1031
 2011-12-06,Afghanistan,Rostaq,1,-5,4,W,0.1,80,15,1032
 2011-12-07,Afghanistan,Rostaq,6,-2,4,SW,0.0,60,3,1030
 2011-12-08,Afghanistan,Rostaq,6,0,4,SSW,0.0,49,10,1027
@@ -1432,7 +1432,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-12-02,Afghanistan,Rostaq,12,1,3,SSE,0.0,41,1,1023
 2012-12-03,Afghanistan,Rostaq,14,2,5,SE,0.0,37,0,1024
 2012-12-04,Afghanistan,Rostaq,14,3,7,ESE,0.0,40,46,1021
-2012-12-05,Afghanistan,Rostaq,14,3,7,ESE,0.0,40,46,1021
+2012-12-05,Afghanistan,Rostaq,16,4,6,ESE,0.0,34,20,1020
 2012-12-06,Afghanistan,Rostaq,17,7,7,ESE,0.0,35,20,1021
 2012-12-07,Afghanistan,Rostaq,15,5,7,SSE,10.8,46,55,1019
 2012-12-08,Afghanistan,Rostaq,14,5,7,SSE,4.5,67,15,1026
@@ -1797,7 +1797,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-12-02,Afghanistan,Rostaq,7,4,6,SSW,3.0,74,36,1027
 2013-12-03,Afghanistan,Rostaq,17,7,5,ENE,0.0,44,16,1020
 2013-12-04,Afghanistan,Rostaq,21,9,6,E,0.0,28,37,1018
-2013-12-05,Afghanistan,Rostaq,21,9,6,E,0.0,28,37,1018
+2013-12-05,Afghanistan,Rostaq,8,6,10,SW,7.7,75,60,1025
 2013-12-06,Afghanistan,Rostaq,18,6,5,SE,0.2,54,33,1017
 2013-12-07,Afghanistan,Rostaq,9,5,8,SW,13.3,84,79,1018
 2013-12-08,Afghanistan,Rostaq,12,3,4,WSW,1.0,75,30,1018
@@ -2162,7 +2162,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-12-02,Afghanistan,Rostaq,17,6,4,SE,0.0,39,22,1020
 2014-12-03,Afghanistan,Rostaq,11,4,6,S,0.7,64,33,1025
 2014-12-04,Afghanistan,Rostaq,5,-3,8,SSW,4.1,90,74,1031
-2014-12-05,Afghanistan,Rostaq,5,-3,8,SSW,4.1,90,74,1031
+2014-12-05,Afghanistan,Rostaq,7,-4,3,W,0.0,71,7,1029
 2014-12-06,Afghanistan,Rostaq,9,0,4,SSE,0.0,55,41,1026
 2014-12-07,Afghanistan,Rostaq,1,-8,9,SSW,4.8,87,58,1037
 2014-12-08,Afghanistan,Rostaq,0,-8,4,S,0.0,81,5,1040
@@ -2527,7 +2527,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-12-02,Afghanistan,Rostaq,18,8,5,NE,0.0,27,9,1025
 2015-12-03,Afghanistan,Rostaq,23,10,7,NE,0.0,20,23,1022
 2015-12-04,Afghanistan,Rostaq,23,15,7,ENE,0.0,22,34,1019
-2015-12-05,Afghanistan,Rostaq,23,15,7,ENE,0.0,22,34,1019
+2015-12-05,Afghanistan,Rostaq,14,8,10,SSW,0.0,48,16,1023
 2015-12-06,Afghanistan,Rostaq,10,5,6,W,0.1,43,14,1028
 2015-12-07,Afghanistan,Rostaq,13,4,5,WNW,0.0,38,21,1022
 2015-12-08,Afghanistan,Rostaq,11,6,7,W,1.5,50,50,1020
@@ -2892,7 +2892,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-12-02,Afghanistan,Rostaq,19,4,6,NE,0.0,26,35,1024
 2016-12-03,Afghanistan,Rostaq,22,9,7,ENE,0.2,25,42,1023
 2016-12-04,Afghanistan,Rostaq,22,12,6,ESE,2.8,48,13,1028
-2016-12-05,Afghanistan,Rostaq,22,12,6,ESE,2.8,48,13,1028
+2016-12-05,Afghanistan,Rostaq,23,10,6,ESE,0.0,29,22,1026
 2016-12-06,Afghanistan,Rostaq,23,11,8,ESE,0.0,26,38,1023
 2016-12-07,Afghanistan,Rostaq,20,9,10,S,0.2,49,26,1021
 2016-12-08,Afghanistan,Rostaq,16,7,5,SSW,0.6,63,48,1021
@@ -3257,7 +3257,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-12-02,Afghanistan,Rostaq,6,4,8,SW,7.7,60,81,1032
 2017-12-03,Afghanistan,Rostaq,1,-1,8,SW,5.8,77,77,1035
 2017-12-04,Afghanistan,Rostaq,0,-2,5,W,2.1,62,89,1036
-2017-12-05,Afghanistan,Rostaq,0,-2,5,W,2.1,62,89,1036
+2017-12-05,Afghanistan,Rostaq,5,-3,4,S,0.2,58,9,1032
 2017-12-06,Afghanistan,Rostaq,10,0,5,SSE,0.0,40,2,1027
 2017-12-07,Afghanistan,Rostaq,15,3,7,NE,0.0,24,4,1024
 2017-12-08,Afghanistan,Rostaq,20,9,8,E,0.0,25,31,1014
@@ -3622,7 +3622,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-12-02,Afghanistan,Rostaq,16,7,3,SSW,0.0,37,0,1026
 2018-12-03,Afghanistan,Rostaq,16,7,4,SSW,0.0,23,18,1023
 2018-12-04,Afghanistan,Rostaq,12,5,3,WNW,0.0,36,57,1027
-2018-12-05,Afghanistan,Rostaq,12,5,3,WNW,0.0,36,57,1027
+2018-12-05,Afghanistan,Rostaq,11,4,3,SW,0.0,35,28,1027
 2018-12-06,Afghanistan,Rostaq,16,6,7,ENE,0.0,28,13,1022
 2018-12-07,Afghanistan,Rostaq,19,8,7,ENE,0.0,17,39,1015
 2018-12-08,Afghanistan,Rostaq,16,11,6,E,0.2,30,61,1016
@@ -3987,7 +3987,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-12-02,Afghanistan,Rostaq,17,6,5,ESE,0.0,34,6,1025
 2019-12-03,Afghanistan,Rostaq,16,6,4,SSE,0.0,25,46,1023
 2019-12-04,Afghanistan,Rostaq,17,7,3,S,0.0,24,0,1020
-2019-12-05,Afghanistan,Rostaq,17,7,3,S,0.0,24,0,1020
+2019-12-05,Afghanistan,Rostaq,17,6,3,S,0.0,22,4,1024
 2019-12-06,Afghanistan,Rostaq,14,7,4,SSW,0.0,41,8,1030
 2019-12-07,Afghanistan,Rostaq,12,5,2,WSW,0.0,56,3,1029
 2019-12-08,Afghanistan,Rostaq,15,4,3,S,0.0,26,31,1023
@@ -4352,7 +4352,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-12-02,Afghanistan,Rostaq,16,8,5,W,0.0,58,10,1025
 2020-12-03,Afghanistan,Rostaq,12,8,4,SW,0.2,58,43,1024
 2020-12-04,Afghanistan,Rostaq,6,0,6,SSW,14.2,88,95,1025
-2020-12-05,Afghanistan,Rostaq,6,0,6,SSW,14.2,88,95,1025
+2020-12-05,Afghanistan,Rostaq,7,3,2,SW,0.2,74,46,1027
 2020-12-06,Afghanistan,Rostaq,8,2,2,WSW,0.0,69,37,1027
 2020-12-07,Afghanistan,Rostaq,6,-2,4,SW,2.5,78,97,1022
 2020-12-08,Afghanistan,Rostaq,5,1,6,SSW,9.9,90,100,1025
@@ -4559,3 +4559,4 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-27,Afghanistan,Rostaq,37,25,6,SSW,0.0,14,4,1004
 2021-06-28,Afghanistan,Rostaq,38,26,8,SSW,0.0,14,5,1005
 2021-06-29,Afghanistan,Rostaq,39,27,7,SSW,0.0,13,17,1004
+2021-06-30,Afghanistan,Rostaq,38,27,9,SSW,0.0,13,12,1003

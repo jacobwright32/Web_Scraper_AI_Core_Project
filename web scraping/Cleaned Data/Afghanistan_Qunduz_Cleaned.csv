@@ -1,4 +1,4 @@
-Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
+date,country,city,maximum_temprature,minimum_temprature,wind_speed,wind_direction,amount_of_rain,humidity,cloud_coverage,pressure
 2009-01-01,Afghanistan,Qunduz,15,2,5,E,0.0,38,19,1020
 2009-01-02,Afghanistan,Qunduz,16,10,8,SW,3.8,60,44,1013
 2009-01-03,Afghanistan,Qunduz,2,1,11,WSW,24.0,93,80,1020
@@ -232,7 +232,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-08-19,Afghanistan,Qunduz,34,21,10,SW,0.0,14,1,1013
 2009-08-20,Afghanistan,Qunduz,33,21,9,WSW,0.0,15,2,1013
 2009-08-21,Afghanistan,Qunduz,36,22,6,WSW,0.0,16,1,1012
-2009-08-22,Afghanistan,Qunduz,36,22,6,WSW,0.0,16,1,1012
+2009-08-22,Afghanistan,Qunduz,34,21,8,SW,0.0,16,0,1011
 2009-08-23,Afghanistan,Qunduz,36,20,6,SSW,0.0,16,1,1010
 2009-08-24,Afghanistan,Qunduz,37,21,7,SW,0.0,14,3,1010
 2009-08-25,Afghanistan,Qunduz,32,23,10,WNW,0.0,27,11,1014
@@ -597,7 +597,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-08-19,Afghanistan,Qunduz,40,23,7,WSW,0.0,17,0,1009
 2010-08-20,Afghanistan,Qunduz,40,26,8,WSW,0.0,17,0,1011
 2010-08-21,Afghanistan,Qunduz,39,22,9,WSW,0.0,13,0,1010
-2010-08-22,Afghanistan,Qunduz,39,22,9,WSW,0.0,13,0,1010
+2010-08-22,Afghanistan,Qunduz,40,23,8,WSW,0.0,12,0,1007
 2010-08-23,Afghanistan,Qunduz,31,25,13,WNW,0.0,20,7,1011
 2010-08-24,Afghanistan,Qunduz,31,18,7,WNW,0.0,16,3,1013
 2010-08-25,Afghanistan,Qunduz,31,16,8,WSW,0.0,17,4,1012
@@ -962,7 +962,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-08-19,Afghanistan,Qunduz,35,23,10,W,0.0,11,0,1008
 2011-08-20,Afghanistan,Qunduz,37,24,8,WSW,0.0,11,0,1010
 2011-08-21,Afghanistan,Qunduz,38,24,10,WSW,0.0,12,0,1011
-2011-08-22,Afghanistan,Qunduz,38,24,10,WSW,0.0,12,0,1011
+2011-08-22,Afghanistan,Qunduz,38,25,10,WSW,0.0,15,0,1009
 2011-08-23,Afghanistan,Qunduz,37,27,9,W,0.0,14,0,1008
 2011-08-24,Afghanistan,Qunduz,40,25,10,WSW,0.0,14,2,1006
 2011-08-25,Afghanistan,Qunduz,35,26,13,W,0.0,20,14,1009
@@ -1327,7 +1327,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-08-19,Afghanistan,Qunduz,37,27,12,WSW,0.0,12,0,1007
 2012-08-20,Afghanistan,Qunduz,37,26,11,WSW,0.0,12,0,1007
 2012-08-21,Afghanistan,Qunduz,37,26,9,WSW,0.0,12,0,1005
-2012-08-22,Afghanistan,Qunduz,37,26,9,WSW,0.0,12,0,1005
+2012-08-22,Afghanistan,Qunduz,38,26,11,WSW,0.0,12,0,1006
 2012-08-23,Afghanistan,Qunduz,37,26,10,WSW,0.0,11,0,1007
 2012-08-24,Afghanistan,Qunduz,34,25,15,W,0.0,18,1,1012
 2012-08-25,Afghanistan,Qunduz,30,21,8,WNW,0.0,25,5,1012
@@ -1692,7 +1692,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-08-19,Afghanistan,Qunduz,34,25,10,W,0.0,16,12,1008
 2013-08-20,Afghanistan,Qunduz,34,24,11,WSW,0.0,14,1,1009
 2013-08-21,Afghanistan,Qunduz,34,23,12,SW,0.0,14,0,1009
-2013-08-22,Afghanistan,Qunduz,34,23,12,SW,0.0,14,0,1009
+2013-08-22,Afghanistan,Qunduz,35,24,11,WSW,0.0,14,0,1010
 2013-08-23,Afghanistan,Qunduz,34,23,12,WSW,0.0,15,0,1011
 2013-08-24,Afghanistan,Qunduz,33,24,11,W,0.0,20,3,1012
 2013-08-25,Afghanistan,Qunduz,35,24,8,W,0.0,18,1,1011
@@ -2057,7 +2057,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-08-19,Afghanistan,Qunduz,37,23,6,W,0.0,12,0,1012
 2014-08-20,Afghanistan,Qunduz,38,24,9,WSW,0.0,10,0,1011
 2014-08-21,Afghanistan,Qunduz,35,25,10,WSW,0.0,11,0,1008
-2014-08-22,Afghanistan,Qunduz,35,25,10,WSW,0.0,11,0,1008
+2014-08-22,Afghanistan,Qunduz,37,24,9,WSW,0.0,11,2,1007
 2014-08-23,Afghanistan,Qunduz,38,25,10,WSW,0.0,12,11,1009
 2014-08-24,Afghanistan,Qunduz,37,27,10,WSW,0.0,14,3,1010
 2014-08-25,Afghanistan,Qunduz,37,26,10,SW,0.0,13,7,1011
@@ -2422,7 +2422,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-08-19,Afghanistan,Qunduz,41,27,9,WSW,0.0,9,0,1009
 2015-08-20,Afghanistan,Qunduz,41,29,10,SW,0.0,11,0,1008
 2015-08-21,Afghanistan,Qunduz,38,29,11,WSW,0.0,11,0,1008
-2015-08-22,Afghanistan,Qunduz,38,29,11,WSW,0.0,11,0,1008
+2015-08-22,Afghanistan,Qunduz,34,24,18,WSW,1.6,19,5,1010
 2015-08-23,Afghanistan,Qunduz,32,24,11,NW,0.8,21,13,1011
 2015-08-24,Afghanistan,Qunduz,33,20,6,WNW,0.1,27,3,1010
 2015-08-25,Afghanistan,Qunduz,37,27,7,WSW,0.0,24,8,1008
@@ -2787,7 +2787,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-08-19,Afghanistan,Qunduz,34,23,9,WSW,0.0,14,5,1010
 2016-08-20,Afghanistan,Qunduz,35,26,9,WSW,0.0,14,0,1012
 2016-08-21,Afghanistan,Qunduz,38,26,10,WSW,0.0,15,0,1011
-2016-08-22,Afghanistan,Qunduz,38,26,10,WSW,0.0,15,0,1011
+2016-08-22,Afghanistan,Qunduz,33,25,10,WSW,0.0,14,0,1012
 2016-08-23,Afghanistan,Qunduz,32,22,9,WSW,0.0,14,0,1013
 2016-08-24,Afghanistan,Qunduz,36,23,9,W,0.0,16,3,1011
 2016-08-25,Afghanistan,Qunduz,31,23,9,W,0.0,15,4,1013
@@ -3152,7 +3152,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-08-19,Afghanistan,Qunduz,32,24,9,WSW,0.0,14,0,1012
 2017-08-20,Afghanistan,Qunduz,32,24,10,WSW,0.0,14,0,1014
 2017-08-21,Afghanistan,Qunduz,34,23,11,WSW,0.0,15,0,1012
-2017-08-22,Afghanistan,Qunduz,34,23,11,WSW,0.0,15,0,1012
+2017-08-22,Afghanistan,Qunduz,36,25,9,WSW,0.0,15,0,1010
 2017-08-23,Afghanistan,Qunduz,32,25,10,WSW,0.0,13,0,1012
 2017-08-24,Afghanistan,Qunduz,31,23,9,WSW,0.0,13,0,1012
 2017-08-25,Afghanistan,Qunduz,31,21,10,WSW,0.0,14,0,1011
@@ -3517,7 +3517,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-08-19,Afghanistan,Qunduz,35,26,10,WSW,0.0,13,0,1008
 2018-08-20,Afghanistan,Qunduz,37,26,11,WSW,0.0,12,0,1010
 2018-08-21,Afghanistan,Qunduz,34,25,10,WNW,0.0,23,2,1013
-2018-08-22,Afghanistan,Qunduz,34,25,10,WNW,0.0,23,2,1013
+2018-08-22,Afghanistan,Qunduz,29,23,8,WSW,0.0,23,3,1012
 2018-08-23,Afghanistan,Qunduz,30,23,9,WSW,0.0,21,2,1012
 2018-08-24,Afghanistan,Qunduz,34,23,11,SW,0.0,16,2,1014
 2018-08-25,Afghanistan,Qunduz,34,23,10,WSW,0.0,16,0,1011
@@ -3882,7 +3882,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-08-19,Afghanistan,Qunduz,31,20,7,WSW,0.0,22,0,1013
 2019-08-20,Afghanistan,Qunduz,32,19,8,WSW,0.0,21,0,1013
 2019-08-21,Afghanistan,Qunduz,32,21,7,WSW,0.0,22,0,1011
-2019-08-22,Afghanistan,Qunduz,32,21,7,WSW,0.0,22,0,1011
+2019-08-22,Afghanistan,Qunduz,34,20,7,WSW,0.0,21,0,1010
 2019-08-23,Afghanistan,Qunduz,34,22,8,WSW,0.0,19,0,1010
 2019-08-24,Afghanistan,Qunduz,31,21,10,SW,0.0,20,3,1012
 2019-08-25,Afghanistan,Qunduz,32,19,6,W,0.0,18,4,1010
@@ -4247,7 +4247,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-08-19,Afghanistan,Qunduz,33,22,10,SW,0.0,21,3,1009
 2020-08-20,Afghanistan,Qunduz,35,21,8,WSW,0.0,16,2,1009
 2020-08-21,Afghanistan,Qunduz,36,22,6,W,0.0,18,0,1009
-2020-08-22,Afghanistan,Qunduz,36,22,6,W,0.0,18,0,1009
+2020-08-22,Afghanistan,Qunduz,39,24,6,W,0.0,19,0,1006
 2020-08-23,Afghanistan,Qunduz,41,25,6,WNW,0.0,17,0,1003
 2020-08-24,Afghanistan,Qunduz,38,27,14,WSW,0.0,17,0,1004
 2020-08-25,Afghanistan,Qunduz,34,23,13,WSW,0.0,27,7,1010
@@ -4559,3 +4559,4 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-27,Afghanistan,Qunduz,40,28,9,WSW,0.0,12,6,1004
 2021-06-28,Afghanistan,Qunduz,40,29,13,WSW,0.0,11,9,1004
 2021-06-29,Afghanistan,Qunduz,40,30,10,WSW,0.0,10,18,1003
+2021-06-30,Afghanistan,Qunduz,40,32,13,WSW,0.0,10,19,1002

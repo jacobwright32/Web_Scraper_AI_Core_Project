@@ -1,4 +1,4 @@
-Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
+date,country,city,maximum_temprature,minimum_temprature,wind_speed,wind_direction,amount_of_rain,humidity,cloud_coverage,pressure
 2009-01-01,Afghanistan,Khulm,13,4,8,ENE,0.0,52,18,1019
 2009-01-02,Afghanistan,Khulm,12,8,10,S,2.4,68,40,1012
 2009-01-03,Afghanistan,Khulm,3,1,23,WSW,10.6,81,71,1021
@@ -58,6 +58,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-02-26,Afghanistan,Khulm,16,5,8,NE,0.0,57,4,1021
 2009-02-27,Afghanistan,Khulm,16,6,7,NE,0.0,50,9,1023
 2009-02-28,Afghanistan,Khulm,17,7,14,ENE,0.0,43,16,1017
+2009-03-01,Afghanistan,Khulm,23,12,11,NE,0.0,43,22,1011
 2009-03-02,Afghanistan,Khulm,20,13,14,ENE,0.0,61,21,1009
 2009-03-03,Afghanistan,Khulm,14,9,18,SSW,18.0,73,41,1009
 2009-03-04,Afghanistan,Khulm,16,8,8,E,0.4,71,38,1018
@@ -132,7 +133,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-05-12,Afghanistan,Khulm,31,18,8,ENE,0.0,40,7,1016
 2009-05-13,Afghanistan,Khulm,33,19,6,SE,0.0,36,11,1013
 2009-05-14,Afghanistan,Khulm,33,21,11,SW,0.2,36,13,1014
-2009-05-15,Afghanistan,Khulm,33,21,11,SW,0.2,36,13,1014
+2009-05-15,Afghanistan,Khulm,33,19,6,E,0.0,36,8,1016
 2009-05-16,Afghanistan,Khulm,33,20,8,E,0.0,36,6,1017
 2009-05-17,Afghanistan,Khulm,36,21,10,ENE,0.0,31,4,1012
 2009-05-18,Afghanistan,Khulm,33,22,12,SSW,0.1,32,27,1010
@@ -422,6 +423,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-02-26,Afghanistan,Khulm,15,10,14,SW,3.2,79,41,1015
 2010-02-27,Afghanistan,Khulm,13,8,10,ENE,0.2,79,22,1014
 2010-02-28,Afghanistan,Khulm,14,10,9,ESE,13.2,81,54,1012
+2010-03-01,Afghanistan,Khulm,18,11,15,SW,4.0,74,36,1019
 2010-03-02,Afghanistan,Khulm,20,9,10,NE,0.0,66,21,1018
 2010-03-03,Afghanistan,Khulm,19,11,9,SSE,4.0,66,49,1007
 2010-03-04,Afghanistan,Khulm,19,9,9,SE,0.3,78,40,1013
@@ -496,7 +498,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-05-12,Afghanistan,Khulm,31,19,5,S,0.4,39,15,1015
 2010-05-13,Afghanistan,Khulm,33,19,6,SSW,0.0,34,18,1015
 2010-05-14,Afghanistan,Khulm,33,20,9,E,0.0,35,9,1013
-2010-05-15,Afghanistan,Khulm,33,20,9,E,0.0,35,9,1013
+2010-05-15,Afghanistan,Khulm,35,21,9,ENE,0.0,34,21,1009
 2010-05-16,Afghanistan,Khulm,29,21,7,SE,2.0,63,30,1008
 2010-05-17,Afghanistan,Khulm,29,19,11,WSW,0.0,48,29,1009
 2010-05-18,Afghanistan,Khulm,33,19,6,SE,0.0,35,5,1012
@@ -786,6 +788,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-02-26,Afghanistan,Khulm,4,-2,7,SW,0.0,42,35,1035
 2011-02-27,Afghanistan,Khulm,15,-3,9,SE,0.4,56,35,1026
 2011-02-28,Afghanistan,Khulm,6,0,6,WSW,0.0,59,57,1027
+2011-03-01,Afghanistan,Khulm,6,-1,7,ESE,0.0,80,30,1024
 2011-03-02,Afghanistan,Khulm,7,2,9,SW,6.8,83,74,1023
 2011-03-03,Afghanistan,Khulm,17,3,10,SSE,0.9,60,54,1016
 2011-03-04,Afghanistan,Khulm,18,10,9,SE,0.9,57,55,1016
@@ -860,7 +863,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-05-12,Afghanistan,Khulm,30,21,7,ESE,0.0,34,7,1015
 2011-05-13,Afghanistan,Khulm,34,23,14,ENE,0.0,26,0,1011
 2011-05-14,Afghanistan,Khulm,37,24,10,ENE,0.0,16,7,1009
-2011-05-15,Afghanistan,Khulm,37,24,10,ENE,0.0,16,7,1009
+2011-05-15,Afghanistan,Khulm,41,26,10,ENE,0.0,13,1,1011
 2011-05-16,Afghanistan,Khulm,42,28,17,S,0.0,15,7,1011
 2011-05-17,Afghanistan,Khulm,38,29,13,WNW,0.0,24,7,1015
 2011-05-18,Afghanistan,Khulm,39,28,21,W,0.0,15,5,1013
@@ -1150,6 +1153,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-02-26,Afghanistan,Khulm,12,3,13,ENE,0.7,42,53,1011
 2012-02-27,Afghanistan,Khulm,11,5,16,SSW,10.7,67,57,1020
 2012-02-28,Afghanistan,Khulm,14,4,13,E,0.0,64,6,1020
+2012-03-01,Afghanistan,Khulm,17,7,13,ENE,0.0,44,31,1011
 2012-03-02,Afghanistan,Khulm,19,10,12,ENE,0.0,41,35,1008
 2012-03-03,Afghanistan,Khulm,20,11,16,E,0.9,52,36,1002
 2012-03-04,Afghanistan,Khulm,11,7,15,S,22.3,77,84,1010
@@ -1224,7 +1228,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-05-12,Afghanistan,Khulm,28,20,8,SSW,0.0,35,11,1015
 2012-05-13,Afghanistan,Khulm,29,21,7,ENE,0.0,31,5,1014
 2012-05-14,Afghanistan,Khulm,32,21,9,ENE,0.0,28,10,1011
-2012-05-15,Afghanistan,Khulm,32,21,9,ENE,0.0,28,10,1011
+2012-05-15,Afghanistan,Khulm,32,23,10,SE,0.2,30,22,1011
 2012-05-16,Afghanistan,Khulm,31,23,8,SSW,0.2,38,24,1008
 2012-05-17,Afghanistan,Khulm,30,24,8,WSW,0.0,32,19,1009
 2012-05-18,Afghanistan,Khulm,30,22,5,ESE,0.1,35,9,1013
@@ -1514,6 +1518,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-02-26,Afghanistan,Khulm,8,5,25,W,5.3,52,73,1025
 2013-02-27,Afghanistan,Khulm,6,2,11,S,2.9,61,54,1028
 2013-02-28,Afghanistan,Khulm,13,1,14,E,0.0,56,11,1026
+2013-03-01,Afghanistan,Khulm,19,7,14,E,0.0,35,13,1022
 2013-03-02,Afghanistan,Khulm,23,10,11,ENE,0.0,31,23,1019
 2013-03-03,Afghanistan,Khulm,21,14,13,SSW,0.0,37,24,1020
 2013-03-04,Afghanistan,Khulm,22,12,11,ENE,0.1,56,13,1023
@@ -1588,7 +1593,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-05-12,Afghanistan,Khulm,30,21,14,WNW,0.0,18,6,1012
 2013-05-13,Afghanistan,Khulm,30,21,7,SSW,0.0,24,4,1013
 2013-05-14,Afghanistan,Khulm,33,21,7,ENE,0.0,19,1,1009
-2013-05-15,Afghanistan,Khulm,33,21,7,ENE,0.0,19,1,1009
+2013-05-15,Afghanistan,Khulm,35,22,7,SSE,0.0,14,6,1008
 2013-05-16,Afghanistan,Khulm,36,24,6,SE,0.0,15,0,1009
 2013-05-17,Afghanistan,Khulm,37,25,7,ESE,0.0,15,0,1009
 2013-05-18,Afghanistan,Khulm,40,26,20,SE,0.0,15,11,1002
@@ -1878,6 +1883,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-02-26,Afghanistan,Khulm,8,3,6,WSW,0.3,48,59,1030
 2014-02-27,Afghanistan,Khulm,12,3,5,E,0.0,55,14,1028
 2014-02-28,Afghanistan,Khulm,15,6,8,E,0.0,55,0,1021
+2014-03-01,Afghanistan,Khulm,17,7,6,ENE,0.0,48,13,1017
 2014-03-02,Afghanistan,Khulm,17,8,11,S,0.0,38,24,1018
 2014-03-03,Afghanistan,Khulm,13,7,10,WSW,0.2,59,59,1019
 2014-03-04,Afghanistan,Khulm,17,8,7,NE,0.0,49,15,1020
@@ -1952,7 +1958,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-05-12,Afghanistan,Khulm,30,22,16,WSW,0.0,14,1,1011
 2014-05-13,Afghanistan,Khulm,29,20,5,WSW,0.0,16,1,1012
 2014-05-14,Afghanistan,Khulm,31,21,7,ESE,0.0,18,0,1009
-2014-05-15,Afghanistan,Khulm,31,21,7,ESE,0.0,18,0,1009
+2014-05-15,Afghanistan,Khulm,34,22,3,E,0.0,18,0,1006
 2014-05-16,Afghanistan,Khulm,35,24,6,SSE,0.0,19,17,1004
 2014-05-17,Afghanistan,Khulm,34,25,8,SSW,0.0,20,40,1007
 2014-05-18,Afghanistan,Khulm,31,26,14,WSW,0.0,25,27,1010
@@ -2242,6 +2248,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-02-26,Afghanistan,Khulm,4,-1,6,ENE,0.0,85,43,1026
 2015-02-27,Afghanistan,Khulm,8,1,6,SW,0.0,69,94,1029
 2015-02-28,Afghanistan,Khulm,8,3,6,SW,0.0,59,42,1027
+2015-03-01,Afghanistan,Khulm,12,3,5,SSE,0.0,58,41,1017
 2015-03-02,Afghanistan,Khulm,14,6,3,WSW,0.0,50,31,1016
 2015-03-03,Afghanistan,Khulm,16,8,9,E,0.2,55,26,1018
 2015-03-04,Afghanistan,Khulm,14,9,6,SSW,0.0,49,52,1015
@@ -2316,7 +2323,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-05-12,Afghanistan,Khulm,31,22,9,SSE,1.1,45,44,1015
 2015-05-13,Afghanistan,Khulm,31,22,7,SE,0.3,37,11,1016
 2015-05-14,Afghanistan,Khulm,32,24,11,E,0.0,27,7,1016
-2015-05-15,Afghanistan,Khulm,32,24,11,E,0.0,27,7,1016
+2015-05-15,Afghanistan,Khulm,36,25,12,E,0.0,22,5,1011
 2015-05-16,Afghanistan,Khulm,31,27,27,SW,5.0,28,30,1012
 2015-05-17,Afghanistan,Khulm,29,23,19,WSW,1.7,31,14,1015
 2015-05-18,Afghanistan,Khulm,30,22,8,SE,0.0,34,4,1016
@@ -2606,6 +2613,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-02-26,Afghanistan,Khulm,24,12,8,S,0.0,31,2,1021
 2016-02-27,Afghanistan,Khulm,24,14,4,S,0.0,30,0,1024
 2016-02-28,Afghanistan,Khulm,24,14,5,SSE,0.0,31,3,1022
+2016-03-01,Afghanistan,Khulm,19,13,23,WNW,2.7,49,58,1022
 2016-03-02,Afghanistan,Khulm,17,11,9,W,0.6,55,52,1025
 2016-03-03,Afghanistan,Khulm,20,12,4,SSE,0.0,54,15,1020
 2016-03-04,Afghanistan,Khulm,21,14,9,W,0.0,49,16,1015
@@ -2680,7 +2688,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-05-12,Afghanistan,Khulm,29,19,8,SW,0.1,41,14,1014
 2016-05-13,Afghanistan,Khulm,33,22,8,SE,0.0,36,6,1010
 2016-05-14,Afghanistan,Khulm,33,23,8,ESE,3.6,34,16,1012
-2016-05-15,Afghanistan,Khulm,33,23,8,ESE,3.6,34,16,1012
+2016-05-15,Afghanistan,Khulm,33,23,9,E,0.0,32,11,1014
 2016-05-16,Afghanistan,Khulm,35,23,10,SSE,0.8,28,5,1012
 2016-05-17,Afghanistan,Khulm,36,24,13,SE,0.5,25,5,1010
 2016-05-18,Afghanistan,Khulm,34,26,22,SW,3.2,24,5,1013
@@ -2725,7 +2733,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-06-26,Afghanistan,Khulm,39,27,16,W,0.0,12,17,1007
 2016-06-27,Afghanistan,Khulm,37,31,32,W,0.0,18,26,1008
 2016-06-28,Afghanistan,Khulm,36,27,19,W,0.5,18,6,1008
-2016-06-29,Afghanistan,Khulm,40,27,8,WNW,0.0,18,1,1006
+2016-06-29,Afghanistan,Khulm,40,27,9,WNW,0.0,18,1,1006
 2016-06-30,Afghanistan,Khulm,41,30,18,W,0.0,12,3,1005
 2016-07-01,Afghanistan,Khulm,42,30,16,W,0.0,10,0,1003
 2016-07-02,Afghanistan,Khulm,43,29,22,WSW,0.0,11,0,1002
@@ -2970,6 +2978,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-02-26,Afghanistan,Khulm,16,7,10,E,0.0,52,2,1022
 2017-02-27,Afghanistan,Khulm,17,8,13,SE,0.0,45,20,1020
 2017-02-28,Afghanistan,Khulm,11,7,12,WSW,1.2,70,81,1025
+2017-03-01,Afghanistan,Khulm,14,6,8,S,0.0,64,11,1026
 2017-03-02,Afghanistan,Khulm,14,6,5,SW,0.0,47,20,1026
 2017-03-03,Afghanistan,Khulm,12,6,15,W,0.0,41,4,1022
 2017-03-04,Afghanistan,Khulm,14,3,7,E,0.0,36,4,1020
@@ -3044,7 +3053,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-05-12,Afghanistan,Khulm,37,26,6,ESE,0.0,22,0,1012
 2017-05-13,Afghanistan,Khulm,38,26,11,WSW,0.0,17,11,1011
 2017-05-14,Afghanistan,Khulm,36,27,13,W,0.0,15,5,1010
-2017-05-15,Afghanistan,Khulm,36,27,13,W,0.0,15,5,1010
+2017-05-15,Afghanistan,Khulm,37,26,15,W,0.0,19,11,1007
 2017-05-16,Afghanistan,Khulm,36,26,18,WSW,0.0,23,6,1007
 2017-05-17,Afghanistan,Khulm,36,25,8,SW,0.0,18,1,1009
 2017-05-18,Afghanistan,Khulm,32,25,33,WSW,0.0,27,6,1013
@@ -3334,6 +3343,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-02-26,Afghanistan,Khulm,21,13,16,SE,10.6,60,90,1010
 2018-02-27,Afghanistan,Khulm,20,12,9,E,0.0,51,26,1019
 2018-02-28,Afghanistan,Khulm,22,13,8,E,0.0,37,21,1015
+2018-03-01,Afghanistan,Khulm,18,14,15,SW,1.3,49,77,1011
 2018-03-02,Afghanistan,Khulm,16,11,15,SW,13.3,70,60,1015
 2018-03-03,Afghanistan,Khulm,18,10,5,SSW,0.3,65,27,1017
 2018-03-04,Afghanistan,Khulm,19,12,5,SSE,0.1,51,25,1016
@@ -3408,7 +3418,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-05-12,Afghanistan,Khulm,27,23,14,SSE,3.2,50,20,1010
 2018-05-13,Afghanistan,Khulm,32,23,12,SSE,0.2,40,42,1009
 2018-05-14,Afghanistan,Khulm,29,24,10,SSW,1.1,40,16,1011
-2018-05-15,Afghanistan,Khulm,29,24,10,SSW,1.1,40,16,1011
+2018-05-15,Afghanistan,Khulm,27,23,12,SSW,1.0,44,34,1010
 2018-05-16,Afghanistan,Khulm,27,20,20,W,1.7,48,19,1014
 2018-05-17,Afghanistan,Khulm,27,22,17,W,0.0,37,18,1014
 2018-05-18,Afghanistan,Khulm,27,23,12,WSW,0.0,29,40,1014
@@ -3698,6 +3708,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-02-26,Afghanistan,Khulm,12,8,4,SSW,2.3,53,45,1019
 2019-02-27,Afghanistan,Khulm,14,6,13,ENE,0.2,41,19,1015
 2019-02-28,Afghanistan,Khulm,12,6,13,E,0.7,37,58,1009
+2019-03-01,Afghanistan,Khulm,15,7,14,ENE,0.3,44,82,1005
 2019-03-02,Afghanistan,Khulm,12,9,16,S,8.9,65,97,1004
 2019-03-03,Afghanistan,Khulm,16,8,7,E,1.2,63,17,1015
 2019-03-04,Afghanistan,Khulm,17,10,8,SSE,0.3,48,10,1018
@@ -3772,7 +3783,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-05-12,Afghanistan,Khulm,35,26,11,SSE,0.0,20,5,1013
 2019-05-13,Afghanistan,Khulm,34,26,9,SSE,0.0,21,3,1013
 2019-05-14,Afghanistan,Khulm,33,25,7,SSW,0.0,21,4,1013
-2019-05-15,Afghanistan,Khulm,33,25,7,SSW,0.0,21,4,1013
+2019-05-15,Afghanistan,Khulm,34,26,6,SE,0.0,18,16,1011
 2019-05-16,Afghanistan,Khulm,34,26,11,S,0.0,18,16,1010
 2019-05-17,Afghanistan,Khulm,31,25,18,W,0.6,25,18,1011
 2019-05-18,Afghanistan,Khulm,31,23,8,SSW,0.5,27,7,1014
@@ -4062,6 +4073,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-02-26,Afghanistan,Khulm,18,11,13,S,5.7,56,63,1017
 2020-02-27,Afghanistan,Khulm,13,10,5,SSE,8.0,87,91,1018
 2020-02-28,Afghanistan,Khulm,9,7,12,W,6.6,82,95,1016
+2020-03-01,Afghanistan,Khulm,20,11,7,E,0.0,52,6,1014
 2020-03-02,Afghanistan,Khulm,22,13,8,ESE,0.0,46,1,1014
 2020-03-03,Afghanistan,Khulm,21,14,8,E,0.0,38,48,1011
 2020-03-04,Afghanistan,Khulm,12,8,26,WNW,3.8,68,85,1014
@@ -4136,7 +4148,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-05-12,Afghanistan,Khulm,32,25,20,SSE,0.1,37,20,1010
 2020-05-13,Afghanistan,Khulm,23,17,25,WSW,11.3,57,63,1011
 2020-05-14,Afghanistan,Khulm,22,17,14,SW,9.2,59,69,1016
-2020-05-15,Afghanistan,Khulm,22,17,14,SW,9.2,59,69,1016
+2020-05-15,Afghanistan,Khulm,25,18,12,SSE,0.1,55,61,1016
 2020-05-16,Afghanistan,Khulm,27,20,7,S,0.1,39,22,1017
 2020-05-17,Afghanistan,Khulm,28,20,9,ESE,0.0,36,9,1013
 2020-05-18,Afghanistan,Khulm,26,15,22,S,0.0,41,25,1015
@@ -4426,6 +4438,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-02-26,Afghanistan,Khulm,3,-3,8,W,0.0,25,34,1032
 2021-02-27,Afghanistan,Khulm,7,-1,5,SE,0.0,42,8,1029
 2021-02-28,Afghanistan,Khulm,13,3,11,E,0.0,43,0,1021
+2021-03-01,Afghanistan,Khulm,17,7,10,E,0.0,33,5,1020
 2021-03-02,Afghanistan,Khulm,18,11,7,SE,0.0,30,75,1020
 2021-03-03,Afghanistan,Khulm,19,13,5,SSW,0.0,43,34,1020
 2021-03-04,Afghanistan,Khulm,20,11,10,SE,0.4,51,20,1019
@@ -4500,7 +4513,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-05-12,Afghanistan,Khulm,30,22,9,SSE,0.0,36,25,1011
 2021-05-13,Afghanistan,Khulm,32,23,13,S,0.0,31,5,1008
 2021-05-14,Afghanistan,Khulm,32,23,9,SSW,0.0,20,2,1008
-2021-05-15,Afghanistan,Khulm,32,23,9,SSW,0.0,20,2,1008
+2021-05-15,Afghanistan,Khulm,32,24,5,SE,0.0,20,1,1007
 2021-05-16,Afghanistan,Khulm,33,24,6,WSW,0.0,16,2,1008
 2021-05-17,Afghanistan,Khulm,34,26,4,S,0.0,15,3,1008
 2021-05-18,Afghanistan,Khulm,36,26,8,WNW,0.0,12,2,1007
@@ -4546,3 +4559,4 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-27,Afghanistan,Khulm,40,28,13,WNW,0.0,11,8,1003
 2021-06-28,Afghanistan,Khulm,41,30,18,WNW,0.0,10,18,1004
 2021-06-29,Afghanistan,Khulm,41,30,15,WNW,0.0,10,20,1003
+2021-06-30,Afghanistan,Khulm,42,31,16,WNW,0.0,10,18,1001

@@ -1,4 +1,4 @@
-Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
+date,country,city,maximum_temprature,minimum_temprature,wind_speed,wind_direction,amount_of_rain,humidity,cloud_coverage,pressure
 2009-01-01,Afghanistan,Mehtar Lam,15,1,8,SW,0.0,26,11,1019
 2009-01-02,Afghanistan,Mehtar Lam,18,2,6,S,0.0,29,16,1018
 2009-01-03,Afghanistan,Mehtar Lam,9,7,9,ENE,19.3,68,50,1019
@@ -224,7 +224,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-08-11,Afghanistan,Mehtar Lam,45,20,7,SW,0.0,8,0,1007
 2009-08-12,Afghanistan,Mehtar Lam,44,21,8,SSW,0.0,12,0,1007
 2009-08-13,Afghanistan,Mehtar Lam,46,21,8,SSW,0.0,13,0,1005
-2009-08-14,Afghanistan,Mehtar Lam,46,21,8,SSW,0.0,13,0,1005
+2009-08-14,Afghanistan,Mehtar Lam,45,22,9,SW,0.0,15,0,1005
 2009-08-15,Afghanistan,Mehtar Lam,43,22,8,SSW,0.0,18,0,1005
 2009-08-16,Afghanistan,Mehtar Lam,43,22,8,SSW,0.0,31,0,1006
 2009-08-17,Afghanistan,Mehtar Lam,40,20,6,SSE,0.3,41,3,1007
@@ -346,7 +346,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-12-11,Afghanistan,Mehtar Lam,16,1,10,NW,0.0,41,9,1020
 2009-12-12,Afghanistan,Mehtar Lam,16,1,10,W,0.0,33,23,1019
 2009-12-13,Afghanistan,Mehtar Lam,19,6,10,W,0.0,35,4,1020
-2009-12-14,Afghanistan,Mehtar Lam,19,6,10,W,0.0,35,4,1020
+2009-12-14,Afghanistan,Mehtar Lam,9,1,12,NW,0.1,37,24,1021
 2009-12-15,Afghanistan,Mehtar Lam,17,7,11,W,0.0,45,9,1021
 2009-12-16,Afghanistan,Mehtar Lam,16,7,13,NW,0.0,31,14,1023
 2009-12-17,Afghanistan,Mehtar Lam,16,0,12,WNW,0.0,20,15,1023
@@ -589,7 +589,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-08-11,Afghanistan,Mehtar Lam,37,17,6,SSE,10.5,55,8,1006
 2010-08-12,Afghanistan,Mehtar Lam,37,18,6,S,10.8,53,9,1007
 2010-08-13,Afghanistan,Mehtar Lam,37,18,6,S,5.7,61,7,1006
-2010-08-14,Afghanistan,Mehtar Lam,37,18,6,S,5.7,61,7,1006
+2010-08-14,Afghanistan,Mehtar Lam,38,20,6,S,7.1,53,3,1006
 2010-08-15,Afghanistan,Mehtar Lam,36,18,6,SSW,8.2,52,14,1008
 2010-08-16,Afghanistan,Mehtar Lam,36,17,5,SSW,6.2,54,19,1009
 2010-08-17,Afghanistan,Mehtar Lam,37,17,6,S,9.3,53,11,1006
@@ -711,7 +711,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-12-11,Afghanistan,Mehtar Lam,21,0,5,WSW,0.0,17,1,1012
 2010-12-12,Afghanistan,Mehtar Lam,22,-2,5,WNW,0.0,20,7,1010
 2010-12-13,Afghanistan,Mehtar Lam,22,1,5,WSW,0.0,22,2,1014
-2010-12-14,Afghanistan,Mehtar Lam,22,1,5,WSW,0.0,22,2,1014
+2010-12-14,Afghanistan,Mehtar Lam,22,3,5,SW,0.0,26,8,1017
 2010-12-15,Afghanistan,Mehtar Lam,22,3,6,SSW,0.0,28,3,1016
 2010-12-16,Afghanistan,Mehtar Lam,17,3,9,WNW,0.0,21,17,1018
 2010-12-17,Afghanistan,Mehtar Lam,15,0,7,WNW,0.0,19,11,1019
@@ -954,7 +954,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-08-11,Afghanistan,Mehtar Lam,35,20,6,SE,3.8,55,4,1002
 2011-08-12,Afghanistan,Mehtar Lam,35,22,6,SSE,10.6,50,7,1002
 2011-08-13,Afghanistan,Mehtar Lam,33,20,5,SE,7.4,52,5,1004
-2011-08-14,Afghanistan,Mehtar Lam,33,20,5,SE,7.4,52,5,1004
+2011-08-14,Afghanistan,Mehtar Lam,33,21,6,SSW,8.6,52,5,1007
 2011-08-15,Afghanistan,Mehtar Lam,36,19,6,S,3.5,42,1,1005
 2011-08-16,Afghanistan,Mehtar Lam,38,19,7,S,0.5,33,0,1003
 2011-08-17,Afghanistan,Mehtar Lam,36,19,7,SE,2.5,40,0,1004
@@ -1076,7 +1076,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-12-11,Afghanistan,Mehtar Lam,21,2,6,SW,0.0,13,0,1017
 2011-12-12,Afghanistan,Mehtar Lam,19,2,6,SSE,0.0,22,0,1019
 2011-12-13,Afghanistan,Mehtar Lam,17,2,8,WSW,0.0,21,1,1023
-2011-12-14,Afghanistan,Mehtar Lam,17,2,8,WSW,0.0,21,1,1023
+2011-12-14,Afghanistan,Mehtar Lam,17,-1,7,WSW,0.0,10,3,1020
 2011-12-15,Afghanistan,Mehtar Lam,17,3,10,W,0.0,15,1,1022
 2011-12-16,Afghanistan,Mehtar Lam,18,0,6,WSW,0.0,15,7,1021
 2011-12-17,Afghanistan,Mehtar Lam,19,4,4,SSW,0.0,18,0,1018
@@ -1319,7 +1319,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-08-11,Afghanistan,Mehtar Lam,37,20,5,S,1.3,35,2,1006
 2012-08-12,Afghanistan,Mehtar Lam,37,22,4,SSW,0.9,33,2,1006
 2012-08-13,Afghanistan,Mehtar Lam,38,21,5,SSW,0.7,29,5,1005
-2012-08-14,Afghanistan,Mehtar Lam,38,21,5,SSW,0.7,29,5,1005
+2012-08-14,Afghanistan,Mehtar Lam,38,18,5,SSW,1.0,27,4,1005
 2012-08-15,Afghanistan,Mehtar Lam,37,19,6,SSW,1.9,31,2,1006
 2012-08-16,Afghanistan,Mehtar Lam,37,20,4,S,1.9,38,2,1007
 2012-08-17,Afghanistan,Mehtar Lam,38,19,6,SSW,3.4,36,7,1006
@@ -1441,7 +1441,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-12-11,Afghanistan,Mehtar Lam,13,3,7,W,0.8,43,23,1016
 2012-12-12,Afghanistan,Mehtar Lam,14,0,2,SW,0.8,54,15,1016
 2012-12-13,Afghanistan,Mehtar Lam,10,-1,7,SE,9.2,77,55,1015
-2012-12-14,Afghanistan,Mehtar Lam,10,-1,7,SE,9.2,77,55,1015
+2012-12-14,Afghanistan,Mehtar Lam,10,-2,4,ESE,0.3,60,20,1020
 2012-12-15,Afghanistan,Mehtar Lam,11,-2,4,NW,0.0,61,27,1023
 2012-12-16,Afghanistan,Mehtar Lam,13,1,3,WSW,0.2,53,14,1025
 2012-12-17,Afghanistan,Mehtar Lam,11,-1,5,NW,0.1,45,31,1024
@@ -1684,7 +1684,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-08-11,Afghanistan,Mehtar Lam,36,21,6,ESE,9.5,57,7,1006
 2013-08-12,Afghanistan,Mehtar Lam,35,21,6,ESE,8.9,58,6,1006
 2013-08-13,Afghanistan,Mehtar Lam,35,20,7,SSE,9.8,50,21,1005
-2013-08-14,Afghanistan,Mehtar Lam,35,20,7,SSE,9.8,50,21,1005
+2013-08-14,Afghanistan,Mehtar Lam,34,18,6,S,1.2,36,2,1006
 2013-08-15,Afghanistan,Mehtar Lam,36,21,5,SW,0.3,33,0,1007
 2013-08-16,Afghanistan,Mehtar Lam,35,19,5,SSW,2.1,36,1,1006
 2013-08-17,Afghanistan,Mehtar Lam,35,18,5,SSW,4.0,39,4,1004
@@ -1806,7 +1806,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-12-11,Afghanistan,Mehtar Lam,16,2,4,W,1.2,58,20,1017
 2013-12-12,Afghanistan,Mehtar Lam,19,1,10,W,0.0,28,2,1020
 2013-12-13,Afghanistan,Mehtar Lam,22,3,13,W,0.0,17,2,1018
-2013-12-14,Afghanistan,Mehtar Lam,22,3,13,W,0.0,17,2,1018
+2013-12-14,Afghanistan,Mehtar Lam,25,6,7,WSW,0.0,20,4,1015
 2013-12-15,Afghanistan,Mehtar Lam,25,7,2,SE,0.0,24,1,1015
 2013-12-16,Afghanistan,Mehtar Lam,20,5,3,S,0.0,29,8,1017
 2013-12-17,Afghanistan,Mehtar Lam,16,4,9,WNW,0.0,31,2,1017
@@ -2049,7 +2049,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-08-11,Afghanistan,Mehtar Lam,39,20,4,S,0.1,28,0,1005
 2014-08-12,Afghanistan,Mehtar Lam,39,20,5,S,1.0,31,0,1004
 2014-08-13,Afghanistan,Mehtar Lam,41,21,6,SSW,0.9,25,0,1004
-2014-08-14,Afghanistan,Mehtar Lam,41,21,6,SSW,0.9,25,0,1004
+2014-08-14,Afghanistan,Mehtar Lam,40,21,9,WSW,0.0,11,0,1003
 2014-08-15,Afghanistan,Mehtar Lam,39,19,9,SW,0.6,18,2,1003
 2014-08-16,Afghanistan,Mehtar Lam,31,18,9,ESE,7.0,47,6,1007
 2014-08-17,Afghanistan,Mehtar Lam,34,16,5,SSW,3.3,44,2,1009
@@ -2171,7 +2171,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-12-11,Afghanistan,Mehtar Lam,13,1,3,WNW,0.0,17,18,1020
 2014-12-12,Afghanistan,Mehtar Lam,12,4,7,WNW,0.0,10,32,1021
 2014-12-13,Afghanistan,Mehtar Lam,12,4,9,WNW,0.0,15,28,1021
-2014-12-14,Afghanistan,Mehtar Lam,12,4,9,WNW,0.0,15,28,1021
+2014-12-14,Afghanistan,Mehtar Lam,12,4,10,W,0.0,21,3,1022
 2014-12-15,Afghanistan,Mehtar Lam,13,1,6,SW,0.0,9,0,1024
 2014-12-16,Afghanistan,Mehtar Lam,15,2,5,S,0.0,12,1,1023
 2014-12-17,Afghanistan,Mehtar Lam,17,3,3,SE,0.0,20,6,1021
@@ -2414,7 +2414,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-08-11,Afghanistan,Mehtar Lam,38,24,4,SE,0.5,25,0,1009
 2015-08-12,Afghanistan,Mehtar Lam,38,22,6,SSE,5.4,39,3,1009
 2015-08-13,Afghanistan,Mehtar Lam,38,22,6,E,7.4,43,2,1008
-2015-08-14,Afghanistan,Mehtar Lam,38,22,6,E,7.4,43,2,1008
+2015-08-14,Afghanistan,Mehtar Lam,38,22,5,SE,5.9,40,1,1008
 2015-08-15,Afghanistan,Mehtar Lam,38,23,5,ESE,5.2,40,2,1008
 2015-08-16,Afghanistan,Mehtar Lam,38,27,6,ESE,2.0,39,3,1008
 2015-08-17,Afghanistan,Mehtar Lam,38,22,5,S,2.9,34,1,1007
@@ -2536,7 +2536,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-12-11,Afghanistan,Mehtar Lam,14,-1,16,W,0.0,13,0,1020
 2015-12-12,Afghanistan,Mehtar Lam,17,0,4,ESE,0.0,12,0,1018
 2015-12-13,Afghanistan,Mehtar Lam,17,2,4,S,0.0,12,0,1019
-2015-12-14,Afghanistan,Mehtar Lam,17,2,4,S,0.0,12,0,1019
+2015-12-14,Afghanistan,Mehtar Lam,17,0,5,SSE,0.0,14,0,1022
 2015-12-15,Afghanistan,Mehtar Lam,18,2,8,NE,0.0,13,0,1018
 2015-12-16,Afghanistan,Mehtar Lam,16,1,5,SW,0.1,13,27,1018
 2015-12-17,Afghanistan,Mehtar Lam,15,1,7,S,0.1,27,3,1022
@@ -2779,7 +2779,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-08-11,Afghanistan,Mehtar Lam,37,20,6,ESE,4.7,45,3,1007
 2016-08-12,Afghanistan,Mehtar Lam,37,20,6,E,8.3,43,2,1007
 2016-08-13,Afghanistan,Mehtar Lam,38,21,4,ESE,3.4,37,0,1006
-2016-08-14,Afghanistan,Mehtar Lam,38,21,4,ESE,3.4,37,0,1006
+2016-08-14,Afghanistan,Mehtar Lam,38,21,4,SE,4.2,35,3,1005
 2016-08-15,Afghanistan,Mehtar Lam,37,19,5,S,3.8,34,5,1005
 2016-08-16,Afghanistan,Mehtar Lam,38,19,8,SW,0.2,20,0,1003
 2016-08-17,Afghanistan,Mehtar Lam,37,20,6,S,0.3,24,3,1005
@@ -2901,7 +2901,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-12-11,Afghanistan,Mehtar Lam,18,2,6,WNW,0.0,48,5,1019
 2016-12-12,Afghanistan,Mehtar Lam,19,5,7,WNW,0.0,28,19,1018
 2016-12-13,Afghanistan,Mehtar Lam,16,3,7,W,1.2,35,23,1020
-2016-12-14,Afghanistan,Mehtar Lam,16,3,7,W,1.2,35,23,1020
+2016-12-14,Afghanistan,Mehtar Lam,19,3,4,SSE,0.0,27,33,1020
 2016-12-15,Afghanistan,Mehtar Lam,24,8,4,SSW,0.0,14,17,1019
 2016-12-16,Afghanistan,Mehtar Lam,22,9,8,ENE,0.0,9,0,1020
 2016-12-17,Afghanistan,Mehtar Lam,22,9,5,SW,0.0,15,0,1021
@@ -3144,7 +3144,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-08-11,Afghanistan,Mehtar Lam,40,24,8,SSE,4.6,37,2,1004
 2017-08-12,Afghanistan,Mehtar Lam,39,23,8,SW,0.4,21,0,1004
 2017-08-13,Afghanistan,Mehtar Lam,37,22,7,SSE,2.1,28,3,1005
-2017-08-14,Afghanistan,Mehtar Lam,37,22,7,SSE,2.1,28,3,1005
+2017-08-14,Afghanistan,Mehtar Lam,33,19,8,SE,15.2,45,13,1010
 2017-08-15,Afghanistan,Mehtar Lam,37,21,4,SSW,2.4,30,0,1009
 2017-08-16,Afghanistan,Mehtar Lam,38,23,4,S,0.2,29,1,1006
 2017-08-17,Afghanistan,Mehtar Lam,39,23,5,SSW,0.0,19,0,1006
@@ -3266,7 +3266,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-12-11,Afghanistan,Mehtar Lam,13,7,6,SSW,0.2,37,29,1018
 2017-12-12,Afghanistan,Mehtar Lam,13,5,4,S,0.4,53,26,1018
 2017-12-13,Afghanistan,Mehtar Lam,11,5,6,SSW,5.7,58,57,1023
-2017-12-14,Afghanistan,Mehtar Lam,11,5,6,SSW,5.7,58,57,1023
+2017-12-14,Afghanistan,Mehtar Lam,10,3,6,W,3.7,53,46,1027
 2017-12-15,Afghanistan,Mehtar Lam,11,5,9,WNW,0.5,38,14,1029
 2017-12-16,Afghanistan,Mehtar Lam,14,4,6,WNW,0.0,24,13,1029
 2017-12-17,Afghanistan,Mehtar Lam,16,8,6,NW,0.0,24,32,1028
@@ -3509,7 +3509,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-08-11,Afghanistan,Mehtar Lam,41,24,7,S,0.0,27,0,1003
 2018-08-12,Afghanistan,Mehtar Lam,42,24,10,SW,0.0,16,0,1001
 2018-08-13,Afghanistan,Mehtar Lam,39,23,11,SSW,0.0,26,1,1001
-2018-08-14,Afghanistan,Mehtar Lam,39,23,11,SSW,0.0,26,1,1001
+2018-08-14,Afghanistan,Mehtar Lam,39,23,8,SSE,0.2,39,2,1004
 2018-08-15,Afghanistan,Mehtar Lam,38,25,7,SSE,0.3,31,2,1006
 2018-08-16,Afghanistan,Mehtar Lam,38,23,6,SSE,1.2,42,2,1008
 2018-08-17,Afghanistan,Mehtar Lam,39,23,6,SSE,1.7,34,1,1005
@@ -3631,7 +3631,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-12-11,Afghanistan,Mehtar Lam,13,1,5,W,3.5,55,12,1021
 2018-12-12,Afghanistan,Mehtar Lam,16,1,5,SW,1.1,34,2,1022
 2018-12-13,Afghanistan,Mehtar Lam,16,4,2,S,0.0,25,0,1024
-2018-12-14,Afghanistan,Mehtar Lam,16,4,2,S,0.0,25,0,1024
+2018-12-14,Afghanistan,Mehtar Lam,17,6,2,SSE,0.0,21,1,1025
 2018-12-15,Afghanistan,Mehtar Lam,18,7,2,W,0.0,20,8,1025
 2018-12-16,Afghanistan,Mehtar Lam,19,4,3,W,0.0,16,6,1025
 2018-12-17,Afghanistan,Mehtar Lam,19,8,4,WSW,0.0,13,10,1024
@@ -3874,7 +3874,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-08-11,Afghanistan,Mehtar Lam,35,22,8,ESE,4.3,54,13,1005
 2019-08-12,Afghanistan,Mehtar Lam,37,23,8,ESE,0.1,49,13,1004
 2019-08-13,Afghanistan,Mehtar Lam,40,25,9,S,0.1,38,9,1005
-2019-08-14,Afghanistan,Mehtar Lam,40,25,9,S,0.1,38,9,1005
+2019-08-14,Afghanistan,Mehtar Lam,36,24,10,SE,5.5,53,18,1006
 2019-08-15,Afghanistan,Mehtar Lam,36,22,8,SE,8.1,54,17,1007
 2019-08-16,Afghanistan,Mehtar Lam,36,22,11,SE,18.3,54,19,1005
 2019-08-17,Afghanistan,Mehtar Lam,36,21,7,SSE,2.6,47,4,1006
@@ -3996,7 +3996,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-12-11,Afghanistan,Mehtar Lam,14,7,2,SSW,0.1,63,13,1017
 2019-12-12,Afghanistan,Mehtar Lam,14,5,5,SW,0.4,60,57,1015
 2019-12-13,Afghanistan,Mehtar Lam,14,4,4,SE,0.0,62,16,1014
-2019-12-14,Afghanistan,Mehtar Lam,14,4,4,SE,0.0,62,16,1014
+2019-12-14,Afghanistan,Mehtar Lam,13,4,2,SE,4.1,73,25,1022
 2019-12-15,Afghanistan,Mehtar Lam,15,1,2,W,0.0,58,8,1024
 2019-12-16,Afghanistan,Mehtar Lam,16,2,4,W,0.0,32,3,1024
 2019-12-17,Afghanistan,Mehtar Lam,13,1,3,W,0.0,25,5,1023
@@ -4239,7 +4239,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-08-11,Afghanistan,Mehtar Lam,39,28,9,SE,4.0,47,61,1003
 2020-08-12,Afghanistan,Mehtar Lam,42,29,7,SE,0.0,41,7,1002
 2020-08-13,Afghanistan,Mehtar Lam,44,30,7,S,0.4,30,22,1002
-2020-08-14,Afghanistan,Mehtar Lam,44,30,7,S,0.4,30,22,1002
+2020-08-14,Afghanistan,Mehtar Lam,42,29,7,SSW,0.0,29,2,1002
 2020-08-15,Afghanistan,Mehtar Lam,42,28,6,SSE,0.0,41,7,1001
 2020-08-16,Afghanistan,Mehtar Lam,43,29,6,ESE,0.0,40,7,1002
 2020-08-17,Afghanistan,Mehtar Lam,41,29,8,SE,0.0,42,8,1002
@@ -4361,7 +4361,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-12-11,Afghanistan,Mehtar Lam,16,8,3,W,0.0,34,28,1019
 2020-12-12,Afghanistan,Mehtar Lam,14,7,1,S,0.0,55,9,1018
 2020-12-13,Afghanistan,Mehtar Lam,15,9,2,W,2.1,56,51,1019
-2020-12-14,Afghanistan,Mehtar Lam,15,9,2,W,2.1,56,51,1019
+2020-12-14,Afghanistan,Mehtar Lam,9,4,10,W,9.2,74,70,1019
 2020-12-15,Afghanistan,Mehtar Lam,10,2,10,W,11.6,66,53,1024
 2020-12-16,Afghanistan,Mehtar Lam,12,3,7,WNW,0.0,32,1,1027
 2020-12-17,Afghanistan,Mehtar Lam,13,1,4,WNW,0.0,25,3,1023
@@ -4559,3 +4559,4 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-27,Afghanistan,Mehtar Lam,39,23,9,SW,0.6,26,20,1004
 2021-06-28,Afghanistan,Mehtar Lam,41,26,5,S,0.2,22,27,1003
 2021-06-29,Afghanistan,Mehtar Lam,44,27,5,SSW,0.0,16,5,999
+2021-06-30,Afghanistan,Mehtar Lam,45,30,6,WSW,0.0,12,3,996

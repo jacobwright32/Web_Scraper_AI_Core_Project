@@ -1,4 +1,4 @@
-Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
+date,country,city,maximum_temprature,minimum_temprature,wind_speed,wind_direction,amount_of_rain,humidity,cloud_coverage,pressure
 2009-01-01,Afghanistan,Gardez,5,-3,10,W,0.0,35,26,1020
 2009-01-02,Afghanistan,Gardez,4,-2,8,SSE,0.1,38,19,1018
 2009-01-03,Afghanistan,Gardez,-2,-4,14,ESE,24.0,83,62,1018
@@ -4559,3 +4559,4 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-27,Afghanistan,Gardez,25,16,10,SSE,1.7,39,43,1011
 2021-06-28,Afghanistan,Gardez,25,17,7,S,0.0,35,20,1011
 2021-06-29,Afghanistan,Gardez,28,18,10,SE,0.0,21,1,1008
+2021-06-30,Afghanistan,Gardez,28,18,8,SW,0.0,11,2,1005

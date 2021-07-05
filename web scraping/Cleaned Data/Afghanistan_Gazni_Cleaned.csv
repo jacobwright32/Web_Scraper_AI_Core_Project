@@ -1,4 +1,4 @@
-Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
+date,country,city,maximum_temprature,minimum_temprature,wind_speed,wind_direction,amount_of_rain,humidity,cloud_coverage,pressure
 2009-01-01,Afghanistan,Gazni,4,-5,10,WNW,0.0,45,18,1021
 2009-01-02,Afghanistan,Gazni,6,-2,7,SSW,0.1,51,22,1018
 2009-01-03,Afghanistan,Gazni,0,-4,12,ESE,34.6,91,80,1016
@@ -173,7 +173,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-06-21,Afghanistan,Gazni,24,12,13,ENE,0.0,26,13,1012
 2009-06-22,Afghanistan,Gazni,25,12,11,SSW,0.0,21,7,1011
 2009-06-23,Afghanistan,Gazni,27,14,12,E,0.0,20,7,1010
-2009-06-24,Afghanistan,Gazni,27,14,12,E,0.0,20,7,1010
+2009-06-24,Afghanistan,Gazni,27,14,12,E,0.0,22,15,1010
 2009-06-25,Afghanistan,Gazni,29,13,8,ESE,0.0,21,6,1010
 2009-06-26,Afghanistan,Gazni,30,16,11,SSE,0.0,20,2,1009
 2009-06-27,Afghanistan,Gazni,30,16,9,SSW,0.0,19,4,1007
@@ -538,7 +538,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-06-21,Afghanistan,Gazni,30,16,12,ESE,0.0,18,6,1010
 2010-06-22,Afghanistan,Gazni,31,15,11,E,0.0,18,2,1007
 2010-06-23,Afghanistan,Gazni,31,17,15,S,0.0,19,6,1006
-2010-06-24,Afghanistan,Gazni,31,17,15,S,0.0,19,6,1006
+2010-06-24,Afghanistan,Gazni,27,17,10,S,0.7,28,28,1005
 2010-06-25,Afghanistan,Gazni,29,15,13,SSW,0.0,28,8,1004
 2010-06-26,Afghanistan,Gazni,30,16,12,SSE,0.0,29,14,1007
 2010-06-27,Afghanistan,Gazni,32,19,11,SSE,0.0,17,4,1007
@@ -903,7 +903,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-06-21,Afghanistan,Gazni,32,20,8,ESE,0.0,11,0,1005
 2011-06-22,Afghanistan,Gazni,32,18,11,ENE,0.0,10,1,1004
 2011-06-23,Afghanistan,Gazni,31,20,9,ENE,0.0,14,3,1004
-2011-06-24,Afghanistan,Gazni,31,20,9,ENE,0.0,14,3,1004
+2011-06-24,Afghanistan,Gazni,32,19,11,ENE,0.0,13,4,1004
 2011-06-25,Afghanistan,Gazni,33,20,15,NNE,0.0,12,0,1003
 2011-06-26,Afghanistan,Gazni,34,18,11,ENE,0.0,16,0,1002
 2011-06-27,Afghanistan,Gazni,28,17,13,ESE,0.0,19,26,1006
@@ -1268,7 +1268,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-06-21,Afghanistan,Gazni,28,18,9,ESE,0.1,21,13,1005
 2012-06-22,Afghanistan,Gazni,27,20,12,SE,0.4,22,3,1007
 2012-06-23,Afghanistan,Gazni,28,18,10,ESE,0.0,24,4,1006
-2012-06-24,Afghanistan,Gazni,28,18,10,ESE,0.0,24,4,1006
+2012-06-24,Afghanistan,Gazni,25,17,11,NNE,2.9,36,32,1004
 2012-06-25,Afghanistan,Gazni,25,16,11,E,0.3,27,21,1005
 2012-06-26,Afghanistan,Gazni,26,16,12,NE,0.0,23,17,1005
 2012-06-27,Afghanistan,Gazni,26,16,15,ESE,0.0,20,18,1005
@@ -1633,7 +1633,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-06-21,Afghanistan,Gazni,33,20,9,ENE,0.0,9,0,1006
 2013-06-22,Afghanistan,Gazni,34,21,11,ENE,0.0,10,0,1006
 2013-06-23,Afghanistan,Gazni,32,20,14,NE,0.0,12,2,1006
-2013-06-24,Afghanistan,Gazni,32,20,14,NE,0.0,12,2,1006
+2013-06-24,Afghanistan,Gazni,32,20,13,NE,0.0,15,2,1005
 2013-06-25,Afghanistan,Gazni,32,22,13,ESE,0.0,18,4,1005
 2013-06-26,Afghanistan,Gazni,32,22,9,ESE,0.3,28,10,1005
 2013-06-27,Afghanistan,Gazni,32,22,14,SE,0.0,19,11,1003
@@ -1998,7 +1998,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-06-21,Afghanistan,Gazni,28,17,13,ENE,0.0,14,4,1005
 2014-06-22,Afghanistan,Gazni,28,19,15,NE,0.0,14,7,1006
 2014-06-23,Afghanistan,Gazni,29,16,14,NNE,0.0,15,1,1006
-2014-06-24,Afghanistan,Gazni,29,16,14,NNE,0.0,15,1,1006
+2014-06-24,Afghanistan,Gazni,29,17,14,NNE,0.0,12,0,1005
 2014-06-25,Afghanistan,Gazni,30,17,14,NE,0.0,13,1,1006
 2014-06-26,Afghanistan,Gazni,31,19,10,ENE,0.0,10,0,1009
 2014-06-27,Afghanistan,Gazni,33,20,8,ENE,0.0,11,0,1011
@@ -2363,13 +2363,13 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-06-21,Afghanistan,Gazni,28,21,11,ESE,0.0,21,18,1006
 2015-06-22,Afghanistan,Gazni,28,21,9,SE,2.8,35,24,1004
 2015-06-23,Afghanistan,Gazni,27,21,15,E,1.3,23,14,1003
-2015-06-24,Afghanistan,Gazni,27,21,15,E,1.3,23,14,1003
+2015-06-24,Afghanistan,Gazni,24,18,14,ENE,0.0,23,22,1004
 2015-06-25,Afghanistan,Gazni,26,18,14,WSW,0.0,19,3,1002
 2015-06-26,Afghanistan,Gazni,27,19,11,SSE,0.0,12,0,1003
 2015-06-27,Afghanistan,Gazni,28,19,12,ESE,0.0,17,1,1005
 2015-06-28,Afghanistan,Gazni,29,20,9,S,1.8,33,21,1009
 2015-06-29,Afghanistan,Gazni,30,22,12,SE,0.1,25,7,1011
-2015-06-30,Afghanistan,Gazni,30,22,12,E,0.0,18,10,1010
+2015-06-30,Afghanistan,Gazni,30,22,12,E,0.0,18,11,1010
 2015-07-01,Afghanistan,Gazni,30,23,7,SE,0.0,21,7,1009
 2015-07-02,Afghanistan,Gazni,30,23,5,ESE,0.0,22,4,1010
 2015-07-03,Afghanistan,Gazni,33,24,7,S,0.0,23,0,1008
@@ -2728,7 +2728,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-06-21,Afghanistan,Gazni,30,21,13,ENE,0.0,19,8,1008
 2016-06-22,Afghanistan,Gazni,30,20,16,E,0.0,16,4,1009
 2016-06-23,Afghanistan,Gazni,28,19,13,E,0.0,19,6,1009
-2016-06-24,Afghanistan,Gazni,28,19,13,E,0.0,19,6,1009
+2016-06-24,Afghanistan,Gazni,29,21,9,E,0.0,18,7,1008
 2016-06-25,Afghanistan,Gazni,30,22,13,SE,0.0,18,1,1009
 2016-06-26,Afghanistan,Gazni,31,21,18,SE,0.1,23,5,1009
 2016-06-27,Afghanistan,Gazni,29,20,17,SE,8.6,31,11,1008
@@ -3093,7 +3093,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-06-21,Afghanistan,Gazni,30,20,11,S,0.0,13,0,1005
 2017-06-22,Afghanistan,Gazni,30,20,18,WNW,0.0,14,0,1007
 2017-06-23,Afghanistan,Gazni,35,21,9,SSE,0.0,12,0,1008
-2017-06-24,Afghanistan,Gazni,35,21,9,SSE,0.0,12,0,1008
+2017-06-24,Afghanistan,Gazni,34,23,11,NW,0.0,13,0,1005
 2017-06-25,Afghanistan,Gazni,30,22,13,ESE,1.4,25,17,1005
 2017-06-26,Afghanistan,Gazni,31,21,13,SE,0.0,31,5,1007
 2017-06-27,Afghanistan,Gazni,31,20,10,ENE,0.0,23,12,1008
@@ -3458,7 +3458,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-06-21,Afghanistan,Gazni,28,18,10,ESE,0.0,22,7,1009
 2018-06-22,Afghanistan,Gazni,26,18,13,E,0.2,26,13,1008
 2018-06-23,Afghanistan,Gazni,27,17,11,ESE,0.0,26,7,1008
-2018-06-24,Afghanistan,Gazni,27,17,11,ESE,0.0,26,7,1008
+2018-06-24,Afghanistan,Gazni,28,18,16,S,0.0,18,2,1008
 2018-06-25,Afghanistan,Gazni,31,17,11,E,0.0,17,0,1007
 2018-06-26,Afghanistan,Gazni,30,16,14,ESE,0.0,15,1,1006
 2018-06-27,Afghanistan,Gazni,27,18,11,E,0.1,22,6,1007
@@ -3823,7 +3823,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-06-21,Afghanistan,Gazni,28,18,10,ESE,0.1,28,13,1009
 2019-06-22,Afghanistan,Gazni,28,19,6,SE,0.0,34,14,1009
 2019-06-23,Afghanistan,Gazni,27,18,12,SE,0.0,25,16,1010
-2019-06-24,Afghanistan,Gazni,27,18,12,SE,0.0,25,16,1010
+2019-06-24,Afghanistan,Gazni,26,17,10,SE,0.3,33,5,1012
 2019-06-25,Afghanistan,Gazni,30,18,7,SSE,0.1,23,1,1012
 2019-06-26,Afghanistan,Gazni,29,17,11,ENE,0.0,17,2,1010
 2019-06-27,Afghanistan,Gazni,30,17,11,S,0.0,16,2,1007
@@ -4188,7 +4188,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-06-21,Afghanistan,Gazni,31,21,10,S,0.0,18,0,1006
 2020-06-22,Afghanistan,Gazni,33,22,8,S,0.0,22,0,1005
 2020-06-23,Afghanistan,Gazni,33,22,11,S,0.0,25,4,1007
-2020-06-24,Afghanistan,Gazni,33,22,11,S,0.0,25,4,1007
+2020-06-24,Afghanistan,Gazni,32,21,14,SSW,0.0,26,11,1007
 2020-06-25,Afghanistan,Gazni,31,19,16,SSW,0.0,24,4,1007
 2020-06-26,Afghanistan,Gazni,31,21,10,ESE,0.0,18,2,1006
 2020-06-27,Afghanistan,Gazni,33,18,12,S,0.0,13,0,1007
@@ -4553,9 +4553,10 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-21,Afghanistan,Gazni,25,16,14,SSW,1.7,27,26,1008
 2021-06-22,Afghanistan,Gazni,27,17,11,S,0.1,27,23,1008
 2021-06-23,Afghanistan,Gazni,30,19,10,SSW,0.0,16,3,1007
-2021-06-24,Afghanistan,Gazni,30,19,10,SSW,0.0,16,3,1007
+2021-06-24,Afghanistan,Gazni,30,19,12,SE,0.0,12,18,1006
 2021-06-25,Afghanistan,Gazni,29,17,15,SW,0.0,12,13,1004
 2021-06-26,Afghanistan,Gazni,29,18,17,SE,0.1,18,21,1005
 2021-06-27,Afghanistan,Gazni,29,17,10,SW,0.5,33,25,1009
 2021-06-28,Afghanistan,Gazni,29,17,8,S,0.0,27,14,1009
 2021-06-29,Afghanistan,Gazni,30,19,12,S,0.0,18,2,1007
+2021-06-30,Afghanistan,Gazni,31,20,8,SW,0.0,15,2,1004

@@ -1,4 +1,4 @@
-Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
+date,country,city,maximum_temprature,minimum_temprature,wind_speed,wind_direction,amount_of_rain,humidity,cloud_coverage,pressure
 2009-01-01,Afghanistan,Gereshk,16,7,10,E,0.0,27,17,1018
 2009-01-02,Afghanistan,Gereshk,20,9,14,E,0.0,30,20,1013
 2009-01-03,Afghanistan,Gereshk,15,9,6,S,2.0,67,26,1013
@@ -908,7 +908,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-06-26,Afghanistan,Gereshk,41,29,14,WSW,0.0,12,0,994
 2011-06-27,Afghanistan,Gereshk,41,27,13,SSW,0.0,8,1,997
 2011-06-28,Afghanistan,Gereshk,40,28,11,SSW,0.0,6,0,992
-2011-06-29,Afghanistan,Gereshk,42,28,10,S,0.0,6,0,992
+2011-06-29,Afghanistan,Gereshk,42,28,9,S,0.0,6,0,992
 2011-06-30,Afghanistan,Gereshk,38,27,13,SSW,0.0,7,0,993
 2011-07-01,Afghanistan,Gereshk,41,28,10,SSW,0.0,7,0,994
 2011-07-02,Afghanistan,Gereshk,40,28,11,SW,0.0,6,0,994
@@ -4559,3 +4559,4 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-27,Afghanistan,Gereshk,39,26,14,SSW,0.0,9,0,1002
 2021-06-28,Afghanistan,Gereshk,40,26,14,SSW,0.0,8,0,1003
 2021-06-29,Afghanistan,Gereshk,39,26,9,SW,0.0,9,0,1001
+2021-06-30,Afghanistan,Gereshk,40,27,9,WSW,0.0,9,0,999

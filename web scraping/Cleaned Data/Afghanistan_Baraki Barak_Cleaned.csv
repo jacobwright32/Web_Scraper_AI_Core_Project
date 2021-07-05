@@ -1,4 +1,4 @@
-Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
+date,country,city,maximum_temprature,minimum_temprature,wind_speed,wind_direction,amount_of_rain,humidity,cloud_coverage,pressure
 2009-01-01,Afghanistan,Baraki Barak,5,-3,10,W,0.0,35,26,1020
 2009-01-02,Afghanistan,Baraki Barak,4,-2,8,SSE,0.1,38,19,1018
 2009-01-03,Afghanistan,Baraki Barak,-2,-4,14,ESE,24.0,83,62,1018
@@ -254,7 +254,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-09-10,Afghanistan,Baraki Barak,23,8,8,SSW,0.0,15,0,1009
 2009-09-11,Afghanistan,Baraki Barak,22,11,10,SSE,0.0,30,2,1010
 2009-09-12,Afghanistan,Baraki Barak,23,9,7,SW,0.0,16,0,1013
-2009-09-13,Afghanistan,Baraki Barak,23,9,7,SW,0.0,16,0,1013
+2009-09-13,Afghanistan,Baraki Barak,25,10,9,SSW,0.0,17,4,1014
 2009-09-14,Afghanistan,Baraki Barak,26,11,7,SSW,0.0,18,0,1013
 2009-09-15,Afghanistan,Baraki Barak,24,12,8,SSE,0.0,26,3,1010
 2009-09-16,Afghanistan,Baraki Barak,21,11,7,S,0.3,39,19,1011
@@ -318,7 +318,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-11-13,Afghanistan,Baraki Barak,12,-2,6,E,0.0,24,0,1020
 2009-11-14,Afghanistan,Baraki Barak,10,-3,8,W,0.0,23,0,1017
 2009-11-15,Afghanistan,Baraki Barak,8,-4,9,SE,0.0,38,9,1015
-2009-11-16,Afghanistan,Baraki Barak,8,-4,9,SE,0.0,38,9,1015
+2009-11-16,Afghanistan,Baraki Barak,7,-5,7,SSE,0.0,44,1,1015
 2009-11-17,Afghanistan,Baraki Barak,8,-5,8,SW,0.0,29,0,1018
 2009-11-18,Afghanistan,Baraki Barak,7,-7,9,W,0.0,14,0,1022
 2009-11-19,Afghanistan,Baraki Barak,11,-5,7,WSW,0.0,5,0,1021
@@ -619,7 +619,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-09-10,Afghanistan,Baraki Barak,25,15,6,E,0.0,38,6,1008
 2010-09-11,Afghanistan,Baraki Barak,23,14,8,SSW,0.0,33,14,1008
 2010-09-12,Afghanistan,Baraki Barak,22,12,8,SSE,0.7,24,8,1009
-2010-09-13,Afghanistan,Baraki Barak,22,12,8,SSE,0.7,24,8,1009
+2010-09-13,Afghanistan,Baraki Barak,20,11,9,ESE,3.7,41,7,1009
 2010-09-14,Afghanistan,Baraki Barak,20,10,6,W,0.0,35,1,1009
 2010-09-15,Afghanistan,Baraki Barak,21,12,6,S,0.0,24,0,1009
 2010-09-16,Afghanistan,Baraki Barak,19,10,7,SE,0.0,28,5,1009
@@ -683,7 +683,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-11-13,Afghanistan,Baraki Barak,10,1,4,SE,0.0,26,0,1016
 2010-11-14,Afghanistan,Baraki Barak,10,0,5,ENE,0.0,31,0,1022
 2010-11-15,Afghanistan,Baraki Barak,11,0,9,S,0.0,26,3,1023
-2010-11-16,Afghanistan,Baraki Barak,11,0,9,S,0.0,26,3,1023
+2010-11-16,Afghanistan,Baraki Barak,10,-1,10,ESE,0.0,32,3,1021
 2010-11-17,Afghanistan,Baraki Barak,9,-1,8,NNE,0.0,35,15,1020
 2010-11-18,Afghanistan,Baraki Barak,10,1,6,ENE,0.3,37,10,1020
 2010-11-19,Afghanistan,Baraki Barak,10,0,6,WNW,0.0,27,0,1018
@@ -984,7 +984,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-09-10,Afghanistan,Baraki Barak,25,17,5,SSW,0.8,44,3,1009
 2011-09-11,Afghanistan,Baraki Barak,26,18,5,S,0.0,33,0,1008
 2011-09-12,Afghanistan,Baraki Barak,25,18,5,ESE,0.0,35,1,1008
-2011-09-13,Afghanistan,Baraki Barak,25,18,5,ESE,0.0,35,1,1008
+2011-09-13,Afghanistan,Baraki Barak,23,16,7,SSE,1.7,49,6,1007
 2011-09-14,Afghanistan,Baraki Barak,22,17,4,W,4.2,41,23,1007
 2011-09-15,Afghanistan,Baraki Barak,21,15,8,S,0.1,31,10,1006
 2011-09-16,Afghanistan,Baraki Barak,19,12,9,NNE,0.1,35,3,1007
@@ -1048,7 +1048,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-11-13,Afghanistan,Baraki Barak,9,2,6,WSW,0.0,25,26,1019
 2011-11-14,Afghanistan,Baraki Barak,9,3,6,S,0.0,36,5,1018
 2011-11-15,Afghanistan,Baraki Barak,11,4,8,WNW,0.0,36,1,1020
-2011-11-16,Afghanistan,Baraki Barak,11,4,8,WNW,0.0,36,1,1020
+2011-11-16,Afghanistan,Baraki Barak,9,2,10,WNW,0.0,39,8,1019
 2011-11-17,Afghanistan,Baraki Barak,11,2,8,W,0.0,48,8,1018
 2011-11-18,Afghanistan,Baraki Barak,11,4,7,W,0.0,42,4,1018
 2011-11-19,Afghanistan,Baraki Barak,11,5,7,WNW,0.0,41,4,1019
@@ -1349,7 +1349,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-09-10,Afghanistan,Baraki Barak,21,16,6,SE,1.0,60,15,1011
 2012-09-11,Afghanistan,Baraki Barak,23,16,4,SE,1.5,54,13,1009
 2012-09-12,Afghanistan,Baraki Barak,23,18,6,ESE,2.2,40,12,1008
-2012-09-13,Afghanistan,Baraki Barak,23,18,6,ESE,2.2,40,12,1008
+2012-09-13,Afghanistan,Baraki Barak,25,17,6,SSW,0.0,31,21,1007
 2012-09-14,Afghanistan,Baraki Barak,25,16,8,SW,0.0,30,4,1005
 2012-09-15,Afghanistan,Baraki Barak,25,15,7,SE,1.4,32,1,1005
 2012-09-16,Afghanistan,Baraki Barak,22,16,7,ESE,3.4,41,3,1006
@@ -1413,7 +1413,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-11-13,Afghanistan,Baraki Barak,11,3,6,NW,0.0,35,2,1020
 2012-11-14,Afghanistan,Baraki Barak,11,1,6,NW,0.0,27,1,1019
 2012-11-15,Afghanistan,Baraki Barak,11,1,5,SW,0.0,25,6,1018
-2012-11-16,Afghanistan,Baraki Barak,11,1,5,SW,0.0,25,6,1018
+2012-11-16,Afghanistan,Baraki Barak,10,2,7,SSW,2.4,41,11,1019
 2012-11-17,Afghanistan,Baraki Barak,6,1,5,S,1.6,59,12,1020
 2012-11-18,Afghanistan,Baraki Barak,6,-1,8,NW,0.0,42,2,1020
 2012-11-19,Afghanistan,Baraki Barak,6,-1,7,NW,0.0,21,2,1020
@@ -1714,7 +1714,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-09-10,Afghanistan,Baraki Barak,25,15,3,SSE,0.0,40,2,1010
 2013-09-11,Afghanistan,Baraki Barak,25,17,4,S,0.0,28,0,1011
 2013-09-12,Afghanistan,Baraki Barak,23,16,7,SSE,1.0,37,3,1013
-2013-09-13,Afghanistan,Baraki Barak,23,16,7,SSE,1.0,37,3,1013
+2013-09-13,Afghanistan,Baraki Barak,24,15,6,S,0.3,36,4,1013
 2013-09-14,Afghanistan,Baraki Barak,23,16,4,S,0.1,30,4,1011
 2013-09-15,Afghanistan,Baraki Barak,23,14,9,E,0.5,33,5,1008
 2013-09-16,Afghanistan,Baraki Barak,21,13,8,ESE,0.5,41,4,1009
@@ -1778,7 +1778,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-11-13,Afghanistan,Baraki Barak,10,2,4,S,0.0,33,0,1019
 2013-11-14,Afghanistan,Baraki Barak,9,1,3,ESE,0.0,49,2,1020
 2013-11-15,Afghanistan,Baraki Barak,7,1,3,SE,0.0,34,3,1021
-2013-11-16,Afghanistan,Baraki Barak,7,1,3,SE,0.0,34,3,1021
+2013-11-16,Afghanistan,Baraki Barak,9,2,5,E,1.2,46,24,1022
 2013-11-17,Afghanistan,Baraki Barak,7,2,3,SW,0.0,52,9,1023
 2013-11-18,Afghanistan,Baraki Barak,8,1,5,NW,0.0,42,16,1023
 2013-11-19,Afghanistan,Baraki Barak,9,2,9,NW,0.0,30,3,1021
@@ -2079,7 +2079,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-09-10,Afghanistan,Baraki Barak,23,15,6,ESE,0.1,41,2,1009
 2014-09-11,Afghanistan,Baraki Barak,22,15,5,ESE,1.1,39,6,1010
 2014-09-12,Afghanistan,Baraki Barak,22,15,5,ESE,1.7,38,4,1010
-2014-09-13,Afghanistan,Baraki Barak,22,15,5,ESE,1.7,38,4,1010
+2014-09-13,Afghanistan,Baraki Barak,23,13,8,S,1.0,33,33,1011
 2014-09-14,Afghanistan,Baraki Barak,25,13,5,SW,0.0,32,1,1010
 2014-09-15,Afghanistan,Baraki Barak,24,15,4,S,0.0,22,0,1011
 2014-09-16,Afghanistan,Baraki Barak,25,13,6,W,0.0,13,0,1010
@@ -2143,7 +2143,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-11-13,Afghanistan,Baraki Barak,9,0,3,SW,0.0,27,12,1022
 2014-11-14,Afghanistan,Baraki Barak,8,2,6,WNW,0.0,36,1,1023
 2014-11-15,Afghanistan,Baraki Barak,8,-1,7,NW,0.0,19,2,1021
-2014-11-16,Afghanistan,Baraki Barak,8,-1,7,NW,0.0,19,2,1021
+2014-11-16,Afghanistan,Baraki Barak,10,1,4,WNW,0.0,24,0,1020
 2014-11-17,Afghanistan,Baraki Barak,9,1,5,NW,0.0,26,24,1021
 2014-11-18,Afghanistan,Baraki Barak,11,1,3,W,0.0,27,8,1021
 2014-11-19,Afghanistan,Baraki Barak,10,2,3,SSE,0.0,30,1,1021
@@ -2444,7 +2444,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-09-10,Afghanistan,Baraki Barak,22,16,5,ESE,2.6,32,1,1014
 2015-09-11,Afghanistan,Baraki Barak,23,16,5,S,0.0,28,0,1014
 2015-09-12,Afghanistan,Baraki Barak,25,17,5,E,0.0,25,0,1014
-2015-09-13,Afghanistan,Baraki Barak,25,17,5,E,0.0,25,0,1014
+2015-09-13,Afghanistan,Baraki Barak,26,18,5,SSE,0.0,24,1,1013
 2015-09-14,Afghanistan,Baraki Barak,22,16,6,ENE,0.0,25,2,1011
 2015-09-15,Afghanistan,Baraki Barak,20,16,7,ESE,0.0,27,4,1011
 2015-09-16,Afghanistan,Baraki Barak,18,15,5,ESE,0.0,36,5,1012
@@ -2508,7 +2508,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-11-13,Afghanistan,Baraki Barak,7,1,8,WSW,0.4,70,22,1020
 2015-11-14,Afghanistan,Baraki Barak,10,3,3,SSW,0.0,52,2,1019
 2015-11-15,Afghanistan,Baraki Barak,8,4,5,SSW,0.1,52,4,1018
-2015-11-16,Afghanistan,Baraki Barak,8,4,5,SSW,0.1,52,4,1018
+2015-11-16,Afghanistan,Baraki Barak,8,2,6,WSW,0.0,44,0,1021
 2015-11-17,Afghanistan,Baraki Barak,11,3,6,W,0.0,36,1,1020
 2015-11-18,Afghanistan,Baraki Barak,11,3,3,SW,0.0,32,24,1021
 2015-11-19,Afghanistan,Baraki Barak,11,3,5,SSE,0.0,31,22,1021
@@ -2809,7 +2809,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-09-10,Afghanistan,Baraki Barak,24,19,6,S,0.1,26,0,1009
 2016-09-11,Afghanistan,Baraki Barak,22,17,6,S,0.2,35,5,1009
 2016-09-12,Afghanistan,Baraki Barak,20,16,9,ESE,4.5,42,6,1009
-2016-09-13,Afghanistan,Baraki Barak,20,16,9,ESE,4.5,42,6,1009
+2016-09-13,Afghanistan,Baraki Barak,20,15,7,ESE,2.2,44,7,1011
 2016-09-14,Afghanistan,Baraki Barak,19,15,7,SE,1.2,42,5,1013
 2016-09-15,Afghanistan,Baraki Barak,20,15,5,SE,0.2,39,2,1012
 2016-09-16,Afghanistan,Baraki Barak,23,16,3,SE,0.0,30,1,1012
@@ -2873,7 +2873,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-11-13,Afghanistan,Baraki Barak,13,4,2,SW,0.0,18,0,1023
 2016-11-14,Afghanistan,Baraki Barak,11,2,3,SW,0.0,18,5,1021
 2016-11-15,Afghanistan,Baraki Barak,11,2,3,SSW,0.0,22,12,1020
-2016-11-16,Afghanistan,Baraki Barak,11,2,3,SSW,0.0,22,12,1020
+2016-11-16,Afghanistan,Baraki Barak,10,3,3,SW,0.0,22,8,1022
 2016-11-17,Afghanistan,Baraki Barak,13,2,5,WSW,0.0,21,5,1022
 2016-11-18,Afghanistan,Baraki Barak,13,2,6,W,0.0,18,6,1020
 2016-11-19,Afghanistan,Baraki Barak,12,3,5,WSW,0.0,19,26,1016
@@ -3174,7 +3174,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-09-10,Afghanistan,Baraki Barak,22,17,8,E,6.1,41,13,1010
 2017-09-11,Afghanistan,Baraki Barak,22,15,5,ESE,7.0,43,6,1013
 2017-09-12,Afghanistan,Baraki Barak,22,16,4,SE,4.0,33,2,1014
-2017-09-13,Afghanistan,Baraki Barak,22,16,4,SE,4.0,33,2,1014
+2017-09-13,Afghanistan,Baraki Barak,20,16,7,ESE,12.7,42,3,1013
 2017-09-14,Afghanistan,Baraki Barak,17,14,8,ESE,11.4,48,7,1013
 2017-09-15,Afghanistan,Baraki Barak,18,13,5,S,1.4,36,7,1013
 2017-09-16,Afghanistan,Baraki Barak,18,13,7,SSE,0.6,36,11,1013
@@ -3238,7 +3238,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-11-13,Afghanistan,Baraki Barak,7,3,7,ENE,1.1,43,38,1016
 2017-11-14,Afghanistan,Baraki Barak,3,1,11,NE,19.8,73,71,1015
 2017-11-15,Afghanistan,Baraki Barak,1,-1,8,NNE,17.2,82,53,1018
-2017-11-16,Afghanistan,Baraki Barak,1,-1,8,NNE,17.2,82,53,1018
+2017-11-16,Afghanistan,Baraki Barak,1,-2,9,NE,17.4,81,75,1021
 2017-11-17,Afghanistan,Baraki Barak,1,-4,8,NNE,6.2,67,22,1022
 2017-11-18,Afghanistan,Baraki Barak,4,-4,4,SSW,0.0,48,3,1022
 2017-11-19,Afghanistan,Baraki Barak,5,-2,5,NNW,0.0,37,0,1024
@@ -3539,7 +3539,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-09-10,Afghanistan,Baraki Barak,28,17,3,ESE,0.3,37,2,1013
 2018-09-11,Afghanistan,Baraki Barak,25,17,8,WSW,0.1,20,0,1013
 2018-09-12,Afghanistan,Baraki Barak,24,16,12,NNW,0.0,15,0,1010
-2018-09-13,Afghanistan,Baraki Barak,24,16,12,NNW,0.0,15,0,1010
+2018-09-13,Afghanistan,Baraki Barak,22,13,14,NNW,0.0,20,0,1010
 2018-09-14,Afghanistan,Baraki Barak,21,14,9,WSW,3.9,31,1,1011
 2018-09-15,Afghanistan,Baraki Barak,19,12,7,ESE,10.5,50,6,1013
 2018-09-16,Afghanistan,Baraki Barak,19,12,5,S,3.8,49,5,1013
@@ -3603,7 +3603,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-11-13,Afghanistan,Baraki Barak,8,2,3,S,3.8,59,23,1015
 2018-11-14,Afghanistan,Baraki Barak,8,2,5,SSW,1.2,58,13,1016
 2018-11-15,Afghanistan,Baraki Barak,7,2,8,WSW,0.0,42,7,1021
-2018-11-16,Afghanistan,Baraki Barak,7,2,8,WSW,0.0,42,7,1021
+2018-11-16,Afghanistan,Baraki Barak,9,1,9,WNW,0.0,36,2,1020
 2018-11-17,Afghanistan,Baraki Barak,9,2,7,WSW,0.2,46,11,1017
 2018-11-18,Afghanistan,Baraki Barak,9,2,4,SW,0.0,54,6,1017
 2018-11-19,Afghanistan,Baraki Barak,7,1,4,SSE,0.3,59,9,1021
@@ -3904,7 +3904,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-09-10,Afghanistan,Baraki Barak,25,18,9,W,0.0,21,0,1006
 2019-09-11,Afghanistan,Baraki Barak,25,16,7,SW,0.0,25,0,1009
 2019-09-12,Afghanistan,Baraki Barak,24,16,7,SW,0.0,28,0,1009
-2019-09-13,Afghanistan,Baraki Barak,24,16,7,SW,0.0,28,0,1009
+2019-09-13,Afghanistan,Baraki Barak,24,16,8,SSE,0.2,40,2,1010
 2019-09-14,Afghanistan,Baraki Barak,25,15,8,S,0.4,40,3,1011
 2019-09-15,Afghanistan,Baraki Barak,23,15,8,S,0.3,40,2,1011
 2019-09-16,Afghanistan,Baraki Barak,22,14,10,NW,0.0,22,0,1010
@@ -3968,7 +3968,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-11-13,Afghanistan,Baraki Barak,10,3,5,SE,0.0,56,6,1022
 2019-11-14,Afghanistan,Baraki Barak,7,2,7,E,5.0,65,30,1022
 2019-11-15,Afghanistan,Baraki Barak,5,2,6,ESE,17.2,87,68,1021
-2019-11-16,Afghanistan,Baraki Barak,5,2,6,ESE,17.2,87,68,1021
+2019-11-16,Afghanistan,Baraki Barak,3,-3,3,WSW,3.6,77,73,1021
 2019-11-17,Afghanistan,Baraki Barak,8,0,5,WSW,0.1,68,13,1023
 2019-11-18,Afghanistan,Baraki Barak,8,2,4,WNW,0.0,47,20,1021
 2019-11-19,Afghanistan,Baraki Barak,6,-3,3,SSW,0.0,30,19,1018
@@ -4269,7 +4269,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-09-10,Afghanistan,Baraki Barak,24,17,7,SW,0.0,28,0,1008
 2020-09-11,Afghanistan,Baraki Barak,23,15,6,SW,0.0,28,1,1008
 2020-09-12,Afghanistan,Baraki Barak,25,17,5,WSW,0.0,30,0,1011
-2020-09-13,Afghanistan,Baraki Barak,25,17,5,WSW,0.0,30,0,1011
+2020-09-13,Afghanistan,Baraki Barak,24,17,8,S,0.0,31,1,1011
 2020-09-14,Afghanistan,Baraki Barak,23,16,11,S,0.0,27,1,1009
 2020-09-15,Afghanistan,Baraki Barak,23,15,12,SSE,0.0,31,1,1010
 2020-09-16,Afghanistan,Baraki Barak,18,11,12,S,0.0,31,1,1010
@@ -4333,7 +4333,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-11-13,Afghanistan,Baraki Barak,7,-1,8,S,8.5,60,39,1021
 2020-11-14,Afghanistan,Baraki Barak,1,-9,8,S,51.6,93,92,1016
 2020-11-15,Afghanistan,Baraki Barak,-4,-12,8,W,12.1,97,79,1018
-2020-11-16,Afghanistan,Baraki Barak,-4,-12,8,W,12.1,97,79,1018
+2020-11-16,Afghanistan,Baraki Barak,-2,-10,4,ENE,0.0,66,7,1024
 2020-11-17,Afghanistan,Baraki Barak,2,-5,4,W,0.0,45,0,1022
 2020-11-18,Afghanistan,Baraki Barak,2,-5,5,WSW,0.0,44,19,1018
 2020-11-19,Afghanistan,Baraki Barak,0,-8,7,W,0.4,58,36,1019
@@ -4559,3 +4559,4 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-27,Afghanistan,Baraki Barak,25,16,10,SSE,1.7,39,43,1011
 2021-06-28,Afghanistan,Baraki Barak,25,17,7,S,0.0,35,20,1011
 2021-06-29,Afghanistan,Baraki Barak,28,18,10,SE,0.0,21,1,1008
+2021-06-30,Afghanistan,Baraki Barak,28,18,8,SW,0.0,11,2,1005

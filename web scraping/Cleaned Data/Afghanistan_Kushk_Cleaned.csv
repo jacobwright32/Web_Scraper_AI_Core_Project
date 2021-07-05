@@ -1,4 +1,4 @@
-Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
+date,country,city,maximum_temprature,minimum_temprature,wind_speed,wind_direction,amount_of_rain,humidity,cloud_coverage,pressure
 2009-01-01,Afghanistan,Kushk,16,3,18,SSE,0.0,42,18,1017
 2009-01-02,Afghanistan,Kushk,12,6,22,SSE,6.7,55,40,1013
 2009-01-03,Afghanistan,Kushk,5,-1,13,NNE,20.8,83,30,1021
@@ -4559,3 +4559,4 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-27,Afghanistan,Kushk,35,21,18,ENE,0.0,13,0,1006
 2021-06-28,Afghanistan,Kushk,36,23,19,NNE,0.0,14,0,1007
 2021-06-29,Afghanistan,Kushk,36,24,21,NNE,0.0,14,0,1006
+2021-06-30,Afghanistan,Kushk,36,24,23,NNE,0.0,13,0,1006

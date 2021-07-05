@@ -1,4 +1,4 @@
-Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
+date,country,city,maximum_temprature,minimum_temprature,wind_speed,wind_direction,amount_of_rain,humidity,cloud_coverage,pressure
 2009-01-01,Afghanistan,Asadabad,8,0,12,WNW,0.0,35,13,1021
 2009-01-02,Afghanistan,Asadabad,8,1,7,E,0.1,49,34,1019
 2009-01-03,Afghanistan,Asadabad,1,-1,8,E,18.5,82,59,1020
@@ -31,7 +31,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-01-30,Afghanistan,Asadabad,6,0,9,SSE,11.2,76,27,1021
 2009-01-31,Afghanistan,Asadabad,9,-2,16,WSW,0.0,39,13,1020
 2009-02-01,Afghanistan,Asadabad,10,2,13,S,0.0,52,2,1018
-2009-02-02,Afghanistan,Asadabad,10,2,13,S,0.0,52,2,1018
+2009-02-02,Afghanistan,Asadabad,7,2,11,ESE,0.7,58,30,1019
 2009-02-03,Afghanistan,Asadabad,4,0,7,E,8.6,80,37,1019
 2009-02-04,Afghanistan,Asadabad,7,-1,10,ESE,22.6,76,42,1018
 2009-02-05,Afghanistan,Asadabad,3,-1,9,SSW,10.9,88,54,1018
@@ -182,7 +182,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-06-30,Afghanistan,Asadabad,30,17,15,WSW,0.0,19,2,1007
 2009-07-01,Afghanistan,Asadabad,29,16,14,SE,0.0,17,1,1007
 2009-07-02,Afghanistan,Asadabad,26,16,14,E,0.5,23,3,1005
-2009-07-03,Afghanistan,Asadabad,23,15,12,SE,0.4,29,4,1006
+2009-07-03,Afghanistan,Asadabad,26,16,14,E,0.5,23,3,1005
 2009-07-04,Afghanistan,Asadabad,22,15,9,S,5.9,37,14,1006
 2009-07-05,Afghanistan,Asadabad,25,14,12,SW,0.6,29,6,1007
 2009-07-06,Afghanistan,Asadabad,30,16,12,SSW,0.0,20,6,1006
@@ -271,7 +271,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-09-27,Afghanistan,Asadabad,25,15,10,SE,0.1,37,4,1013
 2009-09-28,Afghanistan,Asadabad,26,14,9,SSE,0.0,33,1,1013
 2009-09-29,Afghanistan,Asadabad,27,16,14,SW,0.0,17,0,1013
-2009-09-30,Afghanistan,Asadabad,27,16,14,SW,0.0,17,0,1013
+2009-09-30,Afghanistan,Asadabad,27,15,14,SW,0.0,12,0,1013
 2009-10-01,Afghanistan,Asadabad,27,16,15,SSW,0.0,14,1,1014
 2009-10-02,Afghanistan,Asadabad,26,15,13,SSW,0.0,22,0,1015
 2009-10-03,Afghanistan,Asadabad,24,14,11,ESE,0.0,26,6,1013
@@ -396,7 +396,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-01-30,Afghanistan,Asadabad,7,-1,9,SSE,0.0,49,10,1022
 2010-01-31,Afghanistan,Asadabad,4,-2,12,ENE,0.0,62,25,1020
 2010-02-01,Afghanistan,Asadabad,4,-4,12,ENE,0.0,68,10,1021
-2010-02-02,Afghanistan,Asadabad,4,-4,12,ENE,0.0,68,10,1021
+2010-02-02,Afghanistan,Asadabad,4,-4,12,S,0.0,65,13,1021
 2010-02-03,Afghanistan,Asadabad,4,-2,12,ENE,0.0,67,15,1021
 2010-02-04,Afghanistan,Asadabad,7,-2,11,ENE,0.0,59,14,1020
 2010-02-05,Afghanistan,Asadabad,3,0,7,SSE,17.2,82,64,1020
@@ -547,7 +547,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-06-30,Afghanistan,Asadabad,29,16,14,S,0.0,23,6,1006
 2010-07-01,Afghanistan,Asadabad,29,17,15,SE,0.0,21,1,1006
 2010-07-02,Afghanistan,Asadabad,26,16,11,SE,0.4,31,4,1008
-2010-07-03,Afghanistan,Asadabad,29,16,12,S,0.0,24,3,1009
+2010-07-03,Afghanistan,Asadabad,26,16,11,SE,0.4,31,4,1008
 2010-07-04,Afghanistan,Asadabad,29,17,12,S,0.1,24,5,1010
 2010-07-05,Afghanistan,Asadabad,28,17,9,E,0.4,29,10,1009
 2010-07-06,Afghanistan,Asadabad,28,17,12,SE,0.0,27,4,1009
@@ -636,7 +636,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-09-27,Afghanistan,Asadabad,21,11,9,ESE,6.2,46,8,1017
 2010-09-28,Afghanistan,Asadabad,20,11,8,SSE,10.3,57,11,1016
 2010-09-29,Afghanistan,Asadabad,19,11,8,ESE,14.7,62,18,1017
-2010-09-30,Afghanistan,Asadabad,19,11,8,ESE,14.7,62,18,1017
+2010-09-30,Afghanistan,Asadabad,19,11,8,ESE,17.8,62,12,1017
 2010-10-01,Afghanistan,Asadabad,22,11,9,SSW,1.5,42,3,1017
 2010-10-02,Afghanistan,Asadabad,23,11,10,WSW,0.0,31,0,1017
 2010-10-03,Afghanistan,Asadabad,23,11,12,WSW,0.0,28,0,1017
@@ -761,7 +761,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-01-30,Afghanistan,Asadabad,7,-2,6,SSE,0.3,73,28,1021
 2011-01-31,Afghanistan,Asadabad,8,-1,8,ESE,0.0,55,16,1022
 2011-02-01,Afghanistan,Asadabad,10,2,9,E,0.1,47,26,1021
-2011-02-02,Afghanistan,Asadabad,10,2,9,E,0.1,47,26,1021
+2011-02-02,Afghanistan,Asadabad,12,4,9,E,10.6,55,49,1020
 2011-02-03,Afghanistan,Asadabad,7,4,10,E,33.9,86,83,1019
 2011-02-04,Afghanistan,Asadabad,4,2,6,ESE,29.0,95,86,1018
 2011-02-05,Afghanistan,Asadabad,6,0,6,SE,12.0,88,64,1018
@@ -912,7 +912,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-06-30,Afghanistan,Asadabad,25,19,12,S,8.1,57,8,1002
 2011-07-01,Afghanistan,Asadabad,25,18,11,S,5.9,57,10,1004
 2011-07-02,Afghanistan,Asadabad,24,18,9,S,5.4,57,11,1004
-2011-07-03,Afghanistan,Asadabad,24,18,9,SSE,15.8,57,9,1005
+2011-07-03,Afghanistan,Asadabad,24,18,9,S,5.4,57,11,1004
 2011-07-04,Afghanistan,Asadabad,25,18,9,S,7.1,51,8,1008
 2011-07-05,Afghanistan,Asadabad,27,19,7,S,0.0,41,3,1008
 2011-07-06,Afghanistan,Asadabad,26,20,9,SSE,2.6,49,11,1008
@@ -1001,7 +1001,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-09-27,Afghanistan,Asadabad,23,14,10,WSW,0.0,29,0,1013
 2011-09-28,Afghanistan,Asadabad,23,13,9,WSW,0.0,25,1,1013
 2011-09-29,Afghanistan,Asadabad,23,13,7,W,0.0,27,0,1013
-2011-09-30,Afghanistan,Asadabad,23,13,7,W,0.0,27,0,1013
+2011-09-30,Afghanistan,Asadabad,23,14,7,SSW,0.0,29,1,1013
 2011-10-01,Afghanistan,Asadabad,23,13,7,SW,0.0,23,0,1013
 2011-10-02,Afghanistan,Asadabad,24,14,10,SW,0.0,17,0,1012
 2011-10-03,Afghanistan,Asadabad,25,13,8,SE,0.0,19,0,1012
@@ -1126,7 +1126,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-01-30,Afghanistan,Asadabad,5,-1,11,E,0.2,39,44,1023
 2012-01-31,Afghanistan,Asadabad,4,-1,9,SE,0.4,53,17,1025
 2012-02-01,Afghanistan,Asadabad,6,-1,9,S,0.0,31,15,1023
-2012-02-02,Afghanistan,Asadabad,6,-1,9,S,0.0,31,15,1023
+2012-02-02,Afghanistan,Asadabad,7,0,6,NE,0.1,42,34,1021
 2012-02-03,Afghanistan,Asadabad,3,1,6,ESE,16.8,87,90,1021
 2012-02-04,Afghanistan,Asadabad,0,-2,7,ESE,32.2,93,81,1019
 2012-02-05,Afghanistan,Asadabad,1,-4,6,ESE,3.1,86,31,1024
@@ -1277,7 +1277,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-06-30,Afghanistan,Asadabad,29,19,7,SSE,0.0,24,2,1005
 2012-07-01,Afghanistan,Asadabad,30,20,9,SW,0.0,18,3,1005
 2012-07-02,Afghanistan,Asadabad,31,20,8,S,0.0,17,3,1005
-2012-07-03,Afghanistan,Asadabad,32,21,9,WSW,0.0,21,6,1002
+2012-07-03,Afghanistan,Asadabad,31,20,8,S,0.0,17,3,1005
 2012-07-04,Afghanistan,Asadabad,31,21,9,SW,0.0,24,12,1001
 2012-07-05,Afghanistan,Asadabad,30,21,12,SSW,0.0,21,2,1001
 2012-07-06,Afghanistan,Asadabad,30,19,13,SSE,0.0,22,0,1000
@@ -1366,7 +1366,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-09-27,Afghanistan,Asadabad,21,13,8,ENE,0.3,38,4,1019
 2012-09-28,Afghanistan,Asadabad,22,13,7,SSW,0.0,32,2,1017
 2012-09-29,Afghanistan,Asadabad,22,14,7,SSW,0.3,35,2,1017
-2012-09-30,Afghanistan,Asadabad,22,14,7,SSW,0.3,35,2,1017
+2012-09-30,Afghanistan,Asadabad,22,13,7,SSW,0.1,32,0,1018
 2012-10-01,Afghanistan,Asadabad,22,13,8,SSE,0.0,24,0,1017
 2012-10-02,Afghanistan,Asadabad,22,13,6,ESE,0.0,23,4,1015
 2012-10-03,Afghanistan,Asadabad,21,13,7,SSW,0.0,28,2,1014
@@ -1491,7 +1491,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-01-30,Afghanistan,Asadabad,8,4,6,ENE,0.7,42,51,1020
 2013-01-31,Afghanistan,Asadabad,8,4,6,ESE,1.4,68,42,1021
 2013-02-01,Afghanistan,Asadabad,9,2,6,ENE,6.9,57,33,1021
-2013-02-02,Afghanistan,Asadabad,9,2,6,ENE,6.9,57,33,1021
+2013-02-02,Afghanistan,Asadabad,5,3,5,ESE,10.1,83,74,1019
 2013-02-03,Afghanistan,Asadabad,5,1,9,ENE,41.9,83,73,1016
 2013-02-04,Afghanistan,Asadabad,1,-1,9,E,94.4,93,88,1016
 2013-02-05,Afghanistan,Asadabad,2,0,12,ESE,35.4,83,77,1017
@@ -1642,7 +1642,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-06-30,Afghanistan,Asadabad,25,19,7,SSE,9.1,52,13,1005
 2013-07-01,Afghanistan,Asadabad,25,18,7,SSE,1.5,41,7,1004
 2013-07-02,Afghanistan,Asadabad,25,18,7,SSE,9.5,42,15,1004
-2013-07-03,Afghanistan,Asadabad,28,19,7,SE,3.6,41,4,1005
+2013-07-03,Afghanistan,Asadabad,25,18,7,SSE,9.5,42,15,1004
 2013-07-04,Afghanistan,Asadabad,29,21,7,S,0.0,30,0,1005
 2013-07-05,Afghanistan,Asadabad,30,21,8,SSE,0.0,28,0,1005
 2013-07-06,Afghanistan,Asadabad,30,22,7,SSE,0.0,30,1,1006
@@ -1731,7 +1731,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-09-27,Afghanistan,Asadabad,25,17,6,WSW,0.0,35,0,1012
 2013-09-28,Afghanistan,Asadabad,24,16,6,S,0.0,36,2,1011
 2013-09-29,Afghanistan,Asadabad,24,15,5,S,0.0,45,3,1010
-2013-09-30,Afghanistan,Asadabad,24,15,5,S,0.0,45,3,1010
+2013-09-30,Afghanistan,Asadabad,23,15,6,SSW,8.3,53,7,1011
 2013-10-01,Afghanistan,Asadabad,22,15,5,SW,3.3,60,7,1014
 2013-10-02,Afghanistan,Asadabad,23,15,5,S,0.0,42,1,1016
 2013-10-03,Afghanistan,Asadabad,23,15,6,SSW,0.0,33,0,1015
@@ -1856,7 +1856,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-01-30,Afghanistan,Asadabad,9,3,8,ENE,0.0,43,25,1022
 2014-01-31,Afghanistan,Asadabad,10,3,9,E,1.2,46,27,1022
 2014-02-01,Afghanistan,Asadabad,6,3,9,E,25.9,74,63,1021
-2014-02-02,Afghanistan,Asadabad,6,3,8,E,25.9,74,63,1021
+2014-02-02,Afghanistan,Asadabad,4,2,10,ENE,45.3,80,90,1020
 2014-02-03,Afghanistan,Asadabad,2,1,8,SSE,40.6,95,91,1016
 2014-02-04,Afghanistan,Asadabad,3,0,5,S,4.8,84,57,1016
 2014-02-05,Afghanistan,Asadabad,2,-1,7,S,13.5,83,49,1015
@@ -2007,7 +2007,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-06-30,Afghanistan,Asadabad,32,21,11,SSW,0.0,21,8,1005
 2014-07-01,Afghanistan,Asadabad,31,21,10,S,1.9,32,6,1006
 2014-07-02,Afghanistan,Asadabad,27,20,10,S,9.7,57,16,1007
-2014-07-03,Afghanistan,Asadabad,26,19,11,S,4.2,51,12,1005
+2014-07-03,Afghanistan,Asadabad,27,20,10,S,9.7,57,16,1007
 2014-07-04,Afghanistan,Asadabad,26,18,9,SSE,1.1,45,6,1005
 2014-07-05,Afghanistan,Asadabad,26,19,7,SSE,11.0,47,11,1007
 2014-07-06,Afghanistan,Asadabad,26,19,7,SE,6.7,39,13,1009
@@ -2096,7 +2096,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-09-27,Afghanistan,Asadabad,23,15,7,SSE,1.4,59,6,1015
 2014-09-28,Afghanistan,Asadabad,23,15,7,S,3.4,50,5,1015
 2014-09-29,Afghanistan,Asadabad,23,15,6,SSW,0.0,44,1,1015
-2014-09-30,Afghanistan,Asadabad,23,15,6,SSW,0.0,44,1,1015
+2014-09-30,Afghanistan,Asadabad,23,16,7,SSW,0.0,37,0,1016
 2014-10-01,Afghanistan,Asadabad,23,15,7,WSW,0.0,27,0,1017
 2014-10-02,Afghanistan,Asadabad,23,15,7,SW,0.0,36,0,1016
 2014-10-03,Afghanistan,Asadabad,24,14,7,WSW,0.0,27,0,1015
@@ -2221,7 +2221,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-01-30,Afghanistan,Asadabad,4,-4,6,NE,0.0,32,23,1024
 2015-01-31,Afghanistan,Asadabad,6,-2,7,ESE,0.3,41,28,1020
 2015-02-01,Afghanistan,Asadabad,3,-1,8,SSE,3.8,74,63,1022
-2015-02-02,Afghanistan,Asadabad,3,-1,8,SSE,3.8,74,63,1022
+2015-02-02,Afghanistan,Asadabad,2,-2,8,E,5.8,77,55,1024
 2015-02-03,Afghanistan,Asadabad,4,-3,9,WSW,1.9,53,18,1025
 2015-02-04,Afghanistan,Asadabad,8,-4,10,SSW,0.0,33,4,1027
 2015-02-05,Afghanistan,Asadabad,11,-2,9,SSW,0.0,27,2,1022
@@ -2372,7 +2372,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-06-30,Afghanistan,Asadabad,27,17,7,SSW,0.4,35,10,1010
 2015-07-01,Afghanistan,Asadabad,27,16,8,SSW,0.1,42,9,1009
 2015-07-02,Afghanistan,Asadabad,26,16,7,SSW,0.0,46,7,1009
-2015-07-03,Afghanistan,Asadabad,29,18,7,SW,0.0,41,2,1007
+2015-07-03,Afghanistan,Asadabad,26,16,7,SSW,0.0,46,7,1009
 2015-07-04,Afghanistan,Asadabad,31,18,7,SW,0.0,33,0,1005
 2015-07-05,Afghanistan,Asadabad,32,19,7,SW,0.0,32,1,1004
 2015-07-06,Afghanistan,Asadabad,30,20,7,SSW,0.0,27,0,1003
@@ -2461,7 +2461,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-09-27,Afghanistan,Asadabad,19,10,7,SSE,7.3,45,9,1015
 2015-09-28,Afghanistan,Asadabad,19,10,8,SSW,6.7,42,16,1016
 2015-09-29,Afghanistan,Asadabad,19,10,8,S,5.7,43,12,1020
-2015-09-30,Afghanistan,Asadabad,19,10,8,S,5.7,43,12,1020
+2015-09-30,Afghanistan,Asadabad,22,11,9,W,0.0,30,1,1021
 2015-10-01,Afghanistan,Asadabad,23,11,8,S,0.0,23,1,1021
 2015-10-02,Afghanistan,Asadabad,23,12,6,S,0.0,26,4,1020
 2015-10-03,Afghanistan,Asadabad,22,13,7,SW,1.3,28,6,1018
@@ -2586,7 +2586,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-01-30,Afghanistan,Asadabad,5,-1,6,WSW,3.9,76,26,1022
 2016-01-31,Afghanistan,Asadabad,7,-2,9,WSW,0.0,34,2,1023
 2016-02-01,Afghanistan,Asadabad,8,-1,9,W,0.0,31,25,1023
-2016-02-02,Afghanistan,Asadabad,8,-1,9,W,0.0,31,25,1023
+2016-02-02,Afghanistan,Asadabad,7,-1,10,WSW,0.0,29,4,1023
 2016-02-03,Afghanistan,Asadabad,9,-1,9,WSW,0.0,25,10,1023
 2016-02-04,Afghanistan,Asadabad,11,1,10,WSW,0.0,22,7,1022
 2016-02-05,Afghanistan,Asadabad,10,1,15,SW,0.0,26,2,1023
@@ -2737,7 +2737,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-06-30,Afghanistan,Asadabad,30,19,6,S,0.5,45,7,1006
 2016-07-01,Afghanistan,Asadabad,30,20,6,SW,1.3,42,4,1003
 2016-07-02,Afghanistan,Asadabad,30,20,8,SW,6.2,43,4,1003
-2016-07-03,Afghanistan,Asadabad,25,17,8,SSE,11.9,65,14,1004
+2016-07-03,Afghanistan,Asadabad,30,20,8,SW,6.2,43,4,1003
 2016-07-04,Afghanistan,Asadabad,26,17,6,S,11.8,63,12,1004
 2016-07-05,Afghanistan,Asadabad,27,17,6,SSW,1.9,55,7,1003
 2016-07-06,Afghanistan,Asadabad,26,18,7,SE,10.0,49,6,1004
@@ -2826,7 +2826,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-09-27,Afghanistan,Asadabad,24,14,5,SSW,0.0,31,0,1013
 2016-09-28,Afghanistan,Asadabad,24,13,6,SSW,0.0,25,0,1013
 2016-09-29,Afghanistan,Asadabad,24,13,7,SSW,0.0,28,1,1012
-2016-09-30,Afghanistan,Asadabad,24,13,7,SSW,0.0,28,1,1012
+2016-09-30,Afghanistan,Asadabad,23,14,7,WNW,5.3,47,7,1013
 2016-10-01,Afghanistan,Asadabad,24,15,6,SSW,4.4,50,6,1014
 2016-10-02,Afghanistan,Asadabad,23,15,8,SW,8.4,52,6,1017
 2016-10-03,Afghanistan,Asadabad,24,14,6,SSW,0.9,42,3,1016
@@ -2951,7 +2951,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-01-30,Afghanistan,Asadabad,3,0,9,ESE,17.5,79,74,1020
 2017-01-31,Afghanistan,Asadabad,6,-4,6,SW,0.3,52,31,1020
 2017-02-01,Afghanistan,Asadabad,8,-1,9,SW,0.0,34,28,1021
-2017-02-02,Afghanistan,Asadabad,8,-1,9,SW,0.0,34,28,1021
+2017-02-02,Afghanistan,Asadabad,7,1,13,W,0.6,43,69,1024
 2017-02-03,Afghanistan,Asadabad,4,0,15,NE,18.6,76,100,1022
 2017-02-04,Afghanistan,Asadabad,1,0,11,NE,44.8,94,94,1015
 2017-02-05,Afghanistan,Asadabad,1,-3,9,SE,65.3,91,87,1017
@@ -3102,7 +3102,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-06-30,Afghanistan,Asadabad,26,16,7,SSW,2.9,55,7,1004
 2017-07-01,Afghanistan,Asadabad,27,17,5,SW,3.5,50,6,1004
 2017-07-02,Afghanistan,Asadabad,28,19,5,SSW,1.3,37,5,1004
-2017-07-03,Afghanistan,Asadabad,28,18,5,S,0.0,32,4,1005
+2017-07-03,Afghanistan,Asadabad,28,19,5,SSW,1.3,37,5,1004
 2017-07-04,Afghanistan,Asadabad,27,18,6,S,1.8,39,5,1003
 2017-07-05,Afghanistan,Asadabad,27,18,6,SSW,3.4,41,14,1004
 2017-07-06,Afghanistan,Asadabad,27,17,6,SW,0.4,37,5,1006
@@ -3191,7 +3191,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-09-27,Afghanistan,Asadabad,24,12,8,WSW,0.0,30,0,1015
 2017-09-28,Afghanistan,Asadabad,24,13,9,SSW,0.0,30,1,1014
 2017-09-29,Afghanistan,Asadabad,23,13,10,SSW,0.7,32,2,1014
-2017-09-30,Afghanistan,Asadabad,23,13,10,SSW,0.7,32,2,1014
+2017-09-30,Afghanistan,Asadabad,23,13,10,WNW,0.0,29,2,1016
 2017-10-01,Afghanistan,Asadabad,23,13,10,SW,1.3,34,3,1015
 2017-10-02,Afghanistan,Asadabad,23,12,9,SSE,0.0,32,1,1015
 2017-10-03,Afghanistan,Asadabad,23,12,9,WSW,0.0,32,1,1015
@@ -3316,7 +3316,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-01-30,Afghanistan,Asadabad,7,1,8,SE,6.3,70,32,1024
 2018-01-31,Afghanistan,Asadabad,7,1,12,SSW,0.9,53,64,1020
 2018-02-01,Afghanistan,Asadabad,7,0,9,SSE,0.7,57,17,1023
-2018-02-02,Afghanistan,Asadabad,7,0,9,SSE,0.7,57,17,1023
+2018-02-02,Afghanistan,Asadabad,8,-1,12,SW,0.0,40,9,1021
 2018-02-03,Afghanistan,Asadabad,6,-2,13,WSW,0.4,46,2,1024
 2018-02-04,Afghanistan,Asadabad,9,-3,13,WSW,0.0,27,0,1024
 2018-02-05,Afghanistan,Asadabad,8,-2,13,WSW,0.0,23,6,1025
@@ -3467,7 +3467,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-06-30,Afghanistan,Asadabad,26,17,7,SW,1.9,56,10,1007
 2018-07-01,Afghanistan,Asadabad,28,18,6,SSW,0.0,51,6,1005
 2018-07-02,Afghanistan,Asadabad,29,18,8,W,0.0,29,2,1003
-2018-07-03,Afghanistan,Asadabad,27,17,9,SSW,0.0,25,5,1003
+2018-07-03,Afghanistan,Asadabad,29,18,8,W,0.0,29,2,1003
 2018-07-04,Afghanistan,Asadabad,25,16,8,S,19.2,48,17,1004
 2018-07-05,Afghanistan,Asadabad,22,16,7,S,25.6,59,27,1007
 2018-07-06,Afghanistan,Asadabad,26,16,7,SW,0.3,40,9,1007
@@ -3556,7 +3556,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-09-27,Afghanistan,Asadabad,22,12,10,WSW,0.3,38,5,1015
 2018-09-28,Afghanistan,Asadabad,22,12,8,SSE,2.1,41,10,1017
 2018-09-29,Afghanistan,Asadabad,21,12,8,WSW,1.0,42,8,1018
-2018-09-30,Afghanistan,Asadabad,21,12,8,WSW,1.0,42,8,1018
+2018-09-30,Afghanistan,Asadabad,21,11,8,WSW,2.5,44,20,1016
 2018-10-01,Afghanistan,Asadabad,21,11,7,WSW,0.5,45,15,1016
 2018-10-02,Afghanistan,Asadabad,21,11,8,SSW,0.6,43,9,1017
 2018-10-03,Afghanistan,Asadabad,21,11,8,SSW,0.5,36,4,1016
@@ -3681,7 +3681,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-01-30,Afghanistan,Asadabad,4,1,7,E,3.7,60,72,1022
 2019-01-31,Afghanistan,Asadabad,2,-1,7,ESE,9.6,86,85,1023
 2019-02-01,Afghanistan,Asadabad,4,-3,6,SW,0.0,59,27,1024
-2019-02-02,Afghanistan,Asadabad,4,-3,6,SW,0.0,59,27,1024
+2019-02-02,Afghanistan,Asadabad,5,-1,10,WSW,0.5,51,36,1025
 2019-02-03,Afghanistan,Asadabad,7,-2,12,SW,0.0,42,43,1026
 2019-02-04,Afghanistan,Asadabad,6,1,15,SW,4.0,59,95,1025
 2019-02-05,Afghanistan,Asadabad,2,-1,10,E,40.8,84,96,1023
@@ -3832,7 +3832,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-06-30,Afghanistan,Asadabad,27,16,11,E,5.9,41,4,1006
 2019-07-01,Afghanistan,Asadabad,28,16,10,ESE,0.2,35,2,1006
 2019-07-02,Afghanistan,Asadabad,30,18,9,SW,0.0,31,0,1007
-2019-07-03,Afghanistan,Asadabad,31,19,10,S,0.0,28,1,1007
+2019-07-03,Afghanistan,Asadabad,30,18,9,SW,0.0,31,0,1007
 2019-07-04,Afghanistan,Asadabad,31,20,10,ESE,0.0,27,2,1005
 2019-07-05,Afghanistan,Asadabad,30,21,9,S,0.8,35,4,1002
 2019-07-06,Afghanistan,Asadabad,28,19,8,SE,2.5,42,6,1002
@@ -3921,7 +3921,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-09-27,Afghanistan,Asadabad,23,15,6,ESE,6.2,73,26,1016
 2019-09-28,Afghanistan,Asadabad,24,15,7,E,6.2,64,24,1013
 2019-09-29,Afghanistan,Asadabad,20,14,6,ESE,12.4,78,20,1015
-2019-09-30,Afghanistan,Asadabad,20,14,6,ESE,12.4,78,20,1015
+2019-09-30,Afghanistan,Asadabad,20,13,6,ESE,7.4,77,26,1014
 2019-10-01,Afghanistan,Asadabad,17,12,6,E,9.6,78,15,1014
 2019-10-02,Afghanistan,Asadabad,19,12,7,E,4.1,68,14,1015
 2019-10-03,Afghanistan,Asadabad,20,12,6,ESE,23.4,64,34,1015
@@ -4046,7 +4046,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-01-30,Afghanistan,Asadabad,10,-5,10,E,0.0,50,10,1021
 2020-01-31,Afghanistan,Asadabad,6,-5,12,ENE,0.0,38,60,1018
 2020-02-01,Afghanistan,Asadabad,9,-6,11,E,0.0,31,3,1022
-2020-02-02,Afghanistan,Asadabad,9,-6,11,E,0.0,31,3,1022
+2020-02-02,Afghanistan,Asadabad,10,-6,13,NE,0.0,29,22,1024
 2020-02-03,Afghanistan,Asadabad,7,-4,12,E,0.7,34,67,1021
 2020-02-04,Afghanistan,Asadabad,3,-3,8,SE,1.7,68,84,1021
 2020-02-05,Afghanistan,Asadabad,8,-6,11,ENE,0.1,41,9,1022
@@ -4197,7 +4197,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-06-30,Afghanistan,Asadabad,26,17,11,ENE,1.4,39,38,1008
 2020-07-01,Afghanistan,Asadabad,29,17,7,ESE,0.5,39,9,1007
 2020-07-02,Afghanistan,Asadabad,31,19,8,SW,0.0,33,1,1005
-2020-07-03,Afghanistan,Asadabad,29,19,11,S,0.0,24,0,1005
+2020-07-03,Afghanistan,Asadabad,31,19,8,SW,0.0,33,1,1005
 2020-07-04,Afghanistan,Asadabad,27,19,12,SSE,0.0,24,2,1004
 2020-07-05,Afghanistan,Asadabad,29,15,14,ENE,1.3,42,66,1003
 2020-07-06,Afghanistan,Asadabad,29,17,9,ENE,4.0,40,79,1004
@@ -4286,7 +4286,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-09-27,Afghanistan,Asadabad,26,14,9,ENE,1.4,45,70,1011
 2020-09-28,Afghanistan,Asadabad,22,11,11,ENE,3.0,49,69,1014
 2020-09-29,Afghanistan,Asadabad,22,11,12,ESE,17.6,54,80,1013
-2020-09-30,Afghanistan,Asadabad,22,11,12,ESE,17.6,54,80,1013
+2020-09-30,Afghanistan,Asadabad,22,9,13,SE,11.4,55,77,1012
 2020-10-01,Afghanistan,Asadabad,23,10,10,SE,4.1,46,25,1012
 2020-10-02,Afghanistan,Asadabad,24,12,7,E,0.0,36,0,1012
 2020-10-03,Afghanistan,Asadabad,25,11,7,ESE,0.0,36,0,1013
@@ -4411,7 +4411,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-01-30,Afghanistan,Asadabad,10,-5,12,E,0.0,19,1,1019
 2021-01-31,Afghanistan,Asadabad,13,2,10,NE,0.2,27,25,1019
 2021-02-01,Afghanistan,Asadabad,14,5,12,ENE,0.0,39,6,1024
-2021-02-02,Afghanistan,Asadabad,14,5,12,ENE,0.0,39,6,1024
+2021-02-02,Afghanistan,Asadabad,13,5,11,E,0.0,34,27,1022
 2021-02-03,Afghanistan,Asadabad,10,3,12,NNE,0.0,31,50,1022
 2021-02-04,Afghanistan,Asadabad,10,-4,11,E,0.0,29,4,1022
 2021-02-05,Afghanistan,Asadabad,10,-4,11,E,0.0,19,5,1021
@@ -4559,3 +4559,4 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-27,Afghanistan,Asadabad,32,19,14,ESE,8.9,42,33,1009
 2021-06-28,Afghanistan,Asadabad,27,16,12,SE,1.2,34,45,1008
 2021-06-29,Afghanistan,Asadabad,28,18,13,ESE,0.0,29,13,1005
+2021-06-30,Afghanistan,Asadabad,29,17,15,E,0.0,29,7,1002

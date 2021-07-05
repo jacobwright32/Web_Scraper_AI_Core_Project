@@ -1,4 +1,4 @@
-Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
+date,country,city,maximum_temprature,minimum_temprature,wind_speed,wind_direction,amount_of_rain,humidity,cloud_coverage,pressure
 2009-01-01,Afghanistan,Cah Ab,13,2,10,E,0.0,40,21,1021
 2009-01-02,Afghanistan,Cah Ab,15,8,9,ESE,4.9,64,50,1013
 2009-01-03,Afghanistan,Cah Ab,7,-1,11,SW,29.6,94,97,1018
@@ -4559,3 +4559,4 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-27,Afghanistan,Cah Ab,37,25,6,SSW,0.0,14,4,1004
 2021-06-28,Afghanistan,Cah Ab,38,26,8,SSW,0.0,14,5,1005
 2021-06-29,Afghanistan,Cah Ab,39,27,7,SSW,0.0,13,17,1004
+2021-06-30,Afghanistan,Cah Ab,38,27,9,SSW,0.0,13,12,1003

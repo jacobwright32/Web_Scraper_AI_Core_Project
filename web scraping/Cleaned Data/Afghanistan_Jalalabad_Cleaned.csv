@@ -1,4 +1,4 @@
-Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Direction,Amount_of_Rain,Humidity,Cloud_Coverage,Pressure
+date,country,city,maximum_temprature,minimum_temprature,wind_speed,wind_direction,amount_of_rain,humidity,cloud_coverage,pressure
 2009-01-01,Afghanistan,Jalalabad,15,1,8,SW,0.0,26,11,1019
 2009-01-02,Afghanistan,Jalalabad,18,2,6,S,0.0,29,16,1018
 2009-01-03,Afghanistan,Jalalabad,9,7,9,ENE,19.3,68,50,1019
@@ -211,7 +211,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-07-29,Afghanistan,Jalalabad,46,20,6,SW,0.0,16,0,1002
 2009-07-30,Afghanistan,Jalalabad,46,20,5,SSW,0.0,18,1,1004
 2009-07-31,Afghanistan,Jalalabad,46,20,8,W,0.0,11,0,1004
-2009-08-01,Afghanistan,Jalalabad,46,20,8,W,0.0,11,0,1004
+2009-08-01,Afghanistan,Jalalabad,46,20,6,SW,0.0,10,0,1004
 2009-08-02,Afghanistan,Jalalabad,47,20,7,SW,0.0,12,0,1004
 2009-08-03,Afghanistan,Jalalabad,44,22,16,WNW,0.0,13,0,1004
 2009-08-04,Afghanistan,Jalalabad,44,22,12,WSW,0.0,14,0,1004
@@ -245,7 +245,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-09-01,Afghanistan,Jalalabad,38,18,5,SSE,2.1,48,5,1010
 2009-09-02,Afghanistan,Jalalabad,40,19,5,SW,0.1,30,2,1008
 2009-09-03,Afghanistan,Jalalabad,37,17,8,SSW,3.9,27,3,1008
-2009-09-04,Afghanistan,Jalalabad,37,17,8,WSW,0.0,15,0,1010
+2009-09-04,Afghanistan,Jalalabad,37,17,8,SSW,3.9,27,3,1008
 2009-09-05,Afghanistan,Jalalabad,39,17,8,SW,0.0,14,0,1008
 2009-09-06,Afghanistan,Jalalabad,36,17,8,SSW,0.2,19,0,1007
 2009-09-07,Afghanistan,Jalalabad,35,15,8,SSW,0.0,26,0,1008
@@ -314,7 +314,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-11-09,Afghanistan,Jalalabad,21,6,10,WSW,0.0,33,3,1015
 2009-11-10,Afghanistan,Jalalabad,21,8,11,WNW,0.0,20,0,1017
 2009-11-11,Afghanistan,Jalalabad,26,2,9,WNW,0.0,17,0,1015
-2009-11-12,Afghanistan,Jalalabad,26,2,9,WNW,0.0,17,0,1015
+2009-11-12,Afghanistan,Jalalabad,26,5,10,WSW,0.0,16,0,1017
 2009-11-13,Afghanistan,Jalalabad,25,6,10,WNW,0.0,13,0,1019
 2009-11-14,Afghanistan,Jalalabad,26,6,9,WNW,0.0,14,0,1016
 2009-11-15,Afghanistan,Jalalabad,22,6,11,W,0.0,25,7,1015
@@ -333,7 +333,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-11-28,Afghanistan,Jalalabad,20,7,7,SSW,0.0,39,4,1021
 2009-11-29,Afghanistan,Jalalabad,21,4,9,W,0.0,34,12,1021
 2009-11-30,Afghanistan,Jalalabad,20,9,10,WNW,0.6,38,32,1021
-2009-12-01,Afghanistan,Jalalabad,20,9,10,WNW,0.6,38,32,1021
+2009-12-01,Afghanistan,Jalalabad,20,7,11,NNW,0.1,46,8,1022
 2009-12-02,Afghanistan,Jalalabad,20,5,11,NNW,0.0,37,17,1022
 2009-12-03,Afghanistan,Jalalabad,21,6,11,W,0.2,36,17,1019
 2009-12-04,Afghanistan,Jalalabad,15,6,10,WSW,0.3,49,21,1018
@@ -346,7 +346,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2009-12-11,Afghanistan,Jalalabad,16,1,10,NW,0.0,41,9,1020
 2009-12-12,Afghanistan,Jalalabad,16,1,10,W,0.0,33,23,1019
 2009-12-13,Afghanistan,Jalalabad,19,6,10,W,0.0,35,4,1020
-2009-12-14,Afghanistan,Jalalabad,19,6,10,W,0.0,35,4,1020
+2009-12-14,Afghanistan,Jalalabad,9,1,12,NW,0.1,37,24,1021
 2009-12-15,Afghanistan,Jalalabad,17,7,11,W,0.0,45,9,1021
 2009-12-16,Afghanistan,Jalalabad,16,7,13,NW,0.0,31,14,1023
 2009-12-17,Afghanistan,Jalalabad,16,0,12,WNW,0.0,20,15,1023
@@ -576,7 +576,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-07-29,Afghanistan,Jalalabad,31,15,7,SSE,18.6,75,27,1005
 2010-07-30,Afghanistan,Jalalabad,36,17,6,SW,1.4,55,16,1006
 2010-07-31,Afghanistan,Jalalabad,40,18,7,SW,0.0,31,3,1006
-2010-08-01,Afghanistan,Jalalabad,40,18,7,SW,0.0,31,3,1006
+2010-08-01,Afghanistan,Jalalabad,37,16,5,S,1.4,30,5,1006
 2010-08-02,Afghanistan,Jalalabad,36,17,5,S,2.9,44,9,1006
 2010-08-03,Afghanistan,Jalalabad,31,17,6,SSW,10.6,59,33,1006
 2010-08-04,Afghanistan,Jalalabad,34,17,6,S,3.2,61,17,1005
@@ -610,7 +610,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-09-01,Afghanistan,Jalalabad,38,18,5,SSW,0.6,41,1,1008
 2010-09-02,Afghanistan,Jalalabad,39,18,6,SSW,2.4,34,0,1008
 2010-09-03,Afghanistan,Jalalabad,39,17,6,SSW,1.8,31,0,1007
-2010-09-04,Afghanistan,Jalalabad,39,16,5,SSW,1.7,31,0,1006
+2010-09-04,Afghanistan,Jalalabad,39,17,6,SSW,1.8,31,0,1007
 2010-09-05,Afghanistan,Jalalabad,38,15,5,SSW,1.1,37,1,1008
 2010-09-06,Afghanistan,Jalalabad,38,17,6,SW,0.8,35,1,1007
 2010-09-07,Afghanistan,Jalalabad,38,16,6,SSW,0.2,31,1,1007
@@ -679,7 +679,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-11-09,Afghanistan,Jalalabad,29,10,7,WNW,0.0,19,0,1023
 2010-11-10,Afghanistan,Jalalabad,30,9,5,SSW,0.0,15,0,1020
 2010-11-11,Afghanistan,Jalalabad,29,9,5,SSW,0.0,17,0,1016
-2010-11-12,Afghanistan,Jalalabad,29,9,5,SSW,0.0,17,0,1016
+2010-11-12,Afghanistan,Jalalabad,26,6,6,SSW,0.0,18,0,1014
 2010-11-13,Afghanistan,Jalalabad,25,5,7,SW,0.0,20,0,1016
 2010-11-14,Afghanistan,Jalalabad,25,5,7,WNW,0.0,22,0,1021
 2010-11-15,Afghanistan,Jalalabad,23,4,9,WNW,0.0,17,3,1023
@@ -698,7 +698,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-11-28,Afghanistan,Jalalabad,20,3,5,WNW,0.3,46,5,1018
 2010-11-29,Afghanistan,Jalalabad,24,6,6,WSW,0.0,37,1,1020
 2010-11-30,Afghanistan,Jalalabad,22,5,7,WSW,0.0,16,0,1018
-2010-12-01,Afghanistan,Jalalabad,22,5,7,WSW,0.0,16,0,1018
+2010-12-01,Afghanistan,Jalalabad,18,5,7,WNW,0.0,17,0,1016
 2010-12-02,Afghanistan,Jalalabad,23,4,6,SW,0.0,17,0,1019
 2010-12-03,Afghanistan,Jalalabad,24,4,10,SSW,0.0,13,2,1019
 2010-12-04,Afghanistan,Jalalabad,23,2,9,W,0.0,26,0,1020
@@ -711,7 +711,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2010-12-11,Afghanistan,Jalalabad,21,0,5,WSW,0.0,17,1,1012
 2010-12-12,Afghanistan,Jalalabad,22,-2,5,WNW,0.0,20,7,1010
 2010-12-13,Afghanistan,Jalalabad,22,1,5,WSW,0.0,22,2,1014
-2010-12-14,Afghanistan,Jalalabad,22,1,5,WSW,0.0,22,2,1014
+2010-12-14,Afghanistan,Jalalabad,22,3,5,SW,0.0,26,8,1017
 2010-12-15,Afghanistan,Jalalabad,22,3,6,SSW,0.0,28,3,1016
 2010-12-16,Afghanistan,Jalalabad,17,3,9,WNW,0.0,21,17,1018
 2010-12-17,Afghanistan,Jalalabad,15,0,7,WNW,0.0,19,11,1019
@@ -941,7 +941,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-07-29,Afghanistan,Jalalabad,36,20,6,SSE,1.5,41,1,1005
 2011-07-30,Afghanistan,Jalalabad,36,21,5,SSW,1.1,34,2,1004
 2011-07-31,Afghanistan,Jalalabad,39,20,6,SSW,1.0,26,1,1003
-2011-08-01,Afghanistan,Jalalabad,39,20,6,SSW,1.0,26,1,1003
+2011-08-01,Afghanistan,Jalalabad,40,19,7,WSW,0.0,15,0,1003
 2011-08-02,Afghanistan,Jalalabad,41,20,9,SW,0.0,15,0,1003
 2011-08-03,Afghanistan,Jalalabad,39,21,6,S,1.0,21,0,1002
 2011-08-04,Afghanistan,Jalalabad,39,24,6,S,1.2,38,1,1002
@@ -975,7 +975,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-09-01,Afghanistan,Jalalabad,30,17,7,W,1.4,40,29,1008
 2011-09-02,Afghanistan,Jalalabad,32,17,5,WSW,0.4,41,19,1008
 2011-09-03,Afghanistan,Jalalabad,35,18,6,SSW,0.0,33,3,1007
-2011-09-04,Afghanistan,Jalalabad,36,18,3,S,0.1,36,0,1009
+2011-09-04,Afghanistan,Jalalabad,35,18,6,SSW,0.0,33,3,1007
 2011-09-05,Afghanistan,Jalalabad,36,21,3,S,1.0,40,0,1008
 2011-09-06,Afghanistan,Jalalabad,37,19,4,SW,0.7,39,0,1005
 2011-09-07,Afghanistan,Jalalabad,36,18,4,S,0.4,35,0,1004
@@ -1044,7 +1044,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-11-09,Afghanistan,Jalalabad,23,7,5,SW,0.0,43,8,1018
 2011-11-10,Afghanistan,Jalalabad,22,9,6,W,0.9,49,21,1018
 2011-11-11,Afghanistan,Jalalabad,25,7,5,WSW,0.0,43,4,1018
-2011-11-12,Afghanistan,Jalalabad,25,7,5,WSW,0.0,43,4,1018
+2011-11-12,Afghanistan,Jalalabad,23,10,6,W,0.0,32,4,1017
 2011-11-13,Afghanistan,Jalalabad,23,7,4,SW,0.0,20,4,1018
 2011-11-14,Afghanistan,Jalalabad,23,6,4,SW,0.0,25,3,1018
 2011-11-15,Afghanistan,Jalalabad,25,6,6,W,0.0,30,1,1020
@@ -1063,7 +1063,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-11-28,Afghanistan,Jalalabad,20,5,7,NW,0.0,41,5,1018
 2011-11-29,Afghanistan,Jalalabad,22,3,9,W,0.0,26,0,1018
 2011-11-30,Afghanistan,Jalalabad,27,6,8,W,0.0,10,0,1017
-2011-12-01,Afghanistan,Jalalabad,27,6,8,W,0.0,10,0,1017
+2011-12-01,Afghanistan,Jalalabad,27,7,6,SW,0.0,11,8,1016
 2011-12-02,Afghanistan,Jalalabad,26,7,5,SW,0.0,24,0,1017
 2011-12-03,Afghanistan,Jalalabad,22,5,8,W,0.0,34,0,1014
 2011-12-04,Afghanistan,Jalalabad,22,6,7,W,0.0,22,0,1014
@@ -1076,7 +1076,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2011-12-11,Afghanistan,Jalalabad,21,2,6,SW,0.0,13,0,1017
 2011-12-12,Afghanistan,Jalalabad,19,2,6,SSE,0.0,22,0,1019
 2011-12-13,Afghanistan,Jalalabad,17,2,8,WSW,0.0,21,1,1023
-2011-12-14,Afghanistan,Jalalabad,17,2,8,WSW,0.0,21,1,1023
+2011-12-14,Afghanistan,Jalalabad,17,-1,7,WSW,0.0,10,3,1020
 2011-12-15,Afghanistan,Jalalabad,17,3,10,W,0.0,15,1,1022
 2011-12-16,Afghanistan,Jalalabad,18,0,6,WSW,0.0,15,7,1021
 2011-12-17,Afghanistan,Jalalabad,19,4,4,SSW,0.0,18,0,1018
@@ -1306,7 +1306,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-07-29,Afghanistan,Jalalabad,33,19,7,W,0.0,14,0,1003
 2012-07-30,Afghanistan,Jalalabad,41,23,5,SSW,0.0,17,0,1002
 2012-07-31,Afghanistan,Jalalabad,41,22,6,SSW,0.0,26,0,1002
-2012-08-01,Afghanistan,Jalalabad,41,22,6,SSW,0.0,26,0,1002
+2012-08-01,Afghanistan,Jalalabad,41,22,6,SSW,0.1,26,0,1003
 2012-08-02,Afghanistan,Jalalabad,43,21,6,SW,0.0,16,0,1002
 2012-08-03,Afghanistan,Jalalabad,41,19,11,WNW,0.0,12,0,1000
 2012-08-04,Afghanistan,Jalalabad,37,18,7,SSW,0.7,18,0,1002
@@ -1340,7 +1340,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-09-01,Afghanistan,Jalalabad,38,19,4,SSE,0.3,35,0,1006
 2012-09-02,Afghanistan,Jalalabad,38,20,4,S,3.0,38,0,1006
 2012-09-03,Afghanistan,Jalalabad,37,22,5,SSW,2.0,33,0,1007
-2012-09-04,Afghanistan,Jalalabad,36,20,7,S,0.0,23,0,1008
+2012-09-04,Afghanistan,Jalalabad,37,22,5,SSW,2.0,33,0,1007
 2012-09-05,Afghanistan,Jalalabad,33,21,7,S,1.7,47,5,1009
 2012-09-06,Afghanistan,Jalalabad,32,21,6,SSE,7.7,53,21,1010
 2012-09-07,Afghanistan,Jalalabad,28,18,6,S,8.4,62,31,1011
@@ -1409,7 +1409,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-11-09,Afghanistan,Jalalabad,23,6,7,W,0.0,18,2,1016
 2012-11-10,Afghanistan,Jalalabad,24,6,7,WSW,0.0,19,0,1019
 2012-11-11,Afghanistan,Jalalabad,27,6,5,SW,0.0,20,0,1017
-2012-11-12,Afghanistan,Jalalabad,27,6,5,SW,0.0,20,0,1017
+2012-11-12,Afghanistan,Jalalabad,22,10,6,SW,0.0,16,9,1018
 2012-11-13,Afghanistan,Jalalabad,24,6,7,SW,0.0,30,0,1020
 2012-11-14,Afghanistan,Jalalabad,24,12,7,W,0.0,22,0,1018
 2012-11-15,Afghanistan,Jalalabad,25,9,5,SW,0.0,15,5,1018
@@ -1428,7 +1428,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-11-28,Afghanistan,Jalalabad,12,5,6,SW,3.0,61,34,1015
 2012-11-29,Afghanistan,Jalalabad,16,4,15,W,0.2,35,2,1019
 2012-11-30,Afghanistan,Jalalabad,19,4,8,WSW,0.0,16,0,1021
-2012-12-01,Afghanistan,Jalalabad,19,4,8,WSW,0.0,16,0,1021
+2012-12-01,Afghanistan,Jalalabad,20,2,9,W,0.0,16,0,1019
 2012-12-02,Afghanistan,Jalalabad,20,2,9,WNW,0.0,15,0,1020
 2012-12-03,Afghanistan,Jalalabad,20,5,9,WNW,0.0,14,0,1022
 2012-12-04,Afghanistan,Jalalabad,18,3,9,WNW,0.0,13,2,1021
@@ -1441,7 +1441,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2012-12-11,Afghanistan,Jalalabad,13,3,7,W,0.8,43,23,1016
 2012-12-12,Afghanistan,Jalalabad,14,0,2,SW,0.8,54,15,1016
 2012-12-13,Afghanistan,Jalalabad,10,-1,7,SE,9.2,77,55,1015
-2012-12-14,Afghanistan,Jalalabad,10,-1,7,SE,9.2,77,55,1015
+2012-12-14,Afghanistan,Jalalabad,10,-2,4,ESE,0.3,60,20,1020
 2012-12-15,Afghanistan,Jalalabad,11,-2,4,NW,0.0,61,27,1023
 2012-12-16,Afghanistan,Jalalabad,13,1,3,WSW,0.2,53,14,1025
 2012-12-17,Afghanistan,Jalalabad,11,-1,5,NW,0.1,45,31,1024
@@ -1671,7 +1671,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-07-29,Afghanistan,Jalalabad,41,24,5,S,3.0,43,1,1001
 2013-07-30,Afghanistan,Jalalabad,38,24,5,S,12.1,51,6,1001
 2013-07-31,Afghanistan,Jalalabad,38,22,6,SSE,4.3,48,7,1000
-2013-08-01,Afghanistan,Jalalabad,38,22,6,SSE,4.3,48,7,1000
+2013-08-01,Afghanistan,Jalalabad,39,22,6,SE,4.4,45,5,1002
 2013-08-02,Afghanistan,Jalalabad,34,21,9,SE,3.6,62,10,1005
 2013-08-03,Afghanistan,Jalalabad,30,19,5,SSE,33.0,72,41,1008
 2013-08-04,Afghanistan,Jalalabad,34,20,5,SSE,0.4,54,12,1006
@@ -1705,7 +1705,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-09-01,Afghanistan,Jalalabad,36,17,5,S,3.6,35,2,1009
 2013-09-02,Afghanistan,Jalalabad,36,17,4,SSW,2.0,35,1,1009
 2013-09-03,Afghanistan,Jalalabad,37,18,6,SW,0.3,22,0,1009
-2013-09-04,Afghanistan,Jalalabad,37,17,7,SSW,0.0,17,0,1008
+2013-09-04,Afghanistan,Jalalabad,37,18,6,SW,0.3,22,0,1009
 2013-09-05,Afghanistan,Jalalabad,37,16,6,SSW,0.0,16,0,1007
 2013-09-06,Afghanistan,Jalalabad,37,17,5,S,0.0,21,0,1008
 2013-09-07,Afghanistan,Jalalabad,36,17,5,SSE,0.0,31,0,1009
@@ -1774,7 +1774,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-11-09,Afghanistan,Jalalabad,21,7,5,S,0.0,38,0,1020
 2013-11-10,Afghanistan,Jalalabad,21,5,5,SSW,0.0,29,8,1020
 2013-11-11,Afghanistan,Jalalabad,22,8,9,W,0.0,27,3,1019
-2013-11-12,Afghanistan,Jalalabad,22,8,9,W,0.0,27,3,1019
+2013-11-12,Afghanistan,Jalalabad,23,10,7,SW,0.0,21,0,1017
 2013-11-13,Afghanistan,Jalalabad,20,10,4,SSW,0.0,32,1,1019
 2013-11-14,Afghanistan,Jalalabad,21,10,6,WNW,0.0,35,0,1020
 2013-11-15,Afghanistan,Jalalabad,22,9,6,WSW,0.0,21,2,1020
@@ -1793,7 +1793,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-11-28,Afghanistan,Jalalabad,22,8,8,WNW,0.0,23,0,1022
 2013-11-29,Afghanistan,Jalalabad,23,5,8,WNW,0.0,20,0,1023
 2013-11-30,Afghanistan,Jalalabad,24,6,7,W,0.0,18,5,1019
-2013-12-01,Afghanistan,Jalalabad,24,6,7,W,0.0,18,5,1019
+2013-12-01,Afghanistan,Jalalabad,23,11,6,WSW,0.0,22,17,1018
 2013-12-02,Afghanistan,Jalalabad,18,12,10,WNW,0.0,35,26,1019
 2013-12-03,Afghanistan,Jalalabad,20,5,5,W,0.0,40,3,1020
 2013-12-04,Afghanistan,Jalalabad,19,3,6,WNW,0.0,37,8,1021
@@ -1806,7 +1806,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2013-12-11,Afghanistan,Jalalabad,16,2,4,W,1.2,58,20,1017
 2013-12-12,Afghanistan,Jalalabad,19,1,10,W,0.0,28,2,1020
 2013-12-13,Afghanistan,Jalalabad,22,3,13,W,0.0,17,2,1018
-2013-12-14,Afghanistan,Jalalabad,22,3,13,W,0.0,17,2,1018
+2013-12-14,Afghanistan,Jalalabad,25,6,7,WSW,0.0,20,4,1015
 2013-12-15,Afghanistan,Jalalabad,25,7,2,SE,0.0,24,1,1015
 2013-12-16,Afghanistan,Jalalabad,20,5,3,S,0.0,29,8,1017
 2013-12-17,Afghanistan,Jalalabad,16,4,9,WNW,0.0,31,2,1017
@@ -2036,7 +2036,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-07-29,Afghanistan,Jalalabad,36,22,8,SSE,1.7,47,1,1004
 2014-07-30,Afghanistan,Jalalabad,36,23,7,ESE,1.1,56,3,1005
 2014-07-31,Afghanistan,Jalalabad,36,25,6,ESE,4.1,57,7,1005
-2014-08-01,Afghanistan,Jalalabad,36,25,6,ESE,4.1,57,7,1005
+2014-08-01,Afghanistan,Jalalabad,36,21,6,SE,14.2,53,5,1004
 2014-08-02,Afghanistan,Jalalabad,37,22,5,S,7.7,44,1,1003
 2014-08-03,Afghanistan,Jalalabad,38,20,5,SSW,1.3,27,0,1002
 2014-08-04,Afghanistan,Jalalabad,38,20,6,SSW,0.6,23,0,1001
@@ -2070,7 +2070,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-09-01,Afghanistan,Jalalabad,35,20,6,SW,0.5,26,6,1008
 2014-09-02,Afghanistan,Jalalabad,36,21,5,SSW,0.6,32,2,1010
 2014-09-03,Afghanistan,Jalalabad,35,24,5,SSW,0.2,33,1,1009
-2014-09-04,Afghanistan,Jalalabad,35,21,5,S,0.1,29,0,1006
+2014-09-04,Afghanistan,Jalalabad,35,24,5,SSW,0.2,33,1,1009
 2014-09-05,Afghanistan,Jalalabad,34,21,6,SE,0.0,38,0,1004
 2014-09-06,Afghanistan,Jalalabad,35,19,6,S,1.6,41,0,1007
 2014-09-07,Afghanistan,Jalalabad,36,17,4,SW,2.2,35,0,1010
@@ -2139,7 +2139,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-11-09,Afghanistan,Jalalabad,22,4,9,W,0.0,19,0,1024
 2014-11-10,Afghanistan,Jalalabad,25,4,8,WSW,0.0,12,0,1021
 2014-11-11,Afghanistan,Jalalabad,24,5,7,WSW,0.0,14,0,1020
-2014-11-12,Afghanistan,Jalalabad,24,5,7,WSW,0.0,14,0,1020
+2014-11-12,Afghanistan,Jalalabad,24,4,5,W,0.0,17,4,1020
 2014-11-13,Afghanistan,Jalalabad,22,6,6,NW,0.0,17,11,1021
 2014-11-14,Afghanistan,Jalalabad,23,5,8,WNW,0.0,21,1,1021
 2014-11-15,Afghanistan,Jalalabad,24,5,7,WSW,0.0,16,2,1020
@@ -2158,7 +2158,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-11-28,Afghanistan,Jalalabad,16,7,4,W,0.1,59,7,1017
 2014-11-29,Afghanistan,Jalalabad,16,6,5,NW,0.0,48,7,1018
 2014-11-30,Afghanistan,Jalalabad,17,7,6,NW,0.0,40,12,1019
-2014-12-01,Afghanistan,Jalalabad,17,7,6,NW,0.0,40,12,1019
+2014-12-01,Afghanistan,Jalalabad,17,7,7,NW,0.0,36,3,1020
 2014-12-02,Afghanistan,Jalalabad,18,9,8,WNW,0.0,32,6,1019
 2014-12-03,Afghanistan,Jalalabad,17,9,7,WSW,0.0,34,1,1019
 2014-12-04,Afghanistan,Jalalabad,17,8,8,WNW,0.0,32,19,1020
@@ -2171,7 +2171,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2014-12-11,Afghanistan,Jalalabad,13,1,3,WNW,0.0,17,18,1020
 2014-12-12,Afghanistan,Jalalabad,12,4,7,WNW,0.0,10,32,1021
 2014-12-13,Afghanistan,Jalalabad,12,4,9,WNW,0.0,15,28,1021
-2014-12-14,Afghanistan,Jalalabad,12,4,9,WNW,0.0,15,28,1021
+2014-12-14,Afghanistan,Jalalabad,12,4,10,W,0.0,21,3,1022
 2014-12-15,Afghanistan,Jalalabad,13,1,6,SW,0.0,9,0,1024
 2014-12-16,Afghanistan,Jalalabad,15,2,5,S,0.0,12,1,1023
 2014-12-17,Afghanistan,Jalalabad,17,3,3,SE,0.0,20,6,1021
@@ -2401,7 +2401,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-07-29,Afghanistan,Jalalabad,37,22,5,S,8.7,48,14,1004
 2015-07-30,Afghanistan,Jalalabad,38,22,6,S,4.0,37,6,1003
 2015-07-31,Afghanistan,Jalalabad,36,22,8,SE,5.4,42,9,1003
-2015-08-01,Afghanistan,Jalalabad,36,22,8,SE,5.4,42,9,1003
+2015-08-01,Afghanistan,Jalalabad,28,21,4,S,14.4,64,49,1006
 2015-08-02,Afghanistan,Jalalabad,34,19,5,SE,1.4,52,28,1008
 2015-08-03,Afghanistan,Jalalabad,35,20,6,SE,8.9,53,25,1007
 2015-08-04,Afghanistan,Jalalabad,38,21,5,ESE,2.8,47,4,1006
@@ -2435,7 +2435,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-09-01,Afghanistan,Jalalabad,33,21,6,SSW,0.3,34,52,1009
 2015-09-02,Afghanistan,Jalalabad,36,25,7,SE,1.3,27,2,1008
 2015-09-03,Afghanistan,Jalalabad,35,20,4,S,4.7,34,0,1011
-2015-09-04,Afghanistan,Jalalabad,32,20,4,SW,5.8,36,7,1014
+2015-09-04,Afghanistan,Jalalabad,35,20,4,S,4.7,34,0,1011
 2015-09-05,Afghanistan,Jalalabad,33,20,6,S,0.3,30,41,1008
 2015-09-06,Afghanistan,Jalalabad,32,20,6,S,0.5,32,41,1008
 2015-09-07,Afghanistan,Jalalabad,35,19,6,S,4.6,28,0,1012
@@ -2504,7 +2504,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-11-09,Afghanistan,Jalalabad,18,7,5,NW,7.0,49,58,1021
 2015-11-10,Afghanistan,Jalalabad,18,6,3,SSW,5.1,55,29,1020
 2015-11-11,Afghanistan,Jalalabad,19,6,4,E,2.3,49,27,1020
-2015-11-12,Afghanistan,Jalalabad,19,6,4,E,2.3,49,27,1020
+2015-11-12,Afghanistan,Jalalabad,15,6,8,ENE,22.9,60,65,1019
 2015-11-13,Afghanistan,Jalalabad,20,6,7,E,0.8,67,17,1020
 2015-11-14,Afghanistan,Jalalabad,23,9,4,S,0.0,52,0,1018
 2015-11-15,Afghanistan,Jalalabad,22,8,6,WNW,0.0,31,5,1018
@@ -2523,7 +2523,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-11-28,Afghanistan,Jalalabad,22,6,3,W,0.0,19,4,1021
 2015-11-29,Afghanistan,Jalalabad,22,4,5,W,0.0,22,15,1024
 2015-11-30,Afghanistan,Jalalabad,22,6,7,W,0.0,27,4,1024
-2015-12-01,Afghanistan,Jalalabad,22,6,7,W,0.0,27,4,1024
+2015-12-01,Afghanistan,Jalalabad,23,6,7,W,0.0,22,0,1021
 2015-12-02,Afghanistan,Jalalabad,24,6,5,S,0.0,20,1,1020
 2015-12-03,Afghanistan,Jalalabad,24,7,6,NE,0.0,16,5,1019
 2015-12-04,Afghanistan,Jalalabad,24,11,7,NE,0.0,16,43,1017
@@ -2536,7 +2536,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2015-12-11,Afghanistan,Jalalabad,14,-1,16,W,0.0,13,0,1020
 2015-12-12,Afghanistan,Jalalabad,17,0,4,ESE,0.0,12,0,1018
 2015-12-13,Afghanistan,Jalalabad,17,2,4,S,0.0,12,0,1019
-2015-12-14,Afghanistan,Jalalabad,17,2,4,S,0.0,12,0,1019
+2015-12-14,Afghanistan,Jalalabad,17,0,5,SSE,0.0,14,0,1022
 2015-12-15,Afghanistan,Jalalabad,18,2,8,NE,0.0,13,0,1018
 2015-12-16,Afghanistan,Jalalabad,16,1,5,SW,0.1,13,27,1018
 2015-12-17,Afghanistan,Jalalabad,15,1,7,S,0.1,27,3,1022
@@ -2766,7 +2766,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-07-29,Afghanistan,Jalalabad,37,20,5,SSW,9.7,42,6,1005
 2016-07-30,Afghanistan,Jalalabad,36,21,7,SE,16.5,50,5,1006
 2016-07-31,Afghanistan,Jalalabad,37,20,5,SE,10.7,51,5,1006
-2016-08-01,Afghanistan,Jalalabad,37,20,5,SE,10.7,51,5,1006
+2016-08-01,Afghanistan,Jalalabad,39,21,5,S,0.0,32,0,1004
 2016-08-02,Afghanistan,Jalalabad,37,21,8,SE,2.8,33,1,1004
 2016-08-03,Afghanistan,Jalalabad,36,20,5,E,9.9,54,6,1005
 2016-08-04,Afghanistan,Jalalabad,38,20,4,S,10.3,47,7,1006
@@ -2800,7 +2800,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-09-01,Afghanistan,Jalalabad,34,19,5,SW,0.5,25,10,1009
 2016-09-02,Afghanistan,Jalalabad,36,16,6,SSW,0.0,21,1,1008
 2016-09-03,Afghanistan,Jalalabad,37,17,7,SW,0.0,16,0,1007
-2016-09-04,Afghanistan,Jalalabad,38,18,8,SW,0.0,16,0,1008
+2016-09-04,Afghanistan,Jalalabad,37,17,7,SW,0.0,16,0,1007
 2016-09-05,Afghanistan,Jalalabad,37,19,6,SW,0.0,19,0,1009
 2016-09-06,Afghanistan,Jalalabad,37,18,6,SSW,0.0,20,0,1009
 2016-09-07,Afghanistan,Jalalabad,37,21,5,SSE,0.0,17,0,1009
@@ -2869,7 +2869,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-11-09,Afghanistan,Jalalabad,28,12,6,SSW,0.0,12,1,1020
 2016-11-10,Afghanistan,Jalalabad,28,10,6,WNW,0.0,13,2,1018
 2016-11-11,Afghanistan,Jalalabad,24,8,6,WNW,0.2,15,3,1019
-2016-11-12,Afghanistan,Jalalabad,24,8,6,WNW,0.2,15,3,1019
+2016-11-12,Afghanistan,Jalalabad,24,9,7,SW,0.2,21,2,1021
 2016-11-13,Afghanistan,Jalalabad,25,6,4,WSW,0.0,21,1,1022
 2016-11-14,Afghanistan,Jalalabad,26,4,4,WSW,0.0,18,5,1020
 2016-11-15,Afghanistan,Jalalabad,23,7,3,SSW,0.0,18,6,1020
@@ -2888,7 +2888,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-11-28,Afghanistan,Jalalabad,24,5,5,WSW,0.0,12,35,1018
 2016-11-29,Afghanistan,Jalalabad,24,14,5,W,0.0,16,43,1019
 2016-11-30,Afghanistan,Jalalabad,23,6,5,WNW,0.1,27,10,1021
-2016-12-01,Afghanistan,Jalalabad,23,6,5,WNW,0.1,27,10,1021
+2016-12-01,Afghanistan,Jalalabad,23,6,4,W,0.0,31,1,1022
 2016-12-02,Afghanistan,Jalalabad,25,7,3,W,0.0,21,4,1022
 2016-12-03,Afghanistan,Jalalabad,23,5,4,S,0.0,15,12,1021
 2016-12-04,Afghanistan,Jalalabad,23,7,3,SSW,0.0,12,11,1023
@@ -2901,7 +2901,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2016-12-11,Afghanistan,Jalalabad,18,2,6,WNW,0.0,48,5,1019
 2016-12-12,Afghanistan,Jalalabad,19,5,7,WNW,0.0,28,19,1018
 2016-12-13,Afghanistan,Jalalabad,16,3,7,W,1.2,35,23,1020
-2016-12-14,Afghanistan,Jalalabad,16,3,7,W,1.2,35,23,1020
+2016-12-14,Afghanistan,Jalalabad,19,3,4,SSE,0.0,27,33,1020
 2016-12-15,Afghanistan,Jalalabad,24,8,4,SSW,0.0,14,17,1019
 2016-12-16,Afghanistan,Jalalabad,22,9,8,ENE,0.0,9,0,1020
 2016-12-17,Afghanistan,Jalalabad,22,9,5,SW,0.0,15,0,1021
@@ -3131,7 +3131,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-07-29,Afghanistan,Jalalabad,38,24,9,ESE,5.9,48,9,1007
 2017-07-30,Afghanistan,Jalalabad,38,23,9,ESE,3.7,49,7,1005
 2017-07-31,Afghanistan,Jalalabad,39,24,9,SE,0.1,41,3,1005
-2017-08-01,Afghanistan,Jalalabad,39,24,9,SE,0.1,41,3,1005
+2017-08-01,Afghanistan,Jalalabad,39,24,9,ESE,4.7,44,7,1005
 2017-08-02,Afghanistan,Jalalabad,38,24,10,ESE,7.5,50,9,1004
 2017-08-03,Afghanistan,Jalalabad,39,23,7,SSE,1.4,42,3,1003
 2017-08-04,Afghanistan,Jalalabad,41,24,8,SSW,0.0,22,0,1003
@@ -3165,7 +3165,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-09-01,Afghanistan,Jalalabad,36,22,5,SSE,0.0,31,0,1008
 2017-09-02,Afghanistan,Jalalabad,36,22,5,SSE,0.0,26,0,1007
 2017-09-03,Afghanistan,Jalalabad,35,22,6,ESE,0.1,36,1,1008
-2017-09-04,Afghanistan,Jalalabad,35,20,6,ESE,2.7,47,5,1010
+2017-09-04,Afghanistan,Jalalabad,35,22,6,ESE,0.1,36,1,1008
 2017-09-05,Afghanistan,Jalalabad,36,20,5,SE,2.9,41,1,1010
 2017-09-06,Afghanistan,Jalalabad,35,21,5,SE,4.3,39,1,1010
 2017-09-07,Afghanistan,Jalalabad,35,23,5,SSE,1.1,36,0,1012
@@ -3234,7 +3234,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-11-09,Afghanistan,Jalalabad,25,9,3,S,0.0,18,9,1017
 2017-11-10,Afghanistan,Jalalabad,24,9,3,W,0.0,21,30,1018
 2017-11-11,Afghanistan,Jalalabad,25,10,4,W,0.0,23,0,1019
-2017-11-12,Afghanistan,Jalalabad,25,10,4,W,0.0,23,0,1019
+2017-11-12,Afghanistan,Jalalabad,24,7,4,W,0.0,20,37,1017
 2017-11-13,Afghanistan,Jalalabad,23,14,6,WNW,0.1,24,35,1016
 2017-11-14,Afghanistan,Jalalabad,19,12,9,SW,4.5,38,60,1015
 2017-11-15,Afghanistan,Jalalabad,12,11,5,W,11.3,68,59,1019
@@ -3253,7 +3253,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-11-28,Afghanistan,Jalalabad,20,6,5,SSE,0.0,20,19,1017
 2017-11-29,Afghanistan,Jalalabad,20,10,5,WNW,0.0,26,1,1021
 2017-11-30,Afghanistan,Jalalabad,22,10,4,SSW,0.0,25,6,1020
-2017-12-01,Afghanistan,Jalalabad,22,10,4,SSW,0.0,25,6,1020
+2017-12-01,Afghanistan,Jalalabad,21,5,6,E,0.0,20,7,1019
 2017-12-02,Afghanistan,Jalalabad,22,8,6,WSW,0.0,20,0,1020
 2017-12-03,Afghanistan,Jalalabad,19,12,8,S,0.0,21,1,1021
 2017-12-04,Afghanistan,Jalalabad,16,4,10,W,0.0,20,0,1020
@@ -3266,7 +3266,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2017-12-11,Afghanistan,Jalalabad,13,7,6,SSW,0.2,37,29,1018
 2017-12-12,Afghanistan,Jalalabad,13,5,4,S,0.4,53,26,1018
 2017-12-13,Afghanistan,Jalalabad,11,5,6,SSW,5.7,58,57,1023
-2017-12-14,Afghanistan,Jalalabad,11,5,6,SSW,5.7,58,57,1023
+2017-12-14,Afghanistan,Jalalabad,10,3,6,W,3.7,53,46,1027
 2017-12-15,Afghanistan,Jalalabad,11,5,9,WNW,0.5,38,14,1029
 2017-12-16,Afghanistan,Jalalabad,14,4,6,WNW,0.0,24,13,1029
 2017-12-17,Afghanistan,Jalalabad,16,8,6,NW,0.0,24,32,1028
@@ -3496,7 +3496,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-07-29,Afghanistan,Jalalabad,37,21,7,SE,6.3,44,3,1004
 2018-07-30,Afghanistan,Jalalabad,38,23,6,S,3.4,37,0,1004
 2018-07-31,Afghanistan,Jalalabad,39,23,8,S,0.6,24,0,1003
-2018-08-01,Afghanistan,Jalalabad,39,23,8,S,0.6,24,0,1003
+2018-08-01,Afghanistan,Jalalabad,39,23,8,S,1.3,25,0,1003
 2018-08-02,Afghanistan,Jalalabad,39,23,6,S,0.3,27,0,1004
 2018-08-03,Afghanistan,Jalalabad,40,24,6,S,0.3,27,0,1004
 2018-08-04,Afghanistan,Jalalabad,41,25,6,S,0.3,26,0,1003
@@ -3530,7 +3530,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-09-01,Afghanistan,Jalalabad,38,26,6,S,0.1,22,0,1008
 2018-09-02,Afghanistan,Jalalabad,37,22,5,ESE,5.2,40,3,1008
 2018-09-03,Afghanistan,Jalalabad,34,21,5,E,3.2,37,2,1008
-2018-09-04,Afghanistan,Jalalabad,36,20,4,SE,4.9,39,4,1009
+2018-09-04,Afghanistan,Jalalabad,34,21,5,E,3.2,37,2,1008
 2018-09-05,Afghanistan,Jalalabad,37,20,5,SSE,4.2,30,4,1008
 2018-09-06,Afghanistan,Jalalabad,37,20,5,S,1.1,26,3,1008
 2018-09-07,Afghanistan,Jalalabad,37,20,5,SW,0.4,22,1,1010
@@ -3599,7 +3599,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-11-09,Afghanistan,Jalalabad,23,6,4,WSW,0.0,22,34,1018
 2018-11-10,Afghanistan,Jalalabad,24,7,5,SSW,0.0,27,8,1018
 2018-11-11,Afghanistan,Jalalabad,23,8,4,SW,0.7,32,10,1019
-2018-11-12,Afghanistan,Jalalabad,23,8,4,SW,0.7,32,10,1019
+2018-11-12,Afghanistan,Jalalabad,22,8,4,S,1.6,40,10,1017
 2018-11-13,Afghanistan,Jalalabad,21,6,4,SW,2.4,37,18,1016
 2018-11-14,Afghanistan,Jalalabad,19,4,3,SE,3.3,36,14,1017
 2018-11-15,Afghanistan,Jalalabad,20,6,7,NE,0.0,28,20,1021
@@ -3618,7 +3618,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-11-28,Afghanistan,Jalalabad,22,13,7,NW,0.1,34,29,1023
 2018-11-29,Afghanistan,Jalalabad,22,8,5,W,0.0,34,4,1024
 2018-11-30,Afghanistan,Jalalabad,24,7,5,W,0.0,15,3,1023
-2018-12-01,Afghanistan,Jalalabad,24,7,5,W,0.0,15,3,1023
+2018-12-01,Afghanistan,Jalalabad,25,14,5,SSW,0.0,14,0,1019
 2018-12-02,Afghanistan,Jalalabad,23,9,4,ESE,0.0,17,0,1017
 2018-12-03,Afghanistan,Jalalabad,22,9,3,SSE,0.0,20,0,1018
 2018-12-04,Afghanistan,Jalalabad,21,6,3,S,0.0,20,10,1020
@@ -3631,7 +3631,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2018-12-11,Afghanistan,Jalalabad,13,1,5,W,3.5,55,12,1021
 2018-12-12,Afghanistan,Jalalabad,16,1,5,SW,1.1,34,2,1022
 2018-12-13,Afghanistan,Jalalabad,16,4,2,S,0.0,25,0,1024
-2018-12-14,Afghanistan,Jalalabad,16,4,2,S,0.0,25,0,1024
+2018-12-14,Afghanistan,Jalalabad,17,6,2,SSE,0.0,21,1,1025
 2018-12-15,Afghanistan,Jalalabad,18,7,2,W,0.0,20,8,1025
 2018-12-16,Afghanistan,Jalalabad,19,4,3,W,0.0,16,6,1025
 2018-12-17,Afghanistan,Jalalabad,19,8,4,WSW,0.0,13,10,1024
@@ -3861,7 +3861,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-07-29,Afghanistan,Jalalabad,36,25,8,ESE,1.7,49,17,1007
 2019-07-30,Afghanistan,Jalalabad,38,25,8,ESE,0.2,44,10,1005
 2019-07-31,Afghanistan,Jalalabad,39,25,10,SE,0.8,46,13,1003
-2019-08-01,Afghanistan,Jalalabad,39,25,10,SE,0.8,46,13,1003
+2019-08-01,Afghanistan,Jalalabad,37,24,12,ESE,2.0,57,17,1003
 2019-08-02,Afghanistan,Jalalabad,37,22,10,SE,3.6,55,15,1003
 2019-08-03,Afghanistan,Jalalabad,37,23,10,ESE,1.7,49,10,1004
 2019-08-04,Afghanistan,Jalalabad,39,24,7,SE,0.7,45,7,1003
@@ -3895,7 +3895,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-09-01,Afghanistan,Jalalabad,37,24,7,SSE,4.8,41,18,1006
 2019-09-02,Afghanistan,Jalalabad,36,23,8,ESE,1.1,46,11,1007
 2019-09-03,Afghanistan,Jalalabad,37,23,7,SE,0.4,49,11,1005
-2019-09-04,Afghanistan,Jalalabad,37,24,6,SSE,4.9,46,12,1005
+2019-09-04,Afghanistan,Jalalabad,37,23,7,SE,0.4,49,11,1005
 2019-09-05,Afghanistan,Jalalabad,37,24,4,SSW,4.4,44,10,1006
 2019-09-06,Afghanistan,Jalalabad,39,23,3,SSW,3.5,36,4,1005
 2019-09-07,Afghanistan,Jalalabad,36,22,6,S,1.1,34,5,1006
@@ -3964,7 +3964,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-11-09,Afghanistan,Jalalabad,25,14,4,WSW,0.0,33,0,1021
 2019-11-10,Afghanistan,Jalalabad,23,15,3,WSW,0.0,23,1,1018
 2019-11-11,Afghanistan,Jalalabad,24,16,2,W,0.0,24,8,1017
-2019-11-12,Afghanistan,Jalalabad,24,16,2,W,0.0,24,8,1017
+2019-11-12,Afghanistan,Jalalabad,23,13,3,W,0.0,26,56,1018
 2019-11-13,Afghanistan,Jalalabad,24,15,2,SSW,0.0,36,11,1020
 2019-11-14,Afghanistan,Jalalabad,21,11,6,W,2.3,50,41,1021
 2019-11-15,Afghanistan,Jalalabad,16,9,4,SSW,5.2,70,77,1021
@@ -3983,7 +3983,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-11-28,Afghanistan,Jalalabad,17,9,3,W,0.0,40,4,1022
 2019-11-29,Afghanistan,Jalalabad,18,8,6,WNW,0.0,29,1,1023
 2019-11-30,Afghanistan,Jalalabad,17,6,4,WNW,0.0,23,7,1022
-2019-12-01,Afghanistan,Jalalabad,17,6,4,WNW,0.0,23,7,1022
+2019-12-01,Afghanistan,Jalalabad,20,7,5,WNW,0.0,25,6,1021
 2019-12-02,Afghanistan,Jalalabad,21,9,4,W,0.0,30,0,1021
 2019-12-03,Afghanistan,Jalalabad,19,11,2,WSW,0.0,29,22,1019
 2019-12-04,Afghanistan,Jalalabad,22,10,2,WSW,0.0,27,1,1021
@@ -3996,7 +3996,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2019-12-11,Afghanistan,Jalalabad,14,7,2,SSW,0.1,63,13,1017
 2019-12-12,Afghanistan,Jalalabad,14,5,5,SW,0.4,60,57,1015
 2019-12-13,Afghanistan,Jalalabad,14,4,4,SE,0.0,62,16,1014
-2019-12-14,Afghanistan,Jalalabad,14,4,4,SE,0.0,62,16,1014
+2019-12-14,Afghanistan,Jalalabad,13,4,2,SE,4.1,73,25,1022
 2019-12-15,Afghanistan,Jalalabad,15,1,2,W,0.0,58,8,1024
 2019-12-16,Afghanistan,Jalalabad,16,2,4,W,0.0,32,3,1024
 2019-12-17,Afghanistan,Jalalabad,13,1,3,W,0.0,25,5,1023
@@ -4226,7 +4226,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-07-29,Afghanistan,Jalalabad,45,31,6,WSW,0.0,16,0,1004
 2020-07-30,Afghanistan,Jalalabad,44,31,5,SSW,0.0,16,0,1005
 2020-07-31,Afghanistan,Jalalabad,39,29,11,ESE,0.5,40,45,1004
-2020-08-01,Afghanistan,Jalalabad,39,29,11,ESE,0.5,40,45,1004
+2020-08-01,Afghanistan,Jalalabad,38,28,11,ESE,4.1,47,66,1004
 2020-08-02,Afghanistan,Jalalabad,39,28,6,SE,0.8,45,32,1003
 2020-08-03,Afghanistan,Jalalabad,40,30,6,SSE,1.0,40,35,999
 2020-08-04,Afghanistan,Jalalabad,43,31,4,SSW,1.6,33,36,998
@@ -4260,7 +4260,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-09-01,Afghanistan,Jalalabad,31,23,7,SE,0.7,57,44,1010
 2020-09-02,Afghanistan,Jalalabad,35,22,5,SSE,0.1,50,21,1011
 2020-09-03,Afghanistan,Jalalabad,34,25,8,SE,0.7,50,34,1012
-2020-09-04,Afghanistan,Jalalabad,39,26,5,S,0.4,39,23,1011
+2020-09-04,Afghanistan,Jalalabad,34,25,8,SE,0.7,50,34,1012
 2020-09-05,Afghanistan,Jalalabad,38,25,6,SE,0.1,48,19,1009
 2020-09-06,Afghanistan,Jalalabad,36,26,6,SE,0.3,47,31,1008
 2020-09-07,Afghanistan,Jalalabad,38,26,4,E,2.5,41,67,1009
@@ -4329,7 +4329,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-11-09,Afghanistan,Jalalabad,24,13,2,E,0.0,19,48,1018
 2020-11-10,Afghanistan,Jalalabad,25,13,2,SSW,0.0,24,28,1018
 2020-11-11,Afghanistan,Jalalabad,23,13,2,WSW,0.0,23,27,1021
-2020-11-12,Afghanistan,Jalalabad,23,13,2,WSW,0.0,23,27,1021
+2020-11-12,Afghanistan,Jalalabad,24,13,2,WSW,0.0,22,15,1022
 2020-11-13,Afghanistan,Jalalabad,23,14,4,SW,0.0,25,31,1021
 2020-11-14,Afghanistan,Jalalabad,14,12,5,SSW,14.4,66,73,1018
 2020-11-15,Afghanistan,Jalalabad,12,7,5,SW,16.9,78,70,1018
@@ -4348,7 +4348,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-11-28,Afghanistan,Jalalabad,19,11,4,WSW,0.0,24,32,1023
 2020-11-29,Afghanistan,Jalalabad,20,11,3,WSW,0.0,25,8,1021
 2020-11-30,Afghanistan,Jalalabad,21,13,2,SW,0.0,25,9,1019
-2020-12-01,Afghanistan,Jalalabad,21,13,2,SW,0.0,25,9,1019
+2020-12-01,Afghanistan,Jalalabad,22,12,2,SW,0.0,31,6,1021
 2020-12-02,Afghanistan,Jalalabad,23,16,3,W,0.0,31,0,1020
 2020-12-03,Afghanistan,Jalalabad,23,16,3,WSW,0.0,26,1,1017
 2020-12-04,Afghanistan,Jalalabad,19,10,2,SSW,0.0,31,27,1015
@@ -4361,7 +4361,7 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2020-12-11,Afghanistan,Jalalabad,16,8,3,W,0.0,34,28,1019
 2020-12-12,Afghanistan,Jalalabad,14,7,1,S,0.0,55,9,1018
 2020-12-13,Afghanistan,Jalalabad,15,9,2,W,2.1,56,51,1019
-2020-12-14,Afghanistan,Jalalabad,15,9,2,W,2.1,56,51,1019
+2020-12-14,Afghanistan,Jalalabad,9,4,10,W,9.2,74,70,1019
 2020-12-15,Afghanistan,Jalalabad,10,2,10,W,11.6,66,53,1024
 2020-12-16,Afghanistan,Jalalabad,12,3,7,WNW,0.0,32,1,1027
 2020-12-17,Afghanistan,Jalalabad,13,1,4,WNW,0.0,25,3,1023
@@ -4559,3 +4559,4 @@ Date,Country,City,Maximum_Temprature,Minimum_Temprature,Wind_Speed,Wind_Directio
 2021-06-27,Afghanistan,Jalalabad,39,23,9,SW,0.6,26,20,1004
 2021-06-28,Afghanistan,Jalalabad,41,26,5,S,0.2,22,27,1003
 2021-06-29,Afghanistan,Jalalabad,44,27,5,SSW,0.0,16,5,999
+2021-06-30,Afghanistan,Jalalabad,45,30,6,WSW,0.0,12,3,996
