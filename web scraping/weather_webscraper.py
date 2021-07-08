@@ -175,7 +175,7 @@ class WebScraper:
             df.drop(df.tail(1).index,inplace=True)
             df['maximum_temprature'] = df['maximum_temprature'].str.replace(' °c', '')
             df['minimum_temprature'] = df['minimum_temprature'].str.replace(' °c', '')
-            df['Wind_Speed'] = df['Wind_Speed'].str.replace(' km/h', '')
+            df['wind_speed'] = df['wind_speed'].str.replace(' km/h', '')
             df['amount_of_rain'] = df['amount_of_rain'].str.replace(' mm', '')
             df['humidity'] = df['humidity'].str.replace('%', '')
             df['cloud_coverage'] = df['cloud_coverage'].str.replace('%', '')
