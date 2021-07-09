@@ -19,14 +19,14 @@ Data scraping:
 Imported Libaries
 -----------   
 
-selenium import webdriver
-selenium.webdriver.common import keys
-selenium.webdriver.common.keys import Keys
-time import sleep
-datetime import timedelta, datetime
-pprint import pprint
-import pandas as pd
-import json
+1. selenium import webdriver
+2. selenium.webdriver.common import keys
+3. selenium.webdriver.common.keys import Keys
+4. time import sleep
+5. datetime import timedelta, datetime
+6. pprint import pprint
+7. import pandas as pd
+8. import json
 
 Amount of Data Scraped
 ----------------------
