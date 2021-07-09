@@ -3,9 +3,9 @@ Weather Web Scraper
 Project Goal
 ---------------
 
-the goal of
+The goal of this project was to collect historical weather data. Then the hope is to use various machine learning models to try and draw valuable insights from the large amount of data collected.
 
-Steps 
+Steps and python folders 
 -----------
 Data scraping:
 
@@ -16,5 +16,23 @@ Data scraping:
   * Python to aws.py
     1. This python file appends each csv file to the database on AWS.
 
-Summary
+Imported Libaries
 -----------   
+
+selenium import webdriver
+selenium.webdriver.common import keys
+selenium.webdriver.common.keys import Keys
+time import sleep
+datetime import timedelta, datetime
+pprint import pprint
+import pandas as pd
+import json
+
+Amount of Data Scraped
+----------------------
+
+* 387 cities have been scraped
+* Each city contains 12 years of weather data
+* 4,568 rows per city
+* 11 columns per city
+* A total of 1,767,816 rows x 11 columns
