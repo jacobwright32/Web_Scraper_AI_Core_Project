@@ -2,7 +2,9 @@ Weather Web Scraper
 =======
 Project Goal
 ---------------
+
 the goal of
+
 Steps 
 -----------
 Data scraping:
