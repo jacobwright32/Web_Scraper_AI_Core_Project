@@ -31,8 +31,8 @@ Imported Libaries
 Amount of Data Scraped
 ----------------------
 
-* 387 cities have been scraped
+* 560 cities have been scraped
 * Each city contains 12 years of weather data
 * 4,568 rows per city
 * 11 columns per city
-* A total of 1,767,816 rows x 11 columns
+* A total of 2,558,080 rows x 11 columns

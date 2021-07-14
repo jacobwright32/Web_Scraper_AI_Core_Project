@@ -13,7 +13,7 @@ from os.path import isfile, join
 mypath = 'Cleaned Data' 
 all_files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 print(all_files)
-
+df = pd.DataFrame(all_files)
 
 user = 'postgres' 
 password = 'rolypoly' 
@@ -23,14 +23,17 @@ db_name = 'postgres'
 db_string = f"postgresql://{user}:{password}@{host}:{port}/{db_name}" 
 x = 0
 y = len(all_files)
-db = create_engine(db_string) 
+db = create_engine(db_string)
 for file in all_files: 
     df = pd.read_csv('Cleaned Data/' + file)
-    df.to_sql('world_city_weather', db,if_exists='append', index=False)
+    df.to_sql('all_world_city_weather', db,if_exists='append', index=False)
     x += 1
     files_left = len(all_files) - x
     print('There are ' + str(files_left) + ' files_left')
-
+    df.drop(index=df.index[0], axis=0, inplace=True)
+    df.to_csv('files_left_to_upload.csv', 'w')
+    
+    
 # %%
 
 # %%
